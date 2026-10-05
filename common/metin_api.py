@@ -2,7 +2,6 @@
 
 Bulut kredisi bittiğinde ya da bulut görevi çalışmadığında elle/Actions'tan kullanılabilir:
   python -m common.metin_api derecefilm
-  python -m common.metin_api analizmaster
 Brief'i olup metni olmayan (bugün ve sonrası) günleri doldurur.
 """
 from __future__ import annotations

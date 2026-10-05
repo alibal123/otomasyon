@@ -1,4 +1,4 @@
-# Otomasyonlar: derecefilm + analizmaster
+# derecefilm otomasyonu
 
 Metinleri **Claude bulut görevleri** yazar (Claude hesabınızdaki "cloud session credits" kullanılır, API anahtarı gerekmez).
 Zamana duyarlı ve deterministik her şey (veri çekme, görsel üretimi, 20:00 paylaşımı) GitHub Actions'ta kalır.
@@ -9,13 +9,10 @@ Zamana duyarlı ve deterministik her şey (veri çekme, görsel üretimi, 20:00 
 | derecefilm-metin | **Bulut görevi** | Pazar 11:00 | — | Brief'lere metin yazar → `derecefilm/metin/` (push) |
 | derecefilm-2-gorsel-uretimi | Actions | metin push'unda + Pazar 14:00 kontrol | `0 11 * * 0` | Metni doğrular, görselleri üretir → `derecefilm/queue/` |
 | derecefilm-gunluk-paylasim | Actions | Her gün 20:00 | `30 16 * * *` (19:30'da başlar, 20:00'ı bekler) | O günün gönderisini Instagram'a paylaşır; telafi yok |
-| analizmaster-1-veri | Actions | Hafta içi 19:30 | `30 16 * * 1-5` | Gün sonu verisini çeker → `analizmaster/briefs/` (veri yoksa hata) |
-| analizmaster-metin | **Bulut görevi** | Hafta içi 19:45 | — | Burak'ın stilinde metin yazar → `analizmaster/metin/` (push) |
-| analizmaster-2-taslak | Actions | metin push'unda + 20:30 kontrol | `30 17 * * 1-5` | Tabloları kodla birleştirir, doğrular, issue (e-posta) açar. X'e paylaşım YOK |
 
 Türkiye yıl boyu UTC+3 olduğu için saat dönüşümü sabittir (20:00 TR = 17:00 UTC).
 Bulut görevlerinin talimatları: `bulut-gorevleri/`. Bulut görevi çalışmazsa/kredi biterse yedek yol:
-`ANTHROPIC_API_KEY` ekleyip `python -m common.metin_api derecefilm` (veya `analizmaster`) ile aynı metinler API ile yazılır.
+`ANTHROPIC_API_KEY` ekleyip `python -m common.metin_api derecefilm` ile aynı metinler API ile yazılır.
 
 ## Secrets (Settings → Secrets and variables → Actions)
 
@@ -24,7 +21,6 @@ Bulut görevlerinin talimatları: `bulut-gorevleri/`. Bulut görevi çalışmazs
 | `TMDB_TOKEN` | derecefilm | themoviedb.org → Ayarlar → API → "API Read Access Token" |
 | `IG_USER_ID` | derecefilm | Instagram Business hesap kimliği (aşağıda) |
 | `IG_ACCESS_TOKEN` | derecefilm | Süresiz Sayfa erişim jetonu (aşağıda) |
-| `EODHD_API_KEY` | analizmaster | eodhd.com (BIST/`IS` kapsayan plan) |
 | `ANTHROPIC_API_KEY` | yalnızca yedek yol | console.anthropic.com (şimdilik gerekmez) |
 
 Kodda hiçbir anahtar yoktur; hepsi ortam değişkeninden okunur. Bulut görevlerine hiçbir secret verilmez.
@@ -62,4 +58,3 @@ python -m derecefilm.dev_preview onizleme
 
 - TMDB verisi/posterleri için TMDB şartları geçerlidir (atıf: "Bu ürün TMDB API'sini kullanır, TMDB tarafından onaylanmamıştır"); ticari kullanım için lisans gerekir.
 - Instagram jeton/uygulama ayarları değişirse hata Actions logunda ve açılan issue'da görünür. Graph API sürümü `GRAPH_VERSION` ortam değişkeniyle değiştirilebilir (varsayılan `v23.0`).
-- analizmaster taslakları ve `ornek-yazilar/` içeriği depo public ise herkese açıktır.
