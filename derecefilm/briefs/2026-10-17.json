@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-17",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: suç filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 603692, \"title\": \"John Wick: Bölüm 4\", \"year\": \"2023\", \"overview\": \"Başına konan ödül giderek artarken John Wick, Yüksek Şura'yı alt etmenin bir yolunu bulur. Ancak özgürlüğünü kazanmadan önce Wick, dünya çapında güçlü ittifaklara ve eski dostları düşmana çeviren güçlere sahip yeni bir düşmanla yüzleşmek zorundadır.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Suç\"], \"vote\": 7.7}, {\"id\": 6075, \"title\": \"Carlito'nun Yolu\", \"year\": \"1993\", \"overview\": \"Bir zamanların büyük uyuşturucu baronlarından Carlito Brigante, kokain bağımlısı avukatı tarafından bir teknik hata sonucu hapisten çıkarıldığı zaman, yeni bir başlangıç yapmaya kararlıdır. Artık \\\"kirli\\\" işlerden elini eteğini çektiğini ilan ederek yeraltı dünyasını altüst eden Brigante, ikinci sınıf bir gece kulübünün idaresini ele alır, eski kız arkadaşıyla bir araya gelir ve kendine yeni bir hayat kurmaya başlar. Ama attığı her adımda karşısına çıkan eski ortakları ve isim yapmaya çalışan genç suçlular onu yoldan çelmeye kararlı gibidir...  Tüm iyi niyetlerine rağmen, Brigante'nin kimi zaman yersiz sadakati ve eski moda \\\"onuru\\\" onu, peşini bırakmamaya kararlı görünen geçmişiyle vahşet dolu bir ölüm - kalım savaşına sürükleyecektir...\", \"genres\": [\"Suç\", \"Dram\", \"Gerilim\"], \"vote\": 7.8}, {\"id\": 793, \"title\": \"Mavi Kadife\", \"year\": \"1986\", \"overview\": \"Son derece sakin gözüken bir Amerika kasabasında yaşayan Beaumont ailesi, babalarının geçirdiği krizle sarsılır. Oğul Jeffrey, babasını götürdüğü hastanenin dönüşünde eve doğru ilerlerken çimlerin üzerinde bir cisimle karşılaşır: Bu, bir insan kulağıdır. Kulağın kime ait olduğunu bulmaya çalışan ve bunu bir takıntı haline getiren Jeffrey'in yolu, histerik ama son derece etkileyici bir kadın olan Dorothy'ye çıkacaktır. Bir gece klubünde şarkıcılık yapan Dorothy, Jeffrey'e olayların düğümünün yeraltı dünyasının ünlü isimlerinden biri olan Frank ile çözüleceğini gösterecektir. Ancak Dorothy ne kadar güvenilirdir?\", \"genres\": [\"Gizem\", \"Gerilim\", \"Suç\"], \"vote\": 7.6}, {\"id\": 107, \"title\": \"Kapışma\", \"year\": \"2000\", \"overview\": \"Benicio Del Toro ve gangster/detektif filmlerinin demirbaşı Dennis Farrina'yı biraraya getiren film şu sloganla tanıtılıyor: Kemikler kırılıyor, elmaslar çalınıyor. Boks dünyasında kaçak iş çeviren Turkish adlı adam, namlı suçlu Brick Top'la hileli bir boks maçı için anlaşınca başına büyük bela alır. Öte yandan, başarısız bir mücevher soygunu ardından garip gelişmeler yaşanmaktadır. Garip bir biçimde iki olay birbirine karışarak ilerler ve kahramanlar için olmasa da bizim için eğlendirici bir curcuna çıkar ortaya.\", \"genres\": [\"Suç\", \"Komedi\"], \"vote\": 7.8}, {\"id\": 49026, \"title\": \"Kara Şövalye Yükseliyor\", \"year\": \"2012\", \"overview\": \"Bölge Başsavcısı Harvey Dent'in ölümünün ardından Batman, savcının itibarının zedelenmemesi için Dent'in işlediği suçlardaki sorumluluğunu üstlenmiştir ve bundan dolayı Gotham Polis Teşkilatı tarafından aranmaktadır. 8 yıl sonra Batman, gizemli kadın Selina Kyle ve Gotham polislerini köşeye sıkıştıran yeni suç örgütü lideri acımasız Bane ile karşılaşmıştır. Kara Şövalye, kendisini düşman olarak gören şehrini korumak için bir kez daha ortaya çıkmıştır.\", \"genres\": [\"Aksiyon\", \"Suç\", \"Dram\", \"Gerilim\"], \"vote\": 7.8}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 603692,
+      "title": "John Wick: Bölüm 4",
+      "original_title": "John Wick: Chapter 4",
+      "year": "2023",
+      "release_date": "2023-03-21",
+      "overview": "Başına konan ödül giderek artarken John Wick, Yüksek Şura'yı alt etmenin bir yolunu bulur. Ancak özgürlüğünü kazanmadan önce Wick, dünya çapında güçlü ittifaklara ve eski dostları düşmana çeviren güçlere sahip yeni bir düşmanla yüzleşmek zorundadır.",
+      "tagline": "Geri dönüş yok, tek çıkış var.",
+      "runtime": 170,
+      "vote": 7.7,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Suç"
+      ],
+      "director": "Chad Stahelski",
+      "cast": [
+        "Keanu Reeves",
+        "Donnie Yen",
+        "Bill Skarsgård",
+        "Ian McShane",
+        "Laurence Fishburne"
+      ],
+      "poster_path": "/6jS780bEkQRPLEPWvZ0MGQ0EI4j.jpg"
+    },
+    {
+      "id": 6075,
+      "title": "Carlito'nun Yolu",
+      "original_title": "Carlito's Way",
+      "year": "1993",
+      "release_date": "1993-11-10",
+      "overview": "Bir zamanların büyük uyuşturucu baronlarından Carlito Brigante, kokain bağımlısı avukatı tarafından bir teknik hata sonucu hapisten çıkarıldığı zaman, yeni bir başlangıç yapmaya kararlıdır. Artık \"kirli\" işlerden elini eteğini çektiğini ilan ederek yeraltı dünyasını altüst eden Brigante, ikinci sınıf bir gece kulübünün idaresini ele alır, eski kız arkadaşıyla bir araya gelir ve kendine yeni bir hayat kurmaya başlar. Ama attığı her adımda karşısına çıkan eski ortakları ve isim yapmaya çalışan genç suçlular onu yoldan çelmeye kararlı gibidir...  Tüm iyi niyetlerine rağmen, Brigante'nin kimi zaman yersiz sadakati ve eski moda \"onuru\" onu, peşini bırakmamaya kararlı görünen geçmişiyle vahşet dolu bir ölüm - kalım savaşına sürükleyecektir...",
+      "tagline": "Gelecek haftayı atlatabilirse iyi bir geleceği var.",
+      "runtime": 144,
+      "vote": 7.8,
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gerilim"
+      ],
+      "director": "Brian De Palma",
+      "cast": [
+        "Al Pacino",
+        "Sean Penn",
+        "Penelope Ann Miller",
+        "John Leguizamo",
+        "Ingrid Rogers"
+      ],
+      "poster_path": "/6avzW7CVNHNUptEvzOeL9cSdtwc.jpg"
+    },
+    {
+      "id": 793,
+      "title": "Mavi Kadife",
+      "original_title": "Blue Velvet",
+      "year": "1986",
+      "release_date": "1986-09-19",
+      "overview": "Son derece sakin gözüken bir Amerika kasabasında yaşayan Beaumont ailesi, babalarının geçirdiği krizle sarsılır. Oğul Jeffrey, babasını götürdüğü hastanenin dönüşünde eve doğru ilerlerken çimlerin üzerinde bir cisimle karşılaşır: Bu, bir insan kulağıdır. Kulağın kime ait olduğunu bulmaya çalışan ve bunu bir takıntı haline getiren Jeffrey'in yolu, histerik ama son derece etkileyici bir kadın olan Dorothy'ye çıkacaktır. Bir gece klubünde şarkıcılık yapan Dorothy, Jeffrey'e olayların düğümünün yeraltı dünyasının ünlü isimlerinden biri olan Frank ile çözüleceğini gösterecektir. Ancak Dorothy ne kadar güvenilirdir?",
+      "tagline": "",
+      "runtime": 120,
+      "vote": 7.6,
+      "genres": [
+        "Gizem",
+        "Gerilim",
+        "Suç"
+      ],
+      "director": "David Lynch",
+      "cast": [
+        "Isabella Rossellini",
+        "Kyle MacLachlan",
+        "Dennis Hopper",
+        "Laura Dern",
+        "Hope Lange"
+      ],
+      "poster_path": "/hPxNKEoDN2L7opMitC3TfvYvU4K.jpg"
+    },
+    {
+      "id": 107,
+      "title": "Kapışma",
+      "original_title": "Snatch",
+      "year": "2000",
+      "release_date": "2000-09-01",
+      "overview": "Benicio Del Toro ve gangster/detektif filmlerinin demirbaşı Dennis Farrina'yı biraraya getiren film şu sloganla tanıtılıyor: Kemikler kırılıyor, elmaslar çalınıyor. Boks dünyasında kaçak iş çeviren Turkish adlı adam, namlı suçlu Brick Top'la hileli bir boks maçı için anlaşınca başına büyük bela alır. Öte yandan, başarısız bir mücevher soygunu ardından garip gelişmeler yaşanmaktadır. Garip bir biçimde iki olay birbirine karışarak ilerler ve kahramanlar için olmasa da bizim için eğlendirici bir curcuna çıkar ortaya.",
+      "tagline": "",
+      "runtime": 103,
+      "vote": 7.8,
+      "genres": [
+        "Suç",
+        "Komedi"
+      ],
+      "director": "Guy Ritchie",
+      "cast": [
+        "Jason Statham",
+        "Alan Ford",
+        "Stephen Graham",
+        "Brad Pitt",
+        "Dennis Farina"
+      ],
+      "poster_path": "/26Pdbk6iNjNiHi1KnSoytCKnTSQ.jpg"
+    },
+    {
+      "id": 49026,
+      "title": "Kara Şövalye Yükseliyor",
+      "original_title": "The Dark Knight Rises",
+      "year": "2012",
+      "release_date": "2012-07-17",
+      "overview": "Bölge Başsavcısı Harvey Dent'in ölümünün ardından Batman, savcının itibarının zedelenmemesi için Dent'in işlediği suçlardaki sorumluluğunu üstlenmiştir ve bundan dolayı Gotham Polis Teşkilatı tarafından aranmaktadır. 8 yıl sonra Batman, gizemli kadın Selina Kyle ve Gotham polislerini köşeye sıkıştıran yeni suç örgütü lideri acımasız Bane ile karşılaşmıştır. Kara Şövalye, kendisini düşman olarak gören şehrini korumak için bir kez daha ortaya çıkmıştır.",
+      "tagline": "Efsane sona eriyor.",
+      "runtime": 165,
+      "vote": 7.8,
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Dram",
+        "Gerilim"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Gary Oldman",
+        "Tom Hardy",
+        "Joseph Gordon-Levitt",
+        "Anne Hathaway"
+      ],
+      "poster_path": "/jtB2vPm7Drpw0AToSxKIcxjRcgC.jpg"
+    }
+  ]
+}

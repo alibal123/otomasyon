@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-16",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1375441, \"title\": \"Primetime\", \"release_date\": \"2026-10-23\", \"overview\": \"2006 yılında, \\\"To Catch a Predator\\\" programının sunucusu Chris Hansen televizyon tarihine geçmek için yola çıkar. Ahlaki bir mücadele olarak başlayan program, hırs ve reyting takıntısıyla kontrolden çıkan bir güç oyununa dönüşür. Hansen ve ekibi, büyük bir \\\"av\\\" peşinde Teksas'a gittiğinde yaşananlar televizyonu sonsuza dek değiştirecektir.\", \"genres\": [\"Suç\", \"Dram\", \"Gerilim\"], \"director\": \"Lance Oppenheim\"}, {\"id\": 1153576, \"title\": \"Street Fighter\", \"release_date\": \"2026-10-16\", \"overview\": \"Yıl 1993. Ryu ve Ken için eski defterler açılıyor. Chun-Li’nin gizemli davetiyle World Warrior turnuvasına dönen ikili, sadece rakipleriyle değil, birbirleriyle ve geçmişin karanlığıyla da savaşmak zorunda. Ya bu ölümcül komployu bozacaklar ya da GAME OVER!\", \"genres\": [\"Aksiyon\", \"Fantastik\"], \"director\": \"Kitao Sakurai\"}, {\"id\": 1400940, \"title\": \"Clayface\", \"release_date\": \"2026-10-23\", \"overview\": \"Matt Hagen’ın Gotham sokaklarından Hollywood’un başrollerine uzanan hızlı yükselişi, yerel bir suç baronunun hamlesiyle korkunç şekilde tanınmaz hale gelmesi sonucu yarıda kesilir. Ekibi tarafından yüzüstü bırakılan ve tutunacak hiçbir şeyi kalmayan Matt, kendisini mucizevi bir şekilde eski haline getireceğine inandığı son teknoloji bir tedavinin peşine düşer. Ancak bu tedavi beklenmedik bir şekilde gerçeklikle olan bağını koparmaya başlar ve onu, önüne çıkan her şeyi yutan yıkıcı bir intikam sarmalına sürükler.\", \"genres\": [\"Korku\", \"Gerilim\", \"Bilim-Kurgu\"], \"director\": \"James Watkins\"}, {\"id\": 1255833, \"title\": \"Balina Düşüşü\", \"release_date\": \"2026-10-16\", \"overview\": \"Babasının kalıntılarını aramak için dalış yapan Jay Gardiner, dev bir ispermeçet balinası tarafından yutulur ve oksijeni tükenmeden balinadan kurtulmaya çalışır.\", \"genres\": [\"Gerilim\"], \"director\": \"Brian Duffield\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1375441,
+      "title": "Primetime",
+      "original_title": "Primetime",
+      "year": "2026",
+      "release_date": "2026-10-23",
+      "overview": "2006 yılında, \"To Catch a Predator\" programının sunucusu Chris Hansen televizyon tarihine geçmek için yola çıkar. Ahlaki bir mücadele olarak başlayan program, hırs ve reyting takıntısıyla kontrolden çıkan bir güç oyununa dönüşür. Hansen ve ekibi, büyük bir \"av\" peşinde Teksas'a gittiğinde yaşananlar televizyonu sonsuza dek değiştirecektir.",
+      "tagline": "",
+      "runtime": 110,
+      "vote": 6.8,
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gerilim"
+      ],
+      "director": "Lance Oppenheim",
+      "cast": [
+        "Robert Pattinson",
+        "Skyler Gisondo",
+        "Merritt Wever",
+        "Phoebe Bridgers",
+        "Matthew Maher"
+      ],
+      "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+    },
+    {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "original_title": "Street Fighter",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "overview": "Yıl 1993. Ryu ve Ken için eski defterler açılıyor. Chun-Li’nin gizemli davetiyle World Warrior turnuvasına dönen ikili, sadece rakipleriyle değil, birbirleriyle ve geçmişin karanlığıyla da savaşmak zorunda. Ya bu ölümcül komployu bozacaklar ya da GAME OVER!",
+      "tagline": "DÖVÜŞ!",
+      "runtime": 120,
+      "vote": 0,
+      "genres": [
+        "Aksiyon",
+        "Fantastik"
+      ],
+      "director": "Kitao Sakurai",
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "Joe Anoa'i",
+        "David Dastmalchian"
+      ],
+      "poster_path": "/p7rhLltWk0wx6cNB0uPl95wPTUG.jpg"
+    },
+    {
+      "id": 1400940,
+      "title": "Clayface",
+      "original_title": "Clayface",
+      "year": "2026",
+      "release_date": "2026-10-23",
+      "overview": "Matt Hagen’ın Gotham sokaklarından Hollywood’un başrollerine uzanan hızlı yükselişi, yerel bir suç baronunun hamlesiyle korkunç şekilde tanınmaz hale gelmesi sonucu yarıda kesilir. Ekibi tarafından yüzüstü bırakılan ve tutunacak hiçbir şeyi kalmayan Matt, kendisini mucizevi bir şekilde eski haline getireceğine inandığı son teknoloji bir tedavinin peşine düşer. Ancak bu tedavi beklenmedik bir şekilde gerçeklikle olan bağını koparmaya başlar ve onu, önüne çıkan her şeyi yutan yıkıcı bir intikam sarmalına sürükler.",
+      "tagline": "Gotham'ın yeni yüzü ile tanışın.",
+      "runtime": 108,
+      "vote": 0,
+      "genres": [
+        "Korku",
+        "Gerilim",
+        "Bilim-Kurgu"
+      ],
+      "director": "James Watkins",
+      "cast": [
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "Eddie Marsan",
+        "Max Minghella",
+        "David Dencik"
+      ],
+      "poster_path": "/1Xkpx33q2wZ9DEfdJbz1l1id00A.jpg"
+    },
+    {
+      "id": 1255833,
+      "title": "Balina Düşüşü",
+      "original_title": "Whalefall",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "overview": "Babasının kalıntılarını aramak için dalış yapan Jay Gardiner, dev bir ispermeçet balinası tarafından yutulur ve oksijeni tükenmeden balinadan kurtulmaya çalışır.",
+      "tagline": "Nefesini tut.",
+      "runtime": 98,
+      "vote": 0,
+      "genres": [
+        "Gerilim"
+      ],
+      "director": "Brian Duffield",
+      "cast": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy"
+      ],
+      "poster_path": "/uIkjsuUOMnliwh0l7OorEbzCvdz.jpg"
+    }
+  ]
+}

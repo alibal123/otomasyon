@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-12",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: macera filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 38757, \"title\": \"Karmakarışık\", \"year\": \"2010\", \"overview\": \"Krallığın en çok aranan, en cazibeli haydutu Flynn Rider, Rapunzel tarafından rehin alınınca bu alışılmadık ikilinin komik macerası başlar.\", \"genres\": [\"Animasyon\", \"Aile\", \"Macera\"], \"vote\": 7.6}, {\"id\": 19995, \"title\": \"Avatar\", \"year\": \"2009\", \"overview\": \"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir.\", \"genres\": [\"Bilim-Kurgu\", \"Aksiyon\", \"Macera\"], \"vote\": 7.6}, {\"id\": 1084242, \"title\": \"Zootropolis 2\", \"year\": \"2025\", \"overview\": \"Dedektif Judy Hopps ve Nick Wilde, Zootropolis'e gelen ve memeli metropolünü alt üst eden gizemli bir sürüngenin karmaşık izini sürüyor.\", \"genres\": [\"Animasyon\", \"Macera\", \"Komedi\", \"Gizem\", \"Aile\"], \"vote\": 7.7}, {\"id\": 381289, \"title\": \"Can Dostum\", \"year\": \"2017\", \"overview\": \"Yaşamlarının kıymetini sadık bir köpek sayesine anlayan farklı insanların öyküsünü anlatan A Dog's Purpose, drama severleri memnun edecek gibi gözüküyor. W. Bruce Cameron’ın 2010 yılında yayınlanan aynı adlı romanından uyarlan filmin senaryosu Cathryn Michon tarafından kaleme alındı. İsveçli efsanevi sinemacı Lasse Hallström'ün yönetiği film, doknaklı konusuyla dikkat çekiyor.\", \"genres\": [\"Macera\", \"Fantastik\", \"Aile\", \"Dram\"], \"vote\": 7.6}, {\"id\": 508439, \"title\": \"Hadi Gidelim\", \"year\": \"2020\", \"overview\": \"Küçük yaşta babalarını kaybeden iki genç elf kardeşin hikâyesi. Kardeşler, hatırlamakta zorlandıkları babaları ile son bir gün geçirme fırsatları olduğunu öğrenirler. Dünyada var olan bir büyü, onların babalarıyla kavuşmalarını sağlayacaktır. Kardeşler, bu fırsatı kaçırmamak için büyüye sahip olmanın yolunu bulmalıdır. Kardeşler, büyüye ulaşıp babalarını son bir kez görebilme imkânını bulabilecekler midir?\", \"genres\": [\"Macera\", \"Animasyon\", \"Komedi\", \"Aile\", \"Fantastik\"], \"vote\": 7.6}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 38757,
+      "title": "Karmakarışık",
+      "original_title": "Tangled",
+      "year": "2010",
+      "release_date": "2010-11-24",
+      "overview": "Krallığın en çok aranan, en cazibeli haydutu Flynn Rider, Rapunzel tarafından rehin alınınca bu alışılmadık ikilinin komik macerası başlar.",
+      "tagline": "",
+      "runtime": 100,
+      "vote": 7.6,
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Macera"
+      ],
+      "director": "Byron Howard",
+      "cast": [
+        "Mandy Moore",
+        "Zachary Levi",
+        "Donna Murphy",
+        "Ron Perlman",
+        "M.C. Gainey"
+      ],
+      "poster_path": "/64lvymVMSKcg2ZVB5WQyEzQkmrY.jpg"
+    },
+    {
+      "id": 19995,
+      "title": "Avatar",
+      "original_title": "Avatar",
+      "year": "2009",
+      "release_date": "2009-12-16",
+      "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir.",
+      "tagline": "Yeni bir Dünyaya hoş geldiniz.",
+      "runtime": 162,
+      "vote": 7.6,
+      "genres": [
+        "Bilim-Kurgu",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "James Cameron",
+      "cast": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Michelle Rodriguez"
+      ],
+      "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
+    },
+    {
+      "id": 1084242,
+      "title": "Zootropolis 2",
+      "original_title": "Zootopia 2",
+      "year": "2025",
+      "release_date": "2025-11-26",
+      "overview": "Dedektif Judy Hopps ve Nick Wilde, Zootropolis'e gelen ve memeli metropolünü alt üst eden gizemli bir sürüngenin karmaşık izini sürüyor.",
+      "tagline": "Onları özlediniz mi? 🐰🦊🐍",
+      "runtime": 108,
+      "vote": 7.7,
+      "genres": [
+        "Animasyon",
+        "Macera",
+        "Komedi",
+        "Gizem",
+        "Aile"
+      ],
+      "director": "Jared Bush",
+      "cast": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan",
+        "Fortune Feimster",
+        "Andy Samberg"
+      ],
+      "poster_path": "/xdvMX5L7bdonl2geaXL3laTCSr2.jpg"
+    },
+    {
+      "id": 381289,
+      "title": "Can Dostum",
+      "original_title": "A Dog's Purpose",
+      "year": "2017",
+      "release_date": "2017-01-19",
+      "overview": "Yaşamlarının kıymetini sadık bir köpek sayesine anlayan farklı insanların öyküsünü anlatan A Dog's Purpose, drama severleri memnun edecek gibi gözüküyor. W. Bruce Cameron’ın 2010 yılında yayınlanan aynı adlı romanından uyarlan filmin senaryosu Cathryn Michon tarafından kaleme alındı. İsveçli efsanevi sinemacı Lasse Hallström'ün yönetiği film, doknaklı konusuyla dikkat çekiyor.",
+      "tagline": "",
+      "runtime": 100,
+      "vote": 7.6,
+      "genres": [
+        "Macera",
+        "Fantastik",
+        "Aile",
+        "Dram"
+      ],
+      "director": "Lasse Hallström",
+      "cast": [
+        "Josh Gad",
+        "KJ Apa",
+        "Britt Robertson",
+        "Juliet Rylance",
+        "Luke Kirby"
+      ],
+      "poster_path": "/3jcNvhtVQe5Neoffdic39fRactM.jpg"
+    },
+    {
+      "id": 508439,
+      "title": "Hadi Gidelim",
+      "original_title": "Onward",
+      "year": "2020",
+      "release_date": "2020-02-29",
+      "overview": "Küçük yaşta babalarını kaybeden iki genç elf kardeşin hikâyesi. Kardeşler, hatırlamakta zorlandıkları babaları ile son bir gün geçirme fırsatları olduğunu öğrenirler. Dünyada var olan bir büyü, onların babalarıyla kavuşmalarını sağlayacaktır. Kardeşler, bu fırsatı kaçırmamak için büyüye sahip olmanın yolunu bulmalıdır. Kardeşler, büyüye ulaşıp babalarını son bir kez görebilme imkânını bulabilecekler midir?",
+      "tagline": "Görevleri başlıyor.",
+      "runtime": 102,
+      "vote": 7.6,
+      "genres": [
+        "Macera",
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Fantastik"
+      ],
+      "director": "Dan Scanlon",
+      "cast": [
+        "Tom Holland",
+        "Chris Pratt",
+        "Julia Louis-Dreyfus",
+        "Octavia Spencer",
+        "Mel Rodriguez"
+      ],
+      "poster_path": "/jP3ju3i6J7RqTUw0Ug1CJyAGGwC.jpg"
+    }
+  ]
+}

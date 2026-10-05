@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-18",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Demir Dev\", \"year\": \"1999\", \"overview\": \"1958 yılında dev bir robot, Amerika’nın Maine eyaletinin küçük bir kasabasına düşer ve çevre halkını dehşete düşürür. Bir gün Hogarth adında 9 yaşında bir çocukla arkadaş olur ve bu arkadaşlık ona insaniyet ve cömertlik kavramlarını kazandırır.\", \"tagline\": \"\", \"genres\": [\"Animasyon\", \"Dram\", \"Aile\", \"Bilim-Kurgu\", \"Macera\"], \"director\": \"Brad Bird\", \"cast\": [\"Jennifer Aniston\", \"Harry Connick Jr.\", \"Vin Diesel\", \"James Gammon\", \"Cloris Leachman\"], \"runtime\": 86, \"vote\": 8.0}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 10386,
+      "title": "Demir Dev",
+      "original_title": "The Iron Giant",
+      "year": "1999",
+      "release_date": "1999-08-06",
+      "overview": "1958 yılında dev bir robot, Amerika’nın Maine eyaletinin küçük bir kasabasına düşer ve çevre halkını dehşete düşürür. Bir gün Hogarth adında 9 yaşında bir çocukla arkadaş olur ve bu arkadaşlık ona insaniyet ve cömertlik kavramlarını kazandırır.",
+      "tagline": "",
+      "runtime": 86,
+      "vote": 8.0,
+      "genres": [
+        "Animasyon",
+        "Dram",
+        "Aile",
+        "Bilim-Kurgu",
+        "Macera"
+      ],
+      "director": "Brad Bird",
+      "cast": [
+        "Jennifer Aniston",
+        "Harry Connick Jr.",
+        "Vin Diesel",
+        "James Gammon",
+        "Cloris Leachman"
+      ],
+      "poster_path": "/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg"
+    }
+  ]
+}

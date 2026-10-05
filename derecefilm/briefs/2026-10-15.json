@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-15",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Kurtuluş Projesi",
+      "Esaretin Bedeli",
+      "Forrest Gump"
+    ],
+    "dogru_index": 0
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Kurtuluş Projesi\", \"year\": \"2026\", \"overview\": \"Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir.\", \"tagline\": \"Beklenmedik bir dostluk. İmkansız bir görev.\", \"director\": \"Phil Lord\", \"cast\": [\"Ryan Gosling\", \"Sandra Hüller\", \"James Ortiz\", \"Lionel Boyce\", \"Milana Vayntrub\"], \"genres\": [\"Bilim-Kurgu\", \"Macera\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Kurtuluş Projesi\", \"Esaretin Bedeli\", \"Forrest Gump\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 687163,
+      "title": "Kurtuluş Projesi",
+      "original_title": "Project Hail Mary",
+      "year": "2026",
+      "release_date": "2026-03-15",
+      "overview": "Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir.",
+      "tagline": "Beklenmedik bir dostluk. İmkansız bir görev.",
+      "runtime": 157,
+      "vote": 8.6,
+      "genres": [
+        "Bilim-Kurgu",
+        "Macera"
+      ],
+      "director": "Phil Lord",
+      "cast": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub"
+      ],
+      "poster_path": "/suFNqtGOi0BsBI3uJPKkDXCwgVI.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "year": "1994",
+      "release_date": "1994-06-23",
+      "overview": "Forrest Gump, düşük IQ’su olmasına rağmen, Amerikan tarihinin en önemli olaylarının tam ortasında yer alan biridir. Alabama'da büyüyen Forrest, koşma yeteneği sayesinde üniversiteye girer, Vietnam Savaşı'na katılır, Beyaz Saray’a davet edilir ve karides işinden milyoner olur. Ancak tüm bu başarılar, çocukluk aşkı Jenny’ye duyduğu sevginin yanında sönük kalır.",
+      "tagline": "Hayat bir kutu çikolata gibidir... İçinden ne çıkacağını hiçbir zaman bilemezsin.",
+      "runtime": 142,
+      "vote": 8.5,
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise",
+        "Sally Field",
+        "Mykelti Williamson"
+      ],
+      "poster_path": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
+    },
+    {
+      "id": 278,
+      "title": "Esaretin Bedeli",
+      "original_title": "The Shawshank Redemption",
+      "year": "1994",
+      "release_date": "1994-09-23",
+      "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler.",
+      "tagline": "Korku seni esir tutabilir. Umut seni özgür bırakabilir.",
+      "runtime": 142,
+      "vote": 8.7,
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "director": "Frank Darabont",
+      "cast": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler",
+        "Clancy Brown"
+      ],
+      "poster_path": "/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 687163,
+    "title": "Kurtuluş Projesi",
+    "original_title": "Project Hail Mary",
+    "year": "2026",
+    "release_date": "2026-03-15",
+    "overview": "Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir.",
+    "tagline": "Beklenmedik bir dostluk. İmkansız bir görev.",
+    "runtime": 157,
+    "vote": 8.6,
+    "genres": [
+      "Bilim-Kurgu",
+      "Macera"
+    ],
+    "director": "Phil Lord",
+    "cast": [
+      "Ryan Gosling",
+      "Sandra Hüller",
+      "James Ortiz",
+      "Lionel Boyce",
+      "Milana Vayntrub"
+    ],
+    "poster_path": "/suFNqtGOi0BsBI3uJPKkDXCwgVI.jpg"
+  }
+}

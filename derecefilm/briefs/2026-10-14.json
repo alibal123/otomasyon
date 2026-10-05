@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-14",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Toprağın Tuzu\", \"year\": \"2014\", \"overview\": \"Fotoğraf sanatçısı ve kaşif Sebastião Salgado, kırk yıl boyunca insanlığın her daim değişime uğrayan karakterinin izini sürüp dünyanın yakın tarihte deneyimlediği açlık, göç ve uluslararası anlaşmazlıklar gibi önemli olaylara tanık olmuş ve bunları ölümsüzleştirmişti. Sanatçı bu kez modern uygarlık tarafından henüz zarar görmemiş toprakların keşfine çıkıp Vrangel Adası, Batı Papua ve Brezilya'nın Panatanal bölgesi gibi yerlerde sıradışı çekimler yapıyor. Belgesel, bir fotoğrafçının oğluyla çalışma ilişkisine ve Salgadoların aile yaşantısına da değinen dokunaklı bir çalışma.\", \"tagline\": \"Sebastião Salgado ile bir yolculuk.\", \"genres\": [\"Belgesel\"], \"director\": \"Juliano Ribeiro Salgado\", \"cast\": [\"Sebastião Salgado\", \"Wim Wenders\", \"Juliano Ribeiro Salgado\", \"Hugo Barbier\", \"Lélia Wanick Salgado\"], \"runtime\": 110, \"vote\": 8.1}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 265297,
+      "title": "Toprağın Tuzu",
+      "original_title": "Le sel de la terre",
+      "year": "2014",
+      "release_date": "2014-08-29",
+      "overview": "Fotoğraf sanatçısı ve kaşif Sebastião Salgado, kırk yıl boyunca insanlığın her daim değişime uğrayan karakterinin izini sürüp dünyanın yakın tarihte deneyimlediği açlık, göç ve uluslararası anlaşmazlıklar gibi önemli olaylara tanık olmuş ve bunları ölümsüzleştirmişti. Sanatçı bu kez modern uygarlık tarafından henüz zarar görmemiş toprakların keşfine çıkıp Vrangel Adası, Batı Papua ve Brezilya'nın Panatanal bölgesi gibi yerlerde sıradışı çekimler yapıyor. Belgesel, bir fotoğrafçının oğluyla çalışma ilişkisine ve Salgadoların aile yaşantısına da değinen dokunaklı bir çalışma.",
+      "tagline": "Sebastião Salgado ile bir yolculuk.",
+      "runtime": 110,
+      "vote": 8.1,
+      "genres": [
+        "Belgesel"
+      ],
+      "director": "Juliano Ribeiro Salgado",
+      "cast": [
+        "Sebastião Salgado",
+        "Wim Wenders",
+        "Juliano Ribeiro Salgado",
+        "Hugo Barbier",
+        "Lélia Wanick Salgado"
+      ],
+      "poster_path": "/6RVPslv3sczhPvF3H8h7NM3jz5W.jpg"
+    }
+  ]
+}

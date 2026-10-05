@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-13",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Terminatör\", \"year\": \"1984\", \"overview\": \"1984 yılında, doğmamış oğlu gelecekte insanlığın kurtuluşu olacak genç bir kadını öldürmek için 2029 yılından yok edilemez bir cyborg yollanır. Genç kadının ve insanlığın tek umudu 2029 yılından gelen genç bir askerdir.\", \"tagline\": \"Geleceğin onun ellerinde.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Bilim-Kurgu\"], \"director\": \"James Cameron\", \"cast\": [\"Arnold Schwarzenegger\", \"Michael Biehn\", \"Linda Hamilton\", \"Paul Winfield\", \"Lance Henriksen\"], \"runtime\": 108, \"vote\": 7.7}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 218,
+      "title": "Terminatör",
+      "original_title": "The Terminator",
+      "year": "1984",
+      "release_date": "1984-10-26",
+      "overview": "1984 yılında, doğmamış oğlu gelecekte insanlığın kurtuluşu olacak genç bir kadını öldürmek için 2029 yılından yok edilemez bir cyborg yollanır. Genç kadının ve insanlığın tek umudu 2029 yılından gelen genç bir askerdir.",
+      "tagline": "Geleceğin onun ellerinde.",
+      "runtime": 108,
+      "vote": 7.7,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Bilim-Kurgu"
+      ],
+      "director": "James Cameron",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Michael Biehn",
+        "Linda Hamilton",
+        "Paul Winfield",
+        "Lance Henriksen"
+      ],
+      "poster_path": "/XgnjObKKM0QNfwDFI421NW65mv.jpg"
+    }
+  ]
+}
