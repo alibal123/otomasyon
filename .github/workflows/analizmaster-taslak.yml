@@ -1,0 +1,63 @@
+name: analizmaster-2-taslak
+
+# Aşama 2/2. Bulut görevi analizmaster/metin/*.json dosyasını push edince taslağı birleştirir,
+# issue açar (GitHub bildirimi + e-posta). 20:30'da (İstanbul) metin gelmemişse hata bildirir.
+# X'e HİÇBİR şey paylaşılmaz.
+on:
+  push:
+    branches: [main]
+    paths: ["analizmaster/metin/**"]
+  schedule:
+    - cron: "30 17 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: analizmaster-depo-yazma
+  cancel-in-progress: false
+
+jobs:
+  taslak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+
+      - name: Taslağı birleştir ve doğrula
+        id: taslak
+        run: python -m analizmaster.taslak ${{ github.event_name == 'schedule' && '--kontrol' || '' }}
+
+      - name: Taslağı depoya işle
+        if: steps.taslak.outputs.yol != ''
+        run: |
+          git config user.name "analizmaster-bot"
+          git config user.email "analizmaster-bot@users.noreply.github.com"
+          git add analizmaster/taslaklar
+          git commit -m "analizmaster: ${{ steps.taslak.outputs.tarih }} taslağı"
+          git pull --rebase
+          git push
+
+      - name: Bildirim — taslak hazır (GitHub issue + e-posta)
+        if: steps.taslak.outputs.yol != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "analizmaster taslağı hazır: ${{ steps.taslak.outputs.tarih }}" \
+            --body-file "${{ steps.taslak.outputs.yol }}"
+
+      - name: Bildirim — hata
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "analizmaster: taslak ÜRETİLEMEDİ ($(TZ=Europe/Istanbul date +%F))" \
+            --body "Metin yazılmamış ya da doğrulamadan geçmedi. Ayrıntı: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"

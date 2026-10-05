@@ -1,0 +1,56 @@
+name: derecefilm-gunluk-paylasim
+
+on:
+  schedule:
+    # 16:30 UTC = 19:30 İstanbul. GitHub cron'u dakikalarca gecikebildiği için erken başlatılır;
+    # betik 20:00'ı (İstanbul) bekleyip tam saatinde paylaşır. 22:00'dan sonra paylaşmaz (telafi yok).
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: derecefilm-depo-yazma
+  cancel-in-progress: false
+
+jobs:
+  paylas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: derecefilm/requirements.txt
+      - run: pip install -r derecefilm/requirements.txt
+
+      - name: Bugünün gönderisini Instagram'a paylaş
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python -m derecefilm.publish_daily
+
+      - name: Durumu depoya işle
+        if: always()
+        run: |
+          git config user.name "derecefilm-bot"
+          git config user.email "derecefilm-bot@users.noreply.github.com"
+          git add derecefilm/queue
+          if ! git diff --cached --quiet; then
+            git commit -m "derecefilm: paylaşım durumu güncellendi"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Hata bildirimi (issue aç)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "derecefilm: günlük paylaşım BAŞARISIZ ($(TZ=Europe/Istanbul date +%F))" \
+            --body "Bugünkü Instagram paylaşımı yapılamadı; yarın telafi edilmeyecek. Ayrıntı: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
