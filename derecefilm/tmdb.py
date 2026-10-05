@@ -12,12 +12,13 @@ def get(path: str, **params) -> dict:
     if not token:
         raise RuntimeError("TMDB_TOKEN ortam değişkeni (GitHub Secret) tanımlı değil.")
     params.setdefault("language", "tr-TR")
-    r = requests.get(
-        f"{BASE}{path}",
-        params=params,
-        headers={"Authorization": f"Bearer {token}", "accept": "application/json"},
-        timeout=30,
-    )
+    token = token.strip()
+    headers = {"accept": "application/json"}
+    if token.startswith("eyJ"):  # uzun "API Read Access Token" (JWT)
+        headers["Authorization"] = f"Bearer {token}"
+    else:  # kısa "API Key" (v3)
+        params["api_key"] = token
+    r = requests.get(f"{BASE}{path}", params=params, headers=headers, timeout=30)
     if not r.ok:
         raise RuntimeError(f"TMDB hatası {r.status_code} ({path}): {r.text[:300]}")
     return r.json()
