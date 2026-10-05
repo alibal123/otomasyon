@@ -4,3 +4,8 @@ __pycache__/
 onizleme/
 .env
 .DS_Store
+
+# araç seçimi: üçüncü taraf klon ve sanal ortamlar depoya girmez
+arac-secimi/_kaynak/
+arac-secimi/.venvs/
+arac-secimi/kurulum.log
