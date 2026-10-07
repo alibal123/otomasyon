@@ -1,0 +1,198 @@
+{
+ "tarih": "2026-10-07",
+ "alt_baslik": "Fiyatlar 6 Ekim kapanışı; anlık fiyatlar 7 Ekim seansının ortası (ABD 13:00, TR 20:00 civarı)",
+ "ozet": [
+  "S&P 500 6 Ekim'de rekorla kapattı (7.818,93), bugün gün içinde yaklaşık −%0,3. Baskının ana nedeni tahvil faizleri: 10 yıllık %5,32, 30 yıllık %5,70 ile 2002'den bu yana en yüksek seviyede.",
+  "Fed'in Eylül toplantı tutanakları bugün TR saatiyle 21:00'de açıklanıyor. Piyasa Ekim'de faiz artışına yaklaşık %20, Aralık'ta yaklaşık %85 ihtimal veriyor.",
+  "MRVL: Yatırımcı gününde 2028 gelir hedefini 20 milyar dolara, 2031 hedefini 70–90 milyar dolara çıkardı. Hisse +%5,8 ile 287,01'den kapattı, bugün 280,80 civarında. Teknik olarak kısa vadede aşırı alım bölgesinde (RSI 72, RSI(2) 96).",
+  "ARKG: 6 Ekim'de −%8,8 düştü (51,75). Nedeni fona özel bir haber değil, en büyük iki hissedeki kâr satışı (Twist −%9,7, 10x Genomics −%9,3). Fon 50,2 desteğinin hemen üstünde.",
+  "DY: 52 haftalık dibe (≈263–270) yakın bölgeden +%5,8 sıçradı (290,43). Yöneticiler 280–287 bandından alım yaptı. Uzun vadeli trend hâlâ aşağı (EMA20 < SMA50).",
+  "Fonlar: Siber güvenlik (CIBR), yapay zekâ (AIQ), ARKQ ve ARKW 20 günlük zirvelerini kırdı. Altın (GLD) ve blokzincir (BLOK) zayıf seyrediyor."
+ ],
+ "oz_kontrol_yorum": [
+  "Bu ilk rapor. Bugünün olası aralıkları kaydedildi; yarınki raporda 7 Ekim kapanışlarıyla karşılaştırılacak.",
+  "Erken bakış (gün içi, kesin değil): MRVL'nin 280,80'lik anlık fiyatı 1 günlük %68 aralığın (277,47–296,87) içinde. SPY'nin 776,80'i de aralık içinde (773,99–784,22)."
+ ],
+ "piyasa": [
+  "<b>Endeksler:</b> 6 Ekim kapanışları: S&P 500 7.818,93 (+%0,58, rekor), Nasdaq 27.599,79 (+%0,45), Dow 51.521,28 (+%0,49). Russell 2000 ise −%0,57 düştü; küçük şirketler faiz artışından daha çok etkileniyor. Bugün gün içinde S&P −%0,3, Nasdaq −%0,5, Dow yaklaşık −%0,7, Russell −%1,3.",
+  "<b>Faiz ve dolar:</b> 10 yıllık tahvil faizi Temmuz sonundan bu yana 60 baz puandan fazla yükseldi ve bugün %5,32–5,35'i test ediyor. 30 yıllık %5,70 ile 24 yılın zirvesinde. Dolar endeksi (DXY) 102,3 ile yılın en yüksek seviyesine yakın. Bugün 39 milyar dolarlık 10 yıllık tahvil ihalesi var; ihaleye talep zayıf gelirse faizler daha da yükselebilir.",
+  "<b>Fed:</b> Fed 16 Eylül'de faizi 25 baz puan artırarak %3,75–4,00 aralığına çıkardı; 2023'ten bu yana ilk artış ve oylama 12–0. Üyelerin 19'undan 16'sı 2026'da en az bir artış daha bekliyor. Bugün açıklanacak tutanaklarda piyasa, üyelerin daha ne kadar sıkılaştırma istediğine bakacak. Zayıf istihdam verisinden sonra (Eylül'de +29 bin, beklenti 84 bin) Ekim'de artış ihtimali %51'den yaklaşık %20'ye indi.",
+  "<b>Emtia ve jeopolitik:</b> Husilerin saldırıları nedeniyle Brent 100 doların, WTI 88 doların üzerinde. Altın 4.140–4.160 dolarda; Şubat'taki zirvesinin %20'den fazla altında, çünkü reel faizlerin yükselmesi altına baskı yapıyor. Bitcoin iki günde yaklaşık %5,5 düşerek 83.500 dolara indi. Çin'in nadir toprak elementi ihracat kısıtlamalarına verdiği ara 10 Kasım'da bitiyor ve uzatılacağına dair bir işaret yok; bu durum yarı iletken şirketleri için risk.",
+  "<b>Teknik görünüm (SPY):</b> 6 Ekim'de 20 günlük zirve kırıldı (kırılım AL sinyali); trend ve MACD yukarı. Ancak RSI(2) 97 ile kısa vadede şişkin, bu yüzden 1–3 günlük bir soluklanma olağan olur. Destekler: 763 ve 759, haftalık pivot S1 764,7. Haftalık R1 787,5. VIX 15,4 ile düşük seviyede; bazı stratejistler bunu 'tedirgin edici rehavet' olarak yorumluyor.",
+  "<b>Stratejistlerin yıl sonu S&P 500 hedefleri:</b> Yardeni 8.400, RBC 8.150, Stifel 7.900. Üçüncü çeyrek bilanço sezonunda S&P 500 için yaklaşık %29 kâr büyümesi bekleniyor. Bilanço sezonu 13 Ekim'de büyük bankalarla başlıyor."
+ ],
+ "piyasa_tablo": [
+  ["Gösterge", "Seviye", "Yorum"],
+  ["S&P 500", "7.818,93 (rekor) → gün içi ~7.794", "Kırılım sonrası soluklanma; faiz baskısı"],
+  ["Nasdaq / QQQ", "27.599,79 · QQQ 759,66", "RSI(14) 71: aşırı alım sınırında"],
+  ["10 yıllık faiz", "%5,32–5,35", "24 yılın zirvesi; hisse değerlemelerine baskı"],
+  ["VIX", "15,4", "Düşük korku; ani faiz şokunda hızla yükselebilir"],
+  ["Brent petrol", "100 $ üstü", "Husi saldırıları; enflasyon beklentisini artırıyor"],
+  ["Fed faiz beklentisi", "Ekim ~%20 · Aralık ~%85 artış", "Tutanaklar bugün TR 21:00"]
+ ],
+ "senaryolar": [
+  ["Temel", "Daha olası", "Tutanaklar beklentiye yakın gelir, faizler %5,3 civarında yatay kalır, bilanço sezonu öncesi seçici alım devam eder", "SPY 1 haftalık %68 aralığı içinde (≈768–791), 764–787 bandında yatay-hafif yukarı"],
+  ["Olumlu", "Orta", "Tutanaklar daha az şahin gelir, faiz %5,2'nin altına iner, 14 Ekim TÜFE verisi düşük gelir", "Haftalık R1 787,5 ve %68 aralığın üst sınırı 791 hedeflenir; yarı iletkenler öne çıkar"],
+  ["Olumsuz", "Orta-düşük", "Tutanaklar şahin gelir, 10 yıllık %5,4'ü aşar, petrol yükselişini sürdürür", "763/759 destekleri test edilir; %95 aralığın alt sınırı ≈757. Küçük şirketler ve yüksek değerlemeli hisseler (MRVL) daha çok düşebilir"]
+ ],
+ "takvim": [
+  "<b>7 Eki (bugün):</b> FOMC tutanakları (TR 21:00), 10 yıllık tahvil ihalesi, Levi Strauss bilançosu (kapanış sonrası).",
+  "<b>8 Eki:</b> Haftalık işsizlik başvuruları, PepsiCo bilançosu.",
+  "<b>9 Eki:</b> Delta Air Lines bilançosu, Michigan tüketici güveni (Ekim öncü).",
+  "<b>13–14 Eki:</b> JPMorgan ve diğer büyük bankalar: bilanço sezonu başlıyor.",
+  "<b>14 Eki:</b> Eylül TÜFE (TR 15:30). Haftanın en önemli verisi.",
+  "<b>15 Eki:</b> ÜFE ve perakende satışlar; TSMC 3. çeyrek bilançosu (yarı iletkenler için kritik).",
+  "<b>10 Kas:</b> Çin'in nadir toprak elementi ihracat arası sona eriyor."
+ ],
+ "hisseler": {
+  "MRVL": {
+   "yon": null,
+   "al_sat": [
+    ["Kırılım teyidi", "280,00", "Önceki 20 günün zirvesi; 6 Ekim'de yukarı kırıldı. Üstünde kalındıkça kırılım kuralı 'pozisyonda' der"],
+    ["Yakın direnç / kâr alma", "301,27 · 303,10", "6 Ekim gün içi zirvesi ve günlük R1"],
+    ["Üst direnç", "306,77 · 319,19", "Haftalık R1 ve günlük R2"],
+    ["Geri çekilme alım bölgesi", "269–275", "Günlük S1 269,09; 1–2 Ekim'deki 268–272 sıkışma bölgesi"],
+    ["Derin destek", "261,74 · 248,14", "Haftalık S1 ve 28 Eylül salınım dibi"],
+    ["Kural zarar durdurma", "≈244 (giriş − 3×ATR)", "ATR 14,29. Kırılım kuralının çıkışı: kapanışın 10 gün dibinin (248,14) altına inmesi"]
+   ],
+   "teknik": [
+    "Trend güçlü: Fiyat EMA20'nin (255) yaklaşık %12,5 üstünde, MACD yukarı. 6 Ekim'de hacim ortalamanın 3 katıydı; yükselişe güçlü katılım var.",
+    "Kısa vadede şişkinlik: RSI(14) 72 (aşırı alım), RSI(2) 96. Bu durumdan sonra 1–5 günlük geri çekilme ya da yatay seyir sık görülür. Bugün gün içi 276,50'ye kadar geriledi.",
+    "1 günlük %68 olası aralık 277,47–296,87; 1 haftalık %68 aralık 266,12–309,54. Oynaklık yüksek: günlük σ %3,4."
+   ],
+   "temel": [
+    "Yatırımcı günü (6 Eki): 2028 mali yılı gelir hedefi 18 milyar dolardan 20 milyar dolara yükseltildi (piyasa beklentisi 18,2 milyar); 2031 için 70–90 milyar dolar gelir ve 30 dolar üzeri hisse başı kâr hedefleniyor (beklenti yaklaşık 47 milyar).",
+    "Özel yapay zekâ çipleri: 3 XPU tasarım kazanımı ve 9 XPU-ek programı var; dört büyük bulut şirketinin hepsiyle çalışıyor. Google, 120 milyar dolara kadar alım karşılığında 206,58 dolardan yaklaşık 59 milyon hisselik varant aldı.",
+    "Analist hedefleri (7 Eki): Piper Sandler 400, Wells Fargo 365, JPMorgan 360, UBS 350, Morgan Stanley 300 (Nötr), Goldman 270. Ortalama yaklaşık 321 (MarketBeat).",
+    "Değerleme: İleriye dönük F/K yaklaşık 62, geriye dönük yaklaşık 93. Hisse yılbaşından bu yana +%230'un üzerinde. Bir sonraki bilanço tarihi henüz açıklanmadı (bir önceki 27 Ağustos'taydı)."
+   ],
+   "davranis": [
+    "Kalabalığın ilgisi: Reddit'te bahsedilme bir günde 9'dan 46'ya çıktı. İlgi patlamaları çoğu zaman kısa vadeli zirvelere yakın görülür.",
+    "Yönetici satışları (son 90 gün): COO 10.000 hisseyi ~262 dolardan, CEO 7.500 hisseyi ~223 dolardan sattı.",
+    "Botun günlük kuralı MRVL'de testi geçemediği için sinyal üretmiyor; kırılım kuralının raporu 'pozisyonda' diyor."
+   ],
+   "senaryo": [
+    "Temel: 275–300 arasında yatay soluklanma; haber akışı olumlu kalıyor.",
+    "Olumlu: 301,3'ün üstünde kapanış olursa analist hedefleriyle birlikte 306–319 bandı açılabilir.",
+    "Olumsuz: Faiz şoku ya da yapay zekâ harcamalarına dair bir endişe çıkarsa önce 269–275, sonra 262 ve 248 test edilebilir."
+   ],
+   "risk": [
+    "Yüksek değerleme ve %10'luk günlük hareketler. Faizlerin yükselmesi en çok bu tür hisseleri vurur.",
+    "Müşteri yoğunlaşması (Amazon), Broadcom rekabeti, TSMC kapasite sınırı, 10 Kasım'daki Çin nadir toprak elementi riski."
+   ]
+  },
+  "ARKG": {
+   "yon": null,
+   "al_sat": [
+    ["Yakın direnç", "54,04 · 55,30", "Günlük pivot P ve 30 Eylül tepesi"],
+    ["Üst direnç", "56,54 · 57,03", "R1 ve 20 günlük zirve. Kırılım kuralı için 57,03 üstünde kapanış gerekir"],
+    ["İlk destek", "50,18", "24 Eylül dibi ve 10 günlük dip. Altında kapanış, kırılım kuralında zayıflık sayılır"],
+    ["Alım bölgesi (geri çekilme)", "47,2–49,3", "S1 49,25, SMA50 47,23 ve 16–17 Eylül boşluk bölgesi"],
+    ["Derin destek", "46,08 · 44,76", "Eylül başı salınım dipleri"],
+    ["Kural zarar durdurma", "≈44,8 (giriş − 3×ATR)", "ATR 2,31; botun 'düşüşte alım' kuralı RSI(2) < 10 olmadan giriş vermiyor (şu an 24)"]
+   ],
+   "teknik": [
+    "Orta vadeli trend hâlâ yukarı: EMA20 (51,68) SMA50'nin (47,23) üstünde. Ancak 6 Ekim'deki −%8,8'lik mum, ortalamanın 3,8 katı hacimle geldi ve MACD aşağı kesti; bu kısa vadede momentum kaybı demek.",
+    "Fiyat 50,2 desteğinin hemen üstünde. 1 günlük %68 aralık 49,98–53,58, 1 haftalık %68 aralık 47,87–55,94. Günlük σ %3,5, yani yüksek oynaklık sürüyor.",
+    "Botun günlük kuralı 5 Ekim'de SAT sinyali vermişti, şu an BEKLE durumunda."
+   ],
+   "temel": [
+    "Düşüşün nedeni: Fonun en büyük iki pozisyonu yılbaşından bu yana yaklaşık 6 kat yükselmişti ve kâr satışı geldi. Twist Bioscience −%9,7 (CEO vergi için 8,6 milyon dolarlık planlı satış yaptı), 10x Genomics −%9,3. Aynı gün S&P'de düşen tek sektör sağlıktı.",
+    "En büyük pozisyonlar: 10x Genomics %10,2, Twist %10,1, Tempus AI %8,7. İlk 10 pozisyon fonun %62'si; yoğunlaşma yüksek. 33 hisse, yaklaşık 2,25 milyar dolar varlık.",
+    "Fon yılbaşından bu yana yaklaşık +%86 (5 Ekim itibarıyla). Biyoteknoloji endeksi XBI yaklaşık +%47."
+   ],
+   "davranis": [
+    "ARK'ın işlemleri: Twist'i 21 gündür kesintisiz satıyor (6 Ekim'de ~18 milyon dolar), 10x'ten de satış var. Veracyte (~5,4 milyon dolar), Recursion, Freenome ve Scribe'ı alıyor. Intellia alımı 50. gününde.",
+    "Yönetim, kazancı en büyük iki pozisyondan alıp daha küçük isimlere dağıtıyor. Bu, en büyük iki pozisyondaki satış baskısının bir süre daha sürebileceğine işaret ediyor."
+   ],
+   "senaryo": [
+    "Temel: 50–54,5 arasında sıkışma; en büyük iki pozisyonda kâr satışı yavaşlıyor.",
+    "Olumlu: 54,0–55,3'ün üstünde kapanış olursa 56,5–57 tekrar gündeme gelir.",
+    "Olumsuz: 50,18'in altında kapanış olursa 49,25 ve ardından 47,2–47,9 bölgesi (SMA50) test edilebilir."
+   ],
+   "risk": [
+    "Yoğunlaşma: İlk iki pozisyon fonun yaklaşık %20'si. Bu şirketlerden gelen tek bir haber fonu %5–10 oynatabilir.",
+    "Faiz duyarlılığı: Kâr etmeyen biyoteknoloji şirketleri yüksek faizden en çok etkilenenler arasında. En büyük pozisyonların bilançoları Ekim sonu–Kasım arasında açıklanacak."
+   ]
+  },
+  "DY": {
+   "yon": null,
+   "al_sat": [
+    ["Yakın direnç", "297,63 · 299,02", "Günlük R1 ve 17 Eylül tepesi"],
+    ["Üst direnç", "307,5–309,5", "11 Eylül tepesi ve 20 günlük zirve. Kırılım kuralı için 309,48 üstünde kapanış gerekir"],
+    ["Trend dönüşü teyidi", "≈335,7", "SMA50: fiyat bunun üstüne çıkmadıkça orta vadeli trend aşağı sayılır"],
+    ["Yakın destek", "284,50 · 280,05", "Salınım dibi ve günlük S1; yönetici alımları 280,62–286,92 aralığında"],
+    ["Ana destek", "263–271", "52 haftalık dip bölgesi ve haftalık S1 271,04"],
+    ["Kural zarar durdurma", "≈251,6 (giriş − 3×ATR)", "ATR 12,93; haftalık S2 251,66 ile aynı bölge"]
+   ],
+   "teknik": [
+    "Uzun vadeli trend aşağı: SMA50 335,7, fiyat 290,4. Ağustos'taki bilanço sonrası 390'dan 270'e sert bir düşüş yaşandı.",
+    "Kısa vadede dipten dönüş denemesi var: 25 Eylül'deki ≈270 dibinden bu yana yükseliyor, 6 Ekim'de +%5,8. MACD yukarı kesti. RSI(14) 47 (nötr), RSI(2) 99 (kısa vadede şişkin).",
+    "1 günlük %68 aralık 282,29–298,80; 1 haftalık %68 aralık 272,55–309,48."
+   ],
+   "temel": [
+    "2. çeyrek (26 Ağustos): Gelir 2,006 milyar dolar (+%45,6, organik +%16,7), düzeltilmiş hisse başı kâr 5,29 dolar (beklenti 4,72). Sipariş birikimi rekor seviyede: 12,24 milyar dolar (+%53).",
+    "Hissenin bilançoya rağmen düşme nedeni: 150 milyon dolarlık kablosuz iş gelecek yıla kaydı ve iletişim marjı 1,34 puan geriledi. Bilanço sonrası −%8,7.",
+    "Tema: Eve kadar fiber, uzun mesafe ve orta mesafe hatlar, devletin genişbant programı (BEAD) ve veri merkezi kablolaması (NTI satın alması). İleriye dönük F/K yaklaşık 15,8.",
+    "Analistler: Ortalama hedef yaklaşık 503–521. Raymond James hedefi 610'dan 375'e indirdi ve Ekim boyunca vergi amaçlı satış olabileceği uyarısında bulundu. Bir sonraki bilanço 18 Kasım'da."
+   ],
+   "davranis": [
+    "Yönetici alımları: Yönetim kurulu üyesi C. Sabater 23 Eylül'de 280,62'den, D. Fallon 1 Eylül'de 286,92'den kendi parasıyla aldı. Toplu yönetici alımı, araştırmalarda tutarlı çıkan sinyallerden biri.",
+    "Fiyat şu an yöneticilerin alım bandının (280–287) biraz üstünde; bu bant psikolojik bir destek olarak izlenebilir."
+   ],
+   "senaryo": [
+    "Temel: 280–300 arasında dalgalanma; Ekim sonuna kadar vergi amaçlı satış baskısı sürebilir.",
+    "Olumlu: 299 ve ardından 309,5'in üstünde kapanış olursa dipten dönüş güçlenir.",
+    "Olumsuz: 280'in altına inerse 271 ve 263–270 dibi yeniden test edilebilir."
+   ],
+   "risk": [
+    "Tek bir hissede yüksek oynaklık (günlük σ %2,8). Kablosuz projelerde ertelemeler ve marj baskısı.",
+    "Genişbant programındaki (BEAD) zamanlama riski ve büyük telekom müşterilerinin yatırım bütçeleri."
+   ]
+  }
+ },
+ "fonlar_giris": [
+  "Aşağıdaki fonlar, botun geçmiş testte en iyi sonuç veren listesinden alındı. Her fon için 1 günlük ve 1 haftalık %68 olası aralık verildi. Trend sütunu EMA20'nin yönünü gösteriyor. ARKQ, ARKW, ARKF ve BLOK'un 5–6 Ekim değerleri yalnızca kapanış fiyatı olarak eklendi."
+ ],
+ "fon_notlari": {
+  "SMH": "Micron güçlü; TSMC 15 Eki. Bugün gün içi −%1,6",
+  "SOXX": "SMH ile aynı tema; 15 Eki TSMC kritik",
+  "AIQ": "20 gün zirvesi kırıldı; bot pozisyonda",
+  "CIBR": "Zirve kırılımı; RSI 70: aşırı alım sınırı",
+  "ARKQ": "Tesla teslimatları beklentiyi aştı; robotaksi",
+  "ARKW": "Zirve kırılımı; büyük teknoloji desteği",
+  "ARKF": "Webull −%20 (Çin bağlantısı endişesi)",
+  "BLOK": "Bitcoin iki günde ~−%5,5; trend aşağı",
+  "URA": "Uranyum fiyatı 19 yılın zirvesi, hisseler zayıf",
+  "GLD": "Reel faiz baskısı; trend aşağı, RSI 36"
+ },
+ "fonlar": [
+  "<b>Güçlü taraf:</b> Siber güvenlik (CIBR), yapay zekâ (AIQ), otonom teknoloji (ARKQ) ve internet (ARKW) 20 günlük zirvelerini kırmış durumda. Yarı iletkenlerde (SMH, SOXX) trend yukarı ama bugün gün içinde yaklaşık −%1,6–2. Bu sektör için TSMC (15 Eki) ve Çin'in nadir toprak elementi kararı (10 Kas) yakından izlenmeli.",
+  "<b>Zayıf taraf:</b> Altın (GLD) yüksek reel faiz nedeniyle aşağı trendde. Blokzincir (BLOK) Bitcoin'deki düşüşle zayıf. Uranyum (URA) 6 Ekim'deki Constellation–Google nükleer anlaşmasıyla +%4 sıçradı, ancak trend hâlâ aşağı.",
+  "<b>Faiz duyarlılığı:</b> 10 yıllık faiz %5,3'ün üstünde kaldıkça yüksek değerlemeli tema fonları (ARK serisi) ve küçük şirketler daha oynak olur. 14 Ekim TÜFE verisi bu fonlar için haftanın kilit verisi."
+ ],
+ "kaynaklar": [
+  ["TheStreet: 6 Ekim piyasa kapanışı", "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"],
+  ["Yahoo Finance: 7 Ekim canlı piyasa", "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"],
+  ["FXStreet: ABD tahvil faizleri 24 yılın zirvesinde", "https://fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450"],
+  ["Schwab: Eylül FOMC kararı", "https://www.schwab.com/learn/story/fomc-meeting"],
+  ["investingLive: Fed tutanakları önizleme", "https://investinglive.com/central-banks/fed-minutes-preview-one-more-hike-guidance-meets-softer-data-as-october-odds-fade/"],
+  ["BLS: Eylül istihdam raporu", "https://www.bls.gov/news.release/empsit.nr0.htm"],
+  ["FedRateCalc: Ekim 2026 ekonomik takvim", "https://fedratecalc.com/us-economic-calendar/october-2026/"],
+  ["Quartz: Wall Street S&P 500 hedefleri", "https://qz.com/wall-street-sp500-targets-8000-pullback-risks-090926"],
+  ["Investing.com: Marvell yatırımcı günü hedefleri", "https://www.investing.com/news/stock-market-news/marvell-technology-stock-rallies-following-ambitious-investor-day-targets-4934767"],
+  ["Tech Times: Marvell–Google varantı", "https://www.techtimes.com/articles/328671/20261006/marvell-targets-90b-revenue-2031-google-warrant-ties-120b-chip-buys-marvell-equity.htm"],
+  ["MarketBeat: MRVL analist hedefleri", "https://www.marketbeat.com/instant-alerts/analyst-marvell-technology-nasdaq-mrvl-price-target-raised-to-36000-2026-10-07/"],
+  ["Investing.com: Piper Sandler MRVL hedefi 400", "https://www.investing.com/news/analyst-ratings/piper-sandler-raises-marvell-stock-price-target-on-revenue-outlook-93CH-4936010"],
+  ["MarketBeat: Twist Bioscience düşüşü", "https://www.marketbeat.com/instant-alerts/price-twist-bioscience-nasdaq-twst-stock-falls-97-following-insider-selling-2026-10-06/"],
+  ["Benzinga: ARK'ın biyoteknoloji işlemleri (6 Eki)", "https://www.benzinga.com/etfs/sector-etfs/26/10/62196342/cathie-woods-22m-biotech-shuffle-one-stock-dumped-21st-straight-session-other-bets-keep-piling-up"],
+  ["StockAnalysis: ARKG", "https://stockanalysis.com/etf/arkg/"],
+  ["Dycom: 2. çeyrek sonuçları", "https://ir.dycomind.com/news-releases/news-release-details/dycom-industries-inc-reports-record-fiscal-2027-second-quarter"],
+  ["StockTitan: DY Form 4 (Sabater)", "https://www.stocktitan.net/sec-filings/DY/form-4-dycom-industries-inc-insider-trading-activity-830c4ce9018d.html"],
+  ["Investing.com: Raymond James DY hedefi", "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-dycom-industries-stock-price-target-on-guidance-concerns-93CH-4888348"],
+  ["Startup Fortune: Çin nadir toprak elementi arası", "https://startupfortune.com/chinas-rare-earth-export-truce-expires-november-10-with-no-renewal-in-sight"],
+  ["24/7 Wall St: Uranyum fiyatı", "https://247wallst.com/investing/2026/10/03/uranium-prices-just-broke-a-19-year-record-but-nuclear-stocks-are-collapsing-anyway/"],
+  ["Vantage: Altın ve Fed tutanakları", "https://vantagemarkets.com/market-news/gold-price-today-fed-minutes-october-7-2026"],
+  ["Fiyat verileri: StockAnalysis.com günlük geçmiş", "https://stockanalysis.com/stocks/mrvl/history/"]
+ ]
+}
