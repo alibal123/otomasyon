@@ -42,6 +42,7 @@ WebSearch (gerekirse `extended`) ve WebFetch ile son 24–48 saati tara. Her bil
   - Önceki günkü hareketin nedeni.
 - **Fon temaları:** yarı iletken, yapay zekâ, siber güvenlik, otonom teknoloji, fintek, blokzincir, uranyum, altın.
 - **Takvim:** önümüzdeki 7 gün.
+- **Kalabalığa ters / manipülasyon ipuçları:** opsiyon vade tarihleri ve yoğun kullanım fiyatları (max pain), açığa satış oranı ve ödünç maliyeti, olağan dışı opsiyon hacmi, büyük ortak / yönetici / fon (13F, Form 4, ARK işlemleri) hareketleri, haber öncesi "fısıltı" beklentileri, piyasadaki fikir birliğinin (analistler, sosyal medya, yapay zekâ özetleri) ne kadar tek yönlü olduğu.
 
 ## 3. Hesapla ve öz-kontrol
 
@@ -82,6 +83,13 @@ cd abd-analiz && python3 analiz.py hesapla
   - `null` (yön beklentisi yok) ya da `"yukari"` / `"asagi"` yaz.
   - Yön yazacaksan gerekçesi `teknik` alanında olsun.
   - Bu alan öz-kontrolde yön isabet oranı olarak ölçülür. Kanıt zayıfsa `null` bırak.
+- **Kalabalığa ters / manipülasyon senaryoları (zorunlu kural):** Her tahmin ve senaryo setinde (genel `senaryolar` ve her hissenin `senaryo` alanı) temel/teknik senaryoların yanında, büyük oyuncuların (fonlar, şirketler, büyük ortaklar) öngörülebilir fikir birliğini ve yapay zekâ kaynaklı benzer analizleri kendi lehlerine kullanma ihtimalini de yaz:
+  - Stop avı: bariz destek/direnç ve zarar durdurma seviyelerinin kısa süreliğine kırılıp geri dönmesi.
+  - "Söylentiyle al, haberle sat": beklenen iyi haber gelince düşüş (ya da tersi).
+  - Açık pozisyon sıkışması (short squeeze) ve ani ters yönlü sert hareket.
+  - Opsiyon vadesi etkisi: fiyatın vade günü yoğun kullanım fiyatına çekilmesi.
+  - İçeriden / büyük ortak alım-satımları ve fon pozisyon değişiklikleri.
+  Her biri için kısaca: tetikleyici, olasılık (düşük/orta/yüksek), işaret olarak neye bakılır. Kanıt yoksa uydurma; "belirgin işaret yok" yaz.
 - Dil:
   - Sade, Türkçe yaz. Sayılarda Türkçe ondalık virgül kullan.
   - Teknik terimleri ilk geçtiği yerde kısaca açıkla.
