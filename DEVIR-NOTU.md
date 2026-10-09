@@ -24,7 +24,7 @@ Son güncelleme: 9 Ekim 2026. Yeni bir sohbete bu dosyayı ver ve "bunu oku, bur
   - Dosya silinmez.
 - **Gerçek hesaplar:**
   - Alpaca'da yalnızca **deneme (paper) hesabı** kullanılır.
-  - Ali'nin gerçek portföyünde **ARKG** ve **MRVL** var. Midas'ı kullanıyor, ama Midas'ın API'si yok.
+  - Ali'nin gerçek portföyünde **ARKG**, **MRVL** ve **DY** var (8 Ekim ekran görüntüsü; DY en büyük pozisyon). Midas'ı kullanıyor, ama Midas'ın API'si yok.
 
 ## 2. Zamanlanmış görevler (bulutta çalışır; Mac kapalı olsa da çalışır, aksi belirtilmedikçe)
 
@@ -64,7 +64,7 @@ Son güncelleme: 9 Ekim 2026. Yeni bir sohbete bu dosyayı ver ve "bunu oku, bur
 ## 4. Mac'teki ABD fon botu (`~/Desktop/kisa-vade-bot`)
 
 - **Aracı kurum:** Alpaca, **deneme hesabı**, sanal para.
-- **Ayarlar (`abd_ayar.ini`):** `deneme_hesabi = evet`, `portfoy = otomatik`, `islem_basina_usd = 1000`, `en_fazla_acik_pozisyon = 8`, `takip = ARKG, MRVL`. Anahtarlar bu dosyada; yazdırılmaz.
+- **Ayarlar (`abd_ayar.ini`):** `deneme_hesabi = evet`, `portfoy = otomatik`, `islem_basina_usd = 1000`, `en_fazla_acik_pozisyon = 8`, `takip = ARKG, MRVL` (DY henüz takip listesinde değil; Mac'e erişilince eklenmeli). Anahtarlar bu dosyada; yazdırılmaz.
 - **Başlatma:** Masaüstünde `6-ABD-Bot-Baslat.command` dosyasına çift tıklanır. Bot ve panel birlikte açılır: http://localhost:8788. Terminal penceresi açık kalmalı ve **Mac uyumamalı.** Bot kod güncellemesinden sonra yeniden başlatılmalıdır (Ctrl+C, ardından çift tık).
 - **Mantık:**
   - 37 ABD fonu ve MRVL için üç strateji test edilir: trend (EMA kesişimi), kırılım (20/55 gün zirvesi + SMA200), düşüşte alım (RSI2).
