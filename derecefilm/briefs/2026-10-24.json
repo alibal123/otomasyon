@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-24",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: macera filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 299536, \"title\": \"Avengers: Sonsuzluk Savaşı\", \"year\": \"2018\", \"overview\": \"Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşmaya ant içmiş kahramanlarımız elindedir. Hiçbir süper kahramanın tek başına yenemeyeceği büyüklükteki bu tehdit için ekipler birleşmeli ve tehdide tüm güçleriyle karşı koymalıdır...\", \"genres\": [\"Macera\", \"Aksiyon\", \"Bilim-Kurgu\"], \"vote\": 8.2}, {\"id\": 11, \"title\": \"Yıldız Savaşları: Yeni Umut\", \"year\": \"1977\", \"overview\": \"Yıldız Savaşları: Yeni Umut'ta Luke Skywalker, galaksiyi değiştirecek bir yolculuğa çıkar. Luke, İmparatorluğun kuruluşundan 19 yıl sonra çöl gezegen Tatooine'de yıllardır tek başına yaşayan Obi-Wan Kenobi ile karşılaşınca Asiler İttifakı mücadelesinin içine çekilir. Obi-Wan, Luke'u Jedi olarak eğitmeye başlarken Luke da güzel Asi Prenses Leia'yı Darth Vader ve kötü İmparatorluğun pençesinden kurtarmak için Obi-Wan ile zorlu bir göreve girişir.\", \"genres\": [\"Macera\", \"Aksiyon\", \"Bilim-Kurgu\"], \"vote\": 8.2}, {\"id\": 299534, \"title\": \"Avengers: Endgame\", \"year\": \"2019\", \"overview\": \"Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \\\"Avengers: Sonsuzluk Savaşı\\\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler.\", \"genres\": [\"Macera\", \"Bilim-Kurgu\", \"Aksiyon\"], \"vote\": 8.2}, {\"id\": 157336, \"title\": \"Yıldızlararası\", \"year\": \"2014\", \"overview\": \"Dünya'nın kuraklık ve kıtlıkla yok oluşun eşiğine geldiği bir gelecekte, insanlığın hayatta kalabilmesi için yeni bir yuva bulması şarttır. Keşfedilen gizemli bir solucan deliği, bir grup astronot ve bilim insanına insanlık tarihinin en önemli görevini üstlenme fırsatı verir. Eski bir NASA pilotu olan Cooper, ailesini geride bırakarak yıldızlararası bir yolculuğa çıkar ve bilinmeyen galaksilerde insanlığın kurtuluşunu arar.\", \"genres\": [\"Macera\", \"Dram\", \"Bilim-Kurgu\"], \"vote\": 8.5}, {\"id\": 105, \"title\": \"Geleceğe Dönüş\", \"year\": \"1985\", \"overview\": \"Dönemin özellikle tasarımıyla öne çıkan otomobillerinden olan bir DeLoran'ın içine gizlenmiş icat, Marty'i yanlışlıkla 50'lere geri götürür. Sorumsuz delikanlı bu gösterişsiz Amerikan kasabasında bir kazaya yol açar ve müstakbel anne ve babasının tanışmasına engel olur. Böylece kendisi de hiç doğmamış olacağı için bu durumu düzeltmesi gerekmektedir. Ama hayat sandığından daha karmaşıktır ve sorumluluk kelimesinin anlamını öğrenmek zorundadır.\", \"genres\": [\"Macera\", \"Komedi\", \"Bilim-Kurgu\"], \"vote\": 8.3}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 299536,
+      "title": "Avengers: Sonsuzluk Savaşı",
+      "original_title": "Avengers: Infinity War",
+      "year": "2018",
+      "release_date": "2018-04-25",
+      "overview": "Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşmaya ant içmiş kahramanlarımız elindedir. Hiçbir süper kahramanın tek başına yenemeyeceği büyüklükteki bu tehdit için ekipler birleşmeli ve tehdide tüm güçleriyle karşı koymalıdır...",
+      "tagline": "Bütün bir evren. İlk ve son kez.",
+      "runtime": 154,
+      "vote": 8.2,
+      "genres": [
+        "Macera",
+        "Aksiyon",
+        "Bilim-Kurgu"
+      ],
+      "director": "Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Josh Brolin",
+        "Mark Ruffalo"
+      ],
+      "poster_path": "/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Yıldız Savaşları: Yeni Umut",
+      "original_title": "Star Wars",
+      "year": "1977",
+      "release_date": "1977-05-25",
+      "overview": "Yıldız Savaşları: Yeni Umut'ta Luke Skywalker, galaksiyi değiştirecek bir yolculuğa çıkar. Luke, İmparatorluğun kuruluşundan 19 yıl sonra çöl gezegen Tatooine'de yıllardır tek başına yaşayan Obi-Wan Kenobi ile karşılaşınca Asiler İttifakı mücadelesinin içine çekilir. Obi-Wan, Luke'u Jedi olarak eğitmeye başlarken Luke da güzel Asi Prenses Leia'yı Darth Vader ve kötü İmparatorluğun pençesinden kurtarmak için Obi-Wan ile zorlu bir göreve girişir.",
+      "tagline": "",
+      "runtime": 125,
+      "vote": 8.2,
+      "genres": [
+        "Macera",
+        "Aksiyon",
+        "Bilim-Kurgu"
+      ],
+      "director": "George Lucas",
+      "cast": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness"
+      ],
+      "poster_path": "/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg"
+    },
+    {
+      "id": 299534,
+      "title": "Avengers: Endgame",
+      "original_title": "Avengers: Endgame",
+      "year": "2019",
+      "release_date": "2019-04-24",
+      "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Avengers: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler.",
+      "tagline": "Son savaş, son şans!",
+      "runtime": 182,
+      "vote": 8.2,
+      "genres": [
+        "Macera",
+        "Bilim-Kurgu",
+        "Aksiyon"
+      ],
+      "director": "Anthony Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+      ],
+      "poster_path": "/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg"
+    },
+    {
+      "id": 157336,
+      "title": "Yıldızlararası",
+      "original_title": "Interstellar",
+      "year": "2014",
+      "release_date": "2014-11-04",
+      "overview": "Dünya'nın kuraklık ve kıtlıkla yok oluşun eşiğine geldiği bir gelecekte, insanlığın hayatta kalabilmesi için yeni bir yuva bulması şarttır. Keşfedilen gizemli bir solucan deliği, bir grup astronot ve bilim insanına insanlık tarihinin en önemli görevini üstlenme fırsatı verir. Eski bir NASA pilotu olan Cooper, ailesini geride bırakarak yıldızlararası bir yolculuğa çıkar ve bilinmeyen galaksilerde insanlığın kurtuluşunu arar.",
+      "tagline": "Zamanın ötesinde bir yolculuk.",
+      "runtime": 169,
+      "vote": 8.5,
+      "genres": [
+        "Macera",
+        "Dram",
+        "Bilim-Kurgu"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Michael Caine",
+        "Jessica Chastain",
+        "Casey Affleck"
+      ],
+      "poster_path": "/xbiycuc84TrieEWwkkuH2hoEa9S.jpg"
+    },
+    {
+      "id": 105,
+      "title": "Geleceğe Dönüş",
+      "original_title": "Back to the Future",
+      "year": "1985",
+      "release_date": "1985-07-03",
+      "overview": "Dönemin özellikle tasarımıyla öne çıkan otomobillerinden olan bir DeLoran'ın içine gizlenmiş icat, Marty'i yanlışlıkla 50'lere geri götürür. Sorumsuz delikanlı bu gösterişsiz Amerikan kasabasında bir kazaya yol açar ve müstakbel anne ve babasının tanışmasına engel olur. Böylece kendisi de hiç doğmamış olacağı için bu durumu düzeltmesi gerekmektedir. Ama hayat sandığından daha karmaşıktır ve sorumluluk kelimesinin anlamını öğrenmek zorundadır.",
+      "tagline": "Doğmadan önce başı belaya giren tek delikanlı.",
+      "runtime": 116,
+      "vote": 8.3,
+      "genres": [
+        "Macera",
+        "Komedi",
+        "Bilim-Kurgu"
+      ],
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Crispin Glover",
+        "Lea Thompson",
+        "Claudia Wells"
+      ],
+      "poster_path": "/s6pfkJuTFZe7BCfJ5vOCECNmQbW.jpg"
+    }
+  ]
+}

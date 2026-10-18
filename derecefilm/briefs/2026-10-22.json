@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-22",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Galaksinin Koruyucuları 3",
+      "Yaratığın Dönüşü",
+      "Yukarı Bak"
+    ],
+    "dogru_index": 0
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Galaksinin Koruyucuları 3\", \"year\": \"2023\", \"overview\": \"Serinin bu filminde, ekibinin yeni maceralarını ve karakter gelişimlerini derinlemesine ele alıyor. Ekip, geçmişteki olayların yankılarıyla yüzleşmek zorunda kalıyor ve kendi kimliklerini bulma yolculuğuna çıkıyor. Peter Quill'in (Star-Lord) kaybolan ailesiyle ilgili sırları keşfetmesi ve Gamora'nın geçmişiyle barışması üzerine odaklanıyor. Ekip, yeni düşmanlarla karşılaşırken, birbirlerine olan bağlılıklarını yeniden değerlendiriyor. Ayrıca, Rocket Raccoon’un geçmişine dair daha fazla bilgi edinme fırsatı buluyoruz; bu da onun karakterine derinlik katıyor. Son olarak, galaksiyi koruma görevleri sırasında, ekip üyeleri arasındaki ilişkilerin nasıl evrildiği ve her birinin kendi içsel mücadeleleriyle nasıl başa çıktığını gösteriyor.\", \"tagline\": \"Her macera, yeni bir hikâye yazmak içindir!\", \"director\": \"James Gunn\", \"cast\": [\"Chris Pratt\", \"Zoe Saldaña\", \"Dave Bautista\", \"Karen Gillan\", \"Pom Klementieff\"], \"genres\": [\"Bilim-Kurgu\", \"Macera\", \"Aksiyon\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Galaksinin Koruyucuları 3\", \"Yaratığın Dönüşü\", \"Yukarı Bak\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 447365,
+      "title": "Galaksinin Koruyucuları 3",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "year": "2023",
+      "release_date": "2023-05-03",
+      "overview": "Serinin bu filminde, ekibinin yeni maceralarını ve karakter gelişimlerini derinlemesine ele alıyor. Ekip, geçmişteki olayların yankılarıyla yüzleşmek zorunda kalıyor ve kendi kimliklerini bulma yolculuğuna çıkıyor. Peter Quill'in (Star-Lord) kaybolan ailesiyle ilgili sırları keşfetmesi ve Gamora'nın geçmişiyle barışması üzerine odaklanıyor. Ekip, yeni düşmanlarla karşılaşırken, birbirlerine olan bağlılıklarını yeniden değerlendiriyor. Ayrıca, Rocket Raccoon’un geçmişine dair daha fazla bilgi edinme fırsatı buluyoruz; bu da onun karakterine derinlik katıyor. Son olarak, galaksiyi koruma görevleri sırasında, ekip üyeleri arasındaki ilişkilerin nasıl evrildiği ve her birinin kendi içsel mücadeleleriyle nasıl başa çıktığını gösteriyor.",
+      "tagline": "Her macera, yeni bir hikâye yazmak içindir!",
+      "runtime": 150,
+      "vote": 7.9,
+      "genres": [
+        "Bilim-Kurgu",
+        "Macera",
+        "Aksiyon"
+      ],
+      "director": "James Gunn",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista",
+        "Karen Gillan",
+        "Pom Klementieff"
+      ],
+      "poster_path": "/fbK6py6t9ikhWbsz3tIeXgiBCCn.jpg"
+    },
+    {
+      "id": 679,
+      "title": "Yaratığın Dönüşü",
+      "original_title": "Aliens",
+      "year": "1986",
+      "release_date": "1986-07-18",
+      "overview": "Nostromo'dan kurtulan tek kişi olan Teğmen Ellen Ripley, yarım yüzyıllık derin uykusundan uyandırılarak dünyaya getirilir. Bu sırada yaratıkları buldukları gezegenin sonradan kolonileştirildiği ve insanların yaşadığını öğrenir. Söz konusu koloniden bir süredir haber alınamamaktadır ve Ripley, uzman bir komando ekibi ile yaratıkları yok etmeye ve sağ kalanları kurtarmaya gider.",
+      "tagline": "Bu sefer, savaş.",
+      "runtime": 155,
+      "vote": 8.0,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Bilim-Kurgu"
+      ],
+      "director": "James Cameron",
+      "cast": [
+        "Sigourney Weaver",
+        "Carrie Henn",
+        "Michael Biehn",
+        "Paul Reiser",
+        "Lance Henriksen"
+      ],
+      "poster_path": "/vhtEL7itK7BErXTWtcKSspUuIdE.jpg"
+    },
+    {
+      "id": 14160,
+      "title": "Yukarı Bak",
+      "original_title": "Up",
+      "year": "2009",
+      "release_date": "2009-05-28",
+      "overview": "Hayatı boyunca yaşamak istediği macera hayalini gerçekleştirmek için evine binlerce balon bağlayıp Güney Amerika'nın vahşi doğasına doğru yolculuğa çıkan 78 yaşındaki baloncu Carl Fredricksen'ın hikayesinin anlatıldığı yeni bir komedi. Ancak Carl, yolculuğa başladıktan sonra en büyük kabusunu da yanında götürmekte olduğunu fark eder: fazlasıyla iyimser, doğa kaşifi 8 yaşındaki Russel'ı.",
+      "tagline": "En büyük macera eve dönmektir.",
+      "runtime": 96,
+      "vote": 8.0,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Macera"
+      ],
+      "director": "Pete Docter",
+      "cast": [
+        "Ed Asner",
+        "Christopher Plummer",
+        "Jordan Nagai",
+        "Bob Peterson",
+        "Delroy Lindo"
+      ],
+      "poster_path": "/c9QLSX3qEW8FO7UgT2pyfC1LDzb.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 447365,
+    "title": "Galaksinin Koruyucuları 3",
+    "original_title": "Guardians of the Galaxy Vol. 3",
+    "year": "2023",
+    "release_date": "2023-05-03",
+    "overview": "Serinin bu filminde, ekibinin yeni maceralarını ve karakter gelişimlerini derinlemesine ele alıyor. Ekip, geçmişteki olayların yankılarıyla yüzleşmek zorunda kalıyor ve kendi kimliklerini bulma yolculuğuna çıkıyor. Peter Quill'in (Star-Lord) kaybolan ailesiyle ilgili sırları keşfetmesi ve Gamora'nın geçmişiyle barışması üzerine odaklanıyor. Ekip, yeni düşmanlarla karşılaşırken, birbirlerine olan bağlılıklarını yeniden değerlendiriyor. Ayrıca, Rocket Raccoon’un geçmişine dair daha fazla bilgi edinme fırsatı buluyoruz; bu da onun karakterine derinlik katıyor. Son olarak, galaksiyi koruma görevleri sırasında, ekip üyeleri arasındaki ilişkilerin nasıl evrildiği ve her birinin kendi içsel mücadeleleriyle nasıl başa çıktığını gösteriyor.",
+    "tagline": "Her macera, yeni bir hikâye yazmak içindir!",
+    "runtime": 150,
+    "vote": 7.9,
+    "genres": [
+      "Bilim-Kurgu",
+      "Macera",
+      "Aksiyon"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Karen Gillan",
+      "Pom Klementieff"
+    ],
+    "poster_path": "/fbK6py6t9ikhWbsz3tIeXgiBCCn.jpg"
+  }
+}

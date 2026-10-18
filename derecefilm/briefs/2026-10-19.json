@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-19",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: animasyon filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 22794, \"title\": \"Köfte Yağmuru\", \"year\": \"2009\", \"overview\": \"Sevilen çocuk kitabından uyarlanan bu komik macerada, yiyeceğin gökten yağmur gibi yağdığı bir kasaba anlatılıyor. Genç ve hevesli bir mucit olan Flint Lockwood, kasabasındaki yiyecek sorununu çözmek için suyu yiyeceğe dönüştüren bir cihaz (FLDSMDFR) icat eder. Ancak makine kontrolden çıkar ve kasabaya devasa miktarlarda yiyecek yağmaya başlar.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Aile\"], \"vote\": 6.7}, {\"id\": 950, \"title\": \"Buz Devri 2: Erime Başlıyor\", \"year\": \"2006\", \"overview\": \"Buz Devri'nin üç kahramanı Manny, Sid ve Diego erimeye başlayan buzların arasından çıkıyorlar ve ısınan dünyalarının keyfini sürüyorlar. Üstelik bu kez aralarına yeni isimler de katıldı onlar kadar sevimli olan...Bir ailesi olsun isteyen mamut Manny dünyada kalan tek dişi mamut olan Ellie ile tanışır ama pek de iyi anlaşamazlar. Çünkü Ellie nedense kendisini bir mamut değil de opossum sanmaktadır. Üstelik opossum olan iki çılgın kardeşi de vardır: Crash ve Eddie... Hep birlikte vadinin diğer tarafına geçmeye çalışacaklardır. Çünkü eriyen buzlar bir felakete dönüşmek üzeredir. Bütün bunlar olurken Scrat da yine kucağında çok sevdiği meşe palamudu ile beraber onların arasındadır.\", \"genres\": [\"Animasyon\", \"Aile\", \"Komedi\", \"Macera\"], \"vote\": 6.7}, {\"id\": 270946, \"title\": \"Madagaskar Penguenleri\", \"year\": \"2014\", \"overview\": \"Başarılı ajan doğulmaz, başarılı ajan yumurtadan çıkar! Madagascar'ın muhteşem ajanlarıyla tanışın: Skipper, Kowalski, Rico ve Private. Bu seçkin penguenler, gizli bir örgütün kuvvetlerine katılırlar. Adı Kuzey Rüzgarı olan bu organizasyona lideri yakışıklı ve kuvvetli, adı gizli bir ajan liderlik etmektedir. Bu iki takımın bir an önce güçlerini birleştirip dünyayı yok etmek için hain planlar peşinde olan korkunç Dr. Octavius Brine'ı durdurması gerekmektedir.\", \"genres\": [\"Aile\", \"Animasyon\", \"Macera\", \"Komedi\"], \"vote\": 6.5}, {\"id\": 228161, \"title\": \"Evim\", \"year\": \"2015\", \"overview\": \"Kendi halkı tarafından kovalanan ve peşindeki düşmanlardan kurtulabilmek için Dünya'da bir yerlerde saklanmaya karar veren Of, bu gezegende güvende olacağına inanmaktadır. Fakat Of, peşindeki düşmanlara yanlışıkla saklandıkları yeri ifşa edince büyük bir karmaşa başlar ve sevimli uzaylı dostumuz tek çareyi bir genç kızdan yardım almakta bulur. Şimdi her ikisini de dünyanın etrafında dolaşacakları son derece eğlenceli ve renkli bir yolculuk beklemektedir. Hem Of hem de kısa sürede kendisiyle dostluk kuran Lüle; farklı olmanın ve hatalar yapmanın insanlığın bir parçası olduğunu anlayacaklardır. Her ikisi de kendi dünyalarına ait olmayan yabancılar konumuna düştükten sonra kendilerini biraz daha tanıma ve yüzleşme fırsatı bulurlar.\", \"genres\": [\"Fantastik\", \"Komedi\", \"Animasyon\", \"Bilim-Kurgu\", \"Aile\"], \"vote\": 6.8}, {\"id\": 8355, \"title\": \"Buz Devri 3: Dinozorların Şafağı\", \"year\": \"2009\", \"overview\": \"Scrat yine asla ele geçiremediği meşe palamudunun, (ve bu sefer belki aşkın da) peşindedir. Manny ve Ellie yavruları minik mamutun doğmasını beklemektedirler. Miskin Sid, bulduğu dinozor yumurtalarından çıkan yavrularla kendine geçici bir aile kurar fakat bu, Sid için pek de iyi olmayacaktır. Kılıç dişli kaplan Diego da arkadaşlarıyla ilişkisinde çok yumuşak bir tavır sergileyip sergilemediğini sorgulamaktadır. Sid’i başına aldığı belalardan kurtarmak için çıktıkları yolculukta kendilerini birden gizemli bir yeraltı dünyasında bulan ekip, karşılaştıkları dinozorlar, aklını kaçırmış gibi duran değişik hayvan türleri, yeni bir bitki örtüsü ve tek gözlü, acımasız dinozor avcısı gelincik Buck ile heyecan dolu ve bir o kadar da eğlenceli bir maceranın ortasında kalırlar.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Aile\", \"Macera\"], \"vote\": 6.8}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 22794,
+      "title": "Köfte Yağmuru",
+      "original_title": "Cloudy with a Chance of Meatballs",
+      "year": "2009",
+      "release_date": "2009-09-17",
+      "overview": "Sevilen çocuk kitabından uyarlanan bu komik macerada, yiyeceğin gökten yağmur gibi yağdığı bir kasaba anlatılıyor. Genç ve hevesli bir mucit olan Flint Lockwood, kasabasındaki yiyecek sorununu çözmek için suyu yiyeceğe dönüştüren bir cihaz (FLDSMDFR) icat eder. Ancak makine kontrolden çıkar ve kasabaya devasa miktarlarda yiyecek yağmaya başlar.",
+      "tagline": "Parçalı bulutlu ama köfte yağabilir!",
+      "runtime": 90,
+      "vote": 6.7,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Aile"
+      ],
+      "director": "Phil Lord",
+      "cast": [
+        "Bill Hader",
+        "Anna Faris",
+        "James Caan",
+        "Andy Samberg",
+        "Bruce Campbell"
+      ],
+      "poster_path": "/tbkgvMSzBG8YUllBGNBQvCshsUB.jpg"
+    },
+    {
+      "id": 950,
+      "title": "Buz Devri 2: Erime Başlıyor",
+      "original_title": "Ice Age: The Meltdown",
+      "year": "2006",
+      "release_date": "2006-03-29",
+      "overview": "Buz Devri'nin üç kahramanı Manny, Sid ve Diego erimeye başlayan buzların arasından çıkıyorlar ve ısınan dünyalarının keyfini sürüyorlar. Üstelik bu kez aralarına yeni isimler de katıldı onlar kadar sevimli olan...Bir ailesi olsun isteyen mamut Manny dünyada kalan tek dişi mamut olan Ellie ile tanışır ama pek de iyi anlaşamazlar. Çünkü Ellie nedense kendisini bir mamut değil de opossum sanmaktadır. Üstelik opossum olan iki çılgın kardeşi de vardır: Crash ve Eddie... Hep birlikte vadinin diğer tarafına geçmeye çalışacaklardır. Çünkü eriyen buzlar bir felakete dönüşmek üzeredir. Bütün bunlar olurken Scrat da yine kucağında çok sevdiği meşe palamudu ile beraber onların arasındadır.",
+      "tagline": "Soğuk Bitti",
+      "runtime": 91,
+      "vote": 6.7,
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Komedi",
+        "Macera"
+      ],
+      "director": "Carlos Saldanha",
+      "cast": [
+        "Ray Romano",
+        "John Leguizamo",
+        "Denis Leary",
+        "Queen Latifah",
+        "Seann William Scott"
+      ],
+      "poster_path": "/qMA976CKnxCQRHy19MnZawjgfbB.jpg"
+    },
+    {
+      "id": 270946,
+      "title": "Madagaskar Penguenleri",
+      "original_title": "Penguins of Madagascar",
+      "year": "2014",
+      "release_date": "2014-11-22",
+      "overview": "Başarılı ajan doğulmaz, başarılı ajan yumurtadan çıkar! Madagascar'ın muhteşem ajanlarıyla tanışın: Skipper, Kowalski, Rico ve Private. Bu seçkin penguenler, gizli bir örgütün kuvvetlerine katılırlar. Adı Kuzey Rüzgarı olan bu organizasyona lideri yakışıklı ve kuvvetli, adı gizli bir ajan liderlik etmektedir. Bu iki takımın bir an önce güçlerini birleştirip dünyayı yok etmek için hain planlar peşinde olan korkunç Dr. Octavius Brine'ı durdurması gerekmektedir.",
+      "tagline": "Maskerlerini düşürecek film olayı",
+      "runtime": 91,
+      "vote": 6.5,
+      "genres": [
+        "Aile",
+        "Animasyon",
+        "Macera",
+        "Komedi"
+      ],
+      "director": "Simon J. Smith",
+      "cast": [
+        "Tom McGrath",
+        "Chris Miller",
+        "Christopher Knights",
+        "Conrad Vernon",
+        "John Malkovich"
+      ],
+      "poster_path": "/uEXW4qIspz8KQ9LBBpRhBYKumgm.jpg"
+    },
+    {
+      "id": 228161,
+      "title": "Evim",
+      "original_title": "Home",
+      "year": "2015",
+      "release_date": "2015-03-18",
+      "overview": "Kendi halkı tarafından kovalanan ve peşindeki düşmanlardan kurtulabilmek için Dünya'da bir yerlerde saklanmaya karar veren Of, bu gezegende güvende olacağına inanmaktadır. Fakat Of, peşindeki düşmanlara yanlışıkla saklandıkları yeri ifşa edince büyük bir karmaşa başlar ve sevimli uzaylı dostumuz tek çareyi bir genç kızdan yardım almakta bulur. Şimdi her ikisini de dünyanın etrafında dolaşacakları son derece eğlenceli ve renkli bir yolculuk beklemektedir. Hem Of hem de kısa sürede kendisiyle dostluk kuran Lüle; farklı olmanın ve hatalar yapmanın insanlığın bir parçası olduğunu anlayacaklardır. Her ikisi de kendi dünyalarına ait olmayan yabancılar konumuna düştükten sonra kendilerini biraz daha tanıma ve yüzleşme fırsatı bulurlar.",
+      "tagline": "Dünyalar Çarpışıyor",
+      "runtime": 93,
+      "vote": 6.8,
+      "genres": [
+        "Fantastik",
+        "Komedi",
+        "Animasyon",
+        "Bilim-Kurgu",
+        "Aile"
+      ],
+      "director": "Tim Johnson",
+      "cast": [
+        "Jim Parsons",
+        "Rihanna",
+        "Steve Martin",
+        "Jennifer Lopez",
+        "Matt Jones"
+      ],
+      "poster_path": "/9VXtOoFul6UVp1o3KqbIsAED6Ca.jpg"
+    },
+    {
+      "id": 8355,
+      "title": "Buz Devri 3: Dinozorların Şafağı",
+      "original_title": "Ice Age: Dawn of the Dinosaurs",
+      "year": "2009",
+      "release_date": "2009-06-26",
+      "overview": "Scrat yine asla ele geçiremediği meşe palamudunun, (ve bu sefer belki aşkın da) peşindedir. Manny ve Ellie yavruları minik mamutun doğmasını beklemektedirler. Miskin Sid, bulduğu dinozor yumurtalarından çıkan yavrularla kendine geçici bir aile kurar fakat bu, Sid için pek de iyi olmayacaktır. Kılıç dişli kaplan Diego da arkadaşlarıyla ilişkisinde çok yumuşak bir tavır sergileyip sergilemediğini sorgulamaktadır. Sid’i başına aldığı belalardan kurtarmak için çıktıkları yolculukta kendilerini birden gizemli bir yeraltı dünyasında bulan ekip, karşılaştıkları dinozorlar, aklını kaçırmış gibi duran değişik hayvan türleri, yeni bir bitki örtüsü ve tek gözlü, acımasız dinozor avcısı gelincik Buck ile heyecan dolu ve bir o kadar da eğlenceli bir maceranın ortasında kalırlar.",
+      "tagline": "Hanım, hanım; bunlay benim yavyulayım!",
+      "runtime": 94,
+      "vote": 6.8,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Macera"
+      ],
+      "director": "Carlos Saldanha",
+      "cast": [
+        "Ray Romano",
+        "John Leguizamo",
+        "Denis Leary",
+        "Simon Pegg",
+        "Seann William Scott"
+      ],
+      "poster_path": "/4yuACTdTILadeZloQJMAAO1O29s.jpg"
+    }
+  ]
+}

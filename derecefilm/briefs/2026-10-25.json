@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-25",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Oyuncak Hikayesi 3\", \"year\": \"2010\", \"overview\": \"Çok sevilen “Oyuncak Hikayesi” filmlerinin yaratıcıları, yeniden oyuncak kutusunu açıp Oyuncak Hikayesi 3 ile sinemaseverleri Woody, Buzz ve oyuncak karakterlerden oluşan sevimliğ çetenin dünyasına davet ediyor. Serinin üçüncü bölümünde Andy, üniversiteye gitmeye hazırlanmaktadır, sandık oyuncakları ise belirsiz gelecekleri yüzünden endişe içinde kalır.\", \"tagline\": \"\", \"genres\": [\"Animasyon\", \"Aile\", \"Komedi\"], \"director\": \"Lee Unkrich\", \"cast\": [\"Tom Hanks\", \"Tim Allen\", \"Joan Cusack\", \"Don Rickles\", \"Wallace Shawn\"], \"runtime\": 103, \"vote\": 7.8}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 10193,
+      "title": "Oyuncak Hikayesi 3",
+      "original_title": "Toy Story 3",
+      "year": "2010",
+      "release_date": "2010-06-16",
+      "overview": "Çok sevilen “Oyuncak Hikayesi” filmlerinin yaratıcıları, yeniden oyuncak kutusunu açıp Oyuncak Hikayesi 3 ile sinemaseverleri Woody, Buzz ve oyuncak karakterlerden oluşan sevimliğ çetenin dünyasına davet ediyor. Serinin üçüncü bölümünde Andy, üniversiteye gitmeye hazırlanmaktadır, sandık oyuncakları ise belirsiz gelecekleri yüzünden endişe içinde kalır.",
+      "tagline": "",
+      "runtime": 103,
+      "vote": 7.8,
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Komedi"
+      ],
+      "director": "Lee Unkrich",
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack",
+        "Don Rickles",
+        "Wallace Shawn"
+      ],
+      "poster_path": "/qBNNAO9EVqx1vRdCbBtr5TDonA4.jpg"
+    }
+  ]
+}

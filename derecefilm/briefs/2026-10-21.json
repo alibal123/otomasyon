@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Abducted in Plain Sight\", \"year\": \"2017\", \"overview\": \"Gerçek bir suçun anlatıldığı bu belgeselde bir aile, küçük kızlarını kaçıran komşularının manipülasyonlarının ağına düşüyor. Hem de iki defa.\", \"tagline\": \"\", \"genres\": [\"Belgesel\", \"Suç\"], \"director\": \"Skye Borgman\", \"cast\": [\"Jan Broberg Felt\", \"Mary Ann Broberg\", \"Bob Broberg\", \"Susan Broberg\", \"Pete Welsh\"], \"runtime\": 91, \"vote\": 6.6}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 470401,
+      "title": "Abducted in Plain Sight",
+      "original_title": "Abducted in Plain Sight",
+      "year": "2017",
+      "release_date": "2017-05-26",
+      "overview": "Gerçek bir suçun anlatıldığı bu belgeselde bir aile, küçük kızlarını kaçıran komşularının manipülasyonlarının ağına düşüyor. Hem de iki defa.",
+      "tagline": "",
+      "runtime": 91,
+      "vote": 6.6,
+      "genres": [
+        "Belgesel",
+        "Suç"
+      ],
+      "director": "Skye Borgman",
+      "cast": [
+        "Jan Broberg Felt",
+        "Mary Ann Broberg",
+        "Bob Broberg",
+        "Susan Broberg",
+        "Pete Welsh"
+      ],
+      "poster_path": "/licfKJMCnGFgFDATHeUZuy047RB.jpg"
+    }
+  ]
+}

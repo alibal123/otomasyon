@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-20",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Terminatör 2: Mahşer Günü\", \"year\": \"1991\", \"overview\": \"Sarah Connor'ın Skynet tarafından gelecekten gönderilen Terminator'ın elinden kurtulmasından on yıl kadar sonra, 1995 yılında bu kez T-1000 modeli yeni bir Terminator, insan direnişçilerin gelecekteki lideri ve Sarah'nın oğlu John Connor'ı öldürmek için 2029 yılından gönderilir. Direnişçiler ise 1995 yılına yeniden programladıkları T-800 modeli bir Terminator göndermeyi başarırlar. T-800'ün görevi Sarah'yı akıl hastanesinden kaçırmak ve John'u T-1000'e karşı korumaktır.\", \"tagline\": \"Aynı donanım, aynı model, yeni görev.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Bilim-Kurgu\"], \"director\": \"James Cameron\", \"cast\": [\"Arnold Schwarzenegger\", \"Linda Hamilton\", \"Edward Furlong\", \"Robert Patrick\", \"Earl Boen\"], \"runtime\": 156, \"vote\": 8.2}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 280,
+      "title": "Terminatör 2: Mahşer Günü",
+      "original_title": "Terminator 2: Judgment Day",
+      "year": "1991",
+      "release_date": "1991-07-03",
+      "overview": "Sarah Connor'ın Skynet tarafından gelecekten gönderilen Terminator'ın elinden kurtulmasından on yıl kadar sonra, 1995 yılında bu kez T-1000 modeli yeni bir Terminator, insan direnişçilerin gelecekteki lideri ve Sarah'nın oğlu John Connor'ı öldürmek için 2029 yılından gönderilir. Direnişçiler ise 1995 yılına yeniden programladıkları T-800 modeli bir Terminator göndermeyi başarırlar. T-800'ün görevi Sarah'yı akıl hastanesinden kaçırmak ve John'u T-1000'e karşı korumaktır.",
+      "tagline": "Aynı donanım, aynı model, yeni görev.",
+      "runtime": 156,
+      "vote": 8.2,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Bilim-Kurgu"
+      ],
+      "director": "James Cameron",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick",
+        "Earl Boen"
+      ],
+      "poster_path": "/2e2oJJKdNrxg8k74ty3fB90xLfl.jpg"
+    }
+  ]
+}

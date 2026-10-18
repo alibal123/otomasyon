@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-23",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1765072, \"title\": \"You Can See Everything\", \"release_date\": \"2026-10-30\", \"overview\": \"Hapishaneye gönderilmesine otuz dört gün kala, kötü şöhretli Theranos'un kurucusu Elizabeth Holmes, şüpheci bir film ekibini her hareketini belgelemeye davet eder. Samimi bir portre olarak başlayan bu süreç, akıl almaz üç yıllık bir yolculuğa dönüşür.\", \"genres\": [\"Belgesel\"], \"director\": \"Nathan Fielder\"}, {\"id\": 1376400, \"title\": \"Araknofobi: Kabus\", \"release_date\": \"2026-11-06\", \"overview\": \"Apartmanlarını basan ölümcül örümcek istilasına karşı hayatta kalma savaşı veren Paradiso Palms sakinleri, kurnaz bina yöneticisine güvenmek zorunda kalınca tehlikeli sonuçlar doğar.\", \"genres\": [\"Korku\", \"Gerilim\"], \"director\": \"Ángel Gómez Hernández\"}, {\"id\": 1538497, \"title\": \"Hexe: Sihir Krallığı\", \"release_date\": \"2026-11-27\", \"overview\": \"Düşünmeden hareket eden ve kurallara uymayan Billie, gizli sihirli yeteneklerini keşfeder ve bu yetenekler onu Hexe adı verilen uçsuz bucaksız bir cadı diyarına doğru muhteşem bir yolculuğa çıkarır. Annesi Alice'le birlikte Billie, cadıların dünyasını sonsuza dek değiştirebilecek sırları ortaya çıkarır.\", \"genres\": [\"Macera\", \"Animasyon\", \"Aile\", \"Fantastik\", \"Komedi\"], \"director\": \"Jason Hand\"}, {\"id\": 1381071, \"title\": \"Godzilla Minus Zero\", \"release_date\": \"2026-11-06\", \"overview\": \"1949 yılı... Godzilla Minus One’ın kaotik olaylarından iki yıl sonra, Shikishima ailesi için yepyeni bir yıkım kapıda.\", \"genres\": [\"Bilim-Kurgu\", \"Korku\", \"Aksiyon\"], \"director\": \"Takashi Yamazaki\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1765072,
+      "title": "You Can See Everything",
+      "original_title": "You Can See Everything",
+      "year": "2026",
+      "release_date": "2026-10-30",
+      "overview": "Hapishaneye gönderilmesine otuz dört gün kala, kötü şöhretli Theranos'un kurucusu Elizabeth Holmes, şüpheci bir film ekibini her hareketini belgelemeye davet eder. Samimi bir portre olarak başlayan bu süreç, akıl almaz üç yıllık bir yolculuğa dönüşür.",
+      "tagline": "",
+      "runtime": 175,
+      "vote": 8.3,
+      "genres": [
+        "Belgesel"
+      ],
+      "director": "Nathan Fielder",
+      "cast": [
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Billy Evans",
+        "Amanda Seyfried",
+        "Christopher Abbott"
+      ],
+      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg"
+    },
+    {
+      "id": 1376400,
+      "title": "Araknofobi: Kabus",
+      "original_title": "Crawlers",
+      "year": "2026",
+      "release_date": "2026-11-06",
+      "overview": "Apartmanlarını basan ölümcül örümcek istilasına karşı hayatta kalma savaşı veren Paradiso Palms sakinleri, kurnaz bina yöneticisine güvenmek zorunda kalınca tehlikeli sonuçlar doğar.",
+      "tagline": "",
+      "runtime": 80,
+      "vote": 6.0,
+      "genres": [
+        "Korku",
+        "Gerilim"
+      ],
+      "director": "Ángel Gómez Hernández",
+      "cast": [
+        "Matilda Lutz",
+        "Gregg Sulkin",
+        "Melina Matthews",
+        "Paul S. Tracey",
+        "Andrea Scott Méndez"
+      ],
+      "poster_path": "/wepXnGTUEhjKpEOG9v2WbTHYUNT.jpg"
+    },
+    {
+      "id": 1538497,
+      "title": "Hexe: Sihir Krallığı",
+      "original_title": "Hexed",
+      "year": "2026",
+      "release_date": "2026-11-27",
+      "overview": "Düşünmeden hareket eden ve kurallara uymayan Billie, gizli sihirli yeteneklerini keşfeder ve bu yetenekler onu Hexe adı verilen uçsuz bucaksız bir cadı diyarına doğru muhteşem bir yolculuğa çıkarır. Annesi Alice'le birlikte Billie, cadıların dünyasını sonsuza dek değiştirebilecek sırları ortaya çıkarır.",
+      "tagline": "Billie'ye bir şeyler oluyor...",
+      "runtime": 99,
+      "vote": 0,
+      "genres": [
+        "Macera",
+        "Animasyon",
+        "Aile",
+        "Fantastik",
+        "Komedi"
+      ],
+      "director": "Jason Hand",
+      "cast": [
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Tracey Ullman"
+      ],
+      "poster_path": "/sFiKgO6BixQz3hSw3Gl9dvJA32L.jpg"
+    },
+    {
+      "id": 1381071,
+      "title": "Godzilla Minus Zero",
+      "original_title": "ゴジラ-0.0",
+      "year": "2026",
+      "release_date": "2026-11-06",
+      "overview": "1949 yılı... Godzilla Minus One’ın kaotik olaylarından iki yıl sonra, Shikishima ailesi için yepyeni bir yıkım kapıda.",
+      "tagline": "Yeni bir tehdit yaklaşıyor.",
+      "runtime": 135,
+      "vote": 0,
+      "genres": [
+        "Bilim-Kurgu",
+        "Korku",
+        "Aksiyon"
+      ],
+      "director": "Takashi Yamazaki",
+      "cast": [
+        "Ryunosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Kuranosuke Sasaki",
+        "Jun Kunimura"
+      ],
+      "poster_path": "/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"
+    }
+  ]
+}
