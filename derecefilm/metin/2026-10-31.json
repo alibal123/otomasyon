@@ -1,0 +1,34 @@
+{
+ "baslik": "Macera Sevenlere 5 Film",
+ "filmler": [
+  {
+   "id": 203801,
+   "neden": "Soğuk Savaş'ta CIA ajanı ile KGB ajanı, bir suç örgütüne karşı birleşiyor."
+  },
+  {
+   "id": 4538,
+   "neden": "Üç kardeş, babalarının ardından Hindistan'da bir tren turuna çıkıyor."
+  },
+  {
+   "id": 657,
+   "neden": "James Bond, İstanbul'daki bir kodlama makinesi görevi için Türkiye'ye geliyor."
+  },
+  {
+   "id": 644,
+   "neden": "Annesine sonsuz sevgi besleyen robot David'in duygusal yolculuğu."
+  },
+  {
+   "id": 102651,
+   "neden": "Moors ormanının perisi Malefiz'in anlatılmamış hikayesi."
+  }
+ ],
+ "aciklama": "Cadılar Bayramı gecesi için macera dolu beş öneri. Casusluktan Hindistan'da bir tren yolculuğuna, İstanbul'da geçen bir Bond macerasından robot bir çocuğun hikayesine ve bir perinin masalına kadar geniş bir seçki hazırladık. Kod Adı: U.N.C.L.E., Küs Kardeşler Limited Şirketi, Rusya'dan Sevgilerle, Yapay Zeka ve Malefiz listemizde. Hangisini bu akşam açarsınız?",
+ "etiketler": [
+  "maceraFilmleri",
+  "filmoneri",
+  "Bond",
+  "WesAnderson",
+  "Spielberg",
+  "Malefiz"
+ ]
+}
