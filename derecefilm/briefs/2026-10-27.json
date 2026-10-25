@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-27",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Asfaltın Kralları\", \"year\": \"2019\", \"overview\": \"Ford v. Ferrari, 1966 yılında düzenlenen Le Mans 24 Saat Yarışı’nın gerçek hikayesini konu alıyor. Henry Ford II ve Lee Iacocca ikilisi, tuhaf ancak kararlı bir grup Amerikalı mühendis ve tasarımcıdan sıfırdan bir otomobil yapmalarını ister. Otomotiv vizyoneri Carroll Shelby (Matt Damon) ve İngiliz şoförü Ken Miles’ın (Christian Bale) başını çektiği ekip, uzun yıllardır pistlere egemen olan Ferrari’yi Fransa’da düzenlenen 1966 Le Mans Dünya Şampiyonası’nda alt etmek için işe koyulur.\", \"tagline\": \"Ford vs. Ferrari'nin gerçek hikayesinden uyarlanmıştır.\", \"genres\": [\"Dram\", \"Tarih\", \"Aksiyon\"], \"director\": \"James Mangold\", \"cast\": [\"Matt Damon\", \"Christian Bale\", \"Jon Bernthal\", \"Caitríona Balfe\", \"Josh Lucas\"], \"runtime\": 152, \"vote\": 8.0}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 359724,
+      "title": "Asfaltın Kralları",
+      "original_title": "Ford v Ferrari",
+      "year": "2019",
+      "release_date": "2019-11-13",
+      "overview": "Ford v. Ferrari, 1966 yılında düzenlenen Le Mans 24 Saat Yarışı’nın gerçek hikayesini konu alıyor. Henry Ford II ve Lee Iacocca ikilisi, tuhaf ancak kararlı bir grup Amerikalı mühendis ve tasarımcıdan sıfırdan bir otomobil yapmalarını ister. Otomotiv vizyoneri Carroll Shelby (Matt Damon) ve İngiliz şoförü Ken Miles’ın (Christian Bale) başını çektiği ekip, uzun yıllardır pistlere egemen olan Ferrari’yi Fransa’da düzenlenen 1966 Le Mans Dünya Şampiyonası’nda alt etmek için işe koyulur.",
+      "tagline": "Ford vs. Ferrari'nin gerçek hikayesinden uyarlanmıştır.",
+      "runtime": 152,
+      "vote": 8.0,
+      "genres": [
+        "Dram",
+        "Tarih",
+        "Aksiyon"
+      ],
+      "director": "James Mangold",
+      "cast": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal",
+        "Caitríona Balfe",
+        "Josh Lucas"
+      ],
+      "poster_path": "/7yXOh2PqutxhruHzVuoR35D1r4m.jpg"
+    }
+  ]
+}

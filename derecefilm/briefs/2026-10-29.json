@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-29",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Batman Başlıyor",
+      "Zombi Ekspresi",
+      "Özgürlük Yolu"
+    ],
+    "dogru_index": 0
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Batman Başlıyor\", \"year\": \"2005\", \"overview\": \"Çocukken yaşadığı trajik kayıptan beslenen milyarder Bruce Wayne, adaletin izini sürmek ve suçun doğasını anlamak için dünyayı dolaşır. Yozlaşmanın ve suçun pençesindeki şehri Gotham'a döndüğünde, adaletin mevcut sistem içinde sağlanamayacağını anlayarak suç dünyasına korku salacak yeni bir sembol yaratır: Batman. Zekası, disiplinli eğitimi ve ileri teknoloji teçhizatıyla Gotham'ı tehdit eden karanlık güçlere karşı amansız bir mücadele başlatır.\", \"tagline\": \"Kötülük şövalyeden korkar.\", \"director\": \"Christopher Nolan\", \"cast\": [\"Christian Bale\", \"Michael Caine\", \"Liam Neeson\", \"Katie Holmes\", \"Gary Oldman\"], \"genres\": [\"Dram\", \"Suç\", \"Aksiyon\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Batman Başlıyor\", \"Zombi Ekspresi\", \"Özgürlük Yolu\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 272,
+      "title": "Batman Başlıyor",
+      "original_title": "Batman Begins",
+      "year": "2005",
+      "release_date": "2005-06-10",
+      "overview": "Çocukken yaşadığı trajik kayıptan beslenen milyarder Bruce Wayne, adaletin izini sürmek ve suçun doğasını anlamak için dünyayı dolaşır. Yozlaşmanın ve suçun pençesindeki şehri Gotham'a döndüğünde, adaletin mevcut sistem içinde sağlanamayacağını anlayarak suç dünyasına korku salacak yeni bir sembol yaratır: Batman. Zekası, disiplinli eğitimi ve ileri teknoloji teçhizatıyla Gotham'ı tehdit eden karanlık güçlere karşı amansız bir mücadele başlatır.",
+      "tagline": "Kötülük şövalyeden korkar.",
+      "runtime": 140,
+      "vote": 7.7,
+      "genres": [
+        "Dram",
+        "Suç",
+        "Aksiyon"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Michael Caine",
+        "Liam Neeson",
+        "Katie Holmes",
+        "Gary Oldman"
+      ],
+      "poster_path": "/f1pQPzFmBXyFaScnrqeSm8lvCH9.jpg"
+    },
+    {
+      "id": 5915,
+      "title": "Özgürlük Yolu",
+      "original_title": "Into the Wild",
+      "year": "2007",
+      "release_date": "2007-09-21",
+      "overview": "Genç Christopher McCandless’ın ilham veren gerçek hikayesinden uyarlanan Into the Wild, rahat ve konforlu yaşamını terk ederek Alaska’nın kırsalında hayatının en büyük meydan okumasını gerçekleştirmek ve özgürlüğü yaşamak için yollara düşen Christopher’ın hikayesini anlatıyor. Filmin senaryo yazarı ve yönetmeni Sean Penn’e yıldız oyuncular William Hurt, Marcia Gay Harden, Vince Vaughn, Catherine Keener ve Hal Holbrook eşlik ediyor. Özgürlüğe Giden Yolda, “güzel olduğu kadar heyecan verici, eğlenceli ve çoşkulu.”",
+      "tagline": "Kalbe doğru, ruha doğru.",
+      "runtime": 148,
+      "vote": 7.8,
+      "genres": [
+        "Macera",
+        "Dram"
+      ],
+      "director": "Sean Penn",
+      "cast": [
+        "Emile Hirsch",
+        "Marcia Gay Harden",
+        "William Hurt",
+        "Jena Malone",
+        "Brian H. Dierker"
+      ],
+      "poster_path": "/45vbBtA8XAkjOXx16GubMGp3Dua.jpg"
+    },
+    {
+      "id": 396535,
+      "title": "Zombi Ekspresi",
+      "original_title": "부산행",
+      "year": "2016",
+      "release_date": "2016-07-20",
+      "overview": "Sok-woo, işinden başını kaşımaya fırsat bulamayan, kızını sürekli ihmal eden bir babadır. Doğum gününde kızının ısrarları üzerine, onu, eski eşinin yanına bırakmak için Seul’den kalkıp Busan’a gidecek olan trene gönülsüzce biner. Tren tam kalkmak üzereyken, sıra dışı bir virüsten etkilenen genç bir kadın, trendekilere virüsü yaymaya başlar. Virüsün bulaştığı herkes, teker teker zombiye dönüşür. Sebebi belirlenemeyen virüs, tüm ülkeye yayılırken, hızla Busan’a yol alan trende de Sok-woo, kızı ve daha birçok yolcu amansız bir hayatta kalma mücadelesine girişir.",
+      "tagline": "Hayatta kalmak için trende kal.",
+      "runtime": 120,
+      "vote": 7.8,
+      "genres": [
+        "Aksiyon",
+        "Korku",
+        "Gerilim",
+        "Macera"
+      ],
+      "director": "Yeon Sang-ho",
+      "cast": [
+        "Gong Yoo",
+        "Kim Su-an",
+        "Jung Yu-mi",
+        "Don Lee",
+        "Choi Woo-shik"
+      ],
+      "poster_path": "/uDSm2WqdaNPEMrkRM4tOacg4a9G.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 272,
+    "title": "Batman Başlıyor",
+    "original_title": "Batman Begins",
+    "year": "2005",
+    "release_date": "2005-06-10",
+    "overview": "Çocukken yaşadığı trajik kayıptan beslenen milyarder Bruce Wayne, adaletin izini sürmek ve suçun doğasını anlamak için dünyayı dolaşır. Yozlaşmanın ve suçun pençesindeki şehri Gotham'a döndüğünde, adaletin mevcut sistem içinde sağlanamayacağını anlayarak suç dünyasına korku salacak yeni bir sembol yaratır: Batman. Zekası, disiplinli eğitimi ve ileri teknoloji teçhizatıyla Gotham'ı tehdit eden karanlık güçlere karşı amansız bir mücadele başlatır.",
+    "tagline": "Kötülük şövalyeden korkar.",
+    "runtime": 140,
+    "vote": 7.7,
+    "genres": [
+      "Dram",
+      "Suç",
+      "Aksiyon"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes",
+      "Gary Oldman"
+    ],
+    "poster_path": "/f1pQPzFmBXyFaScnrqeSm8lvCH9.jpg"
+  }
+}

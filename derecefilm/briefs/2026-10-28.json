@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-28",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Sevgili Zachary: Bir Oğula Babası ile İlgili Bir Mektup\", \"year\": \"2008\", \"overview\": \"Yönetmen Kurt Kuenne'in 25 Eylül 2001’de Latrobe, Pennsylvania'da, eski sevgilisi Shirley Turner tarafından vücudunun beş yerinden vurularak öldürülen arkadaşı Andrew Bagby anısına önce Shirley Turner'dan doğacak oğlu Zachary için başladığı, sonra ise Andrew'in ailesi David-Kathleen Bagby için tamamladığı tamamen gerçek kişi ve olayları konu edinen belgesel türündeki filmi.\", \"tagline\": \"\", \"genres\": [\"Belgesel\", \"Suç\"], \"director\": \"Kurt Kuenne\", \"cast\": [\"Kurt Kuenne\", \"Andrew Bagby\", \"David Bagby\", \"Kathleen Bagby\", \"Shirley Turner\"], \"runtime\": 95, \"vote\": 8.1}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 15584,
+      "title": "Sevgili Zachary: Bir Oğula Babası ile İlgili Bir Mektup",
+      "original_title": "Dear Zachary: A Letter to a Son About His Father",
+      "year": "2008",
+      "release_date": "2008-10-31",
+      "overview": "Yönetmen Kurt Kuenne'in 25 Eylül 2001’de Latrobe, Pennsylvania'da, eski sevgilisi Shirley Turner tarafından vücudunun beş yerinden vurularak öldürülen arkadaşı Andrew Bagby anısına önce Shirley Turner'dan doğacak oğlu Zachary için başladığı, sonra ise Andrew'in ailesi David-Kathleen Bagby için tamamladığı tamamen gerçek kişi ve olayları konu edinen belgesel türündeki filmi.",
+      "tagline": "",
+      "runtime": 95,
+      "vote": 8.1,
+      "genres": [
+        "Belgesel",
+        "Suç"
+      ],
+      "director": "Kurt Kuenne",
+      "cast": [
+        "Kurt Kuenne",
+        "Andrew Bagby",
+        "David Bagby",
+        "Kathleen Bagby",
+        "Shirley Turner"
+      ],
+      "poster_path": "/yYVHGe7U55Ojx11y5A82phPpCHv.jpg"
+    }
+  ]
+}

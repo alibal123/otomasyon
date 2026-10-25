@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-31",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: macera filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 203801, \"title\": \"Kod Adı: U.N.C.L.E.\", \"year\": \"2015\", \"overview\": \"Guy Ritchie'nin yönetmen koltuğunda oturduğu casusluk filmi 1960'lı yıllarda Soğuk Savaş döneminde geçiyor. Uzun süredir aralarındaki düşmanlık nedeniyle çeşitli olaylarda karşı karşıya çarpışmış olan CIA ajanı Solo ile KGB için çalışan Kuryakin, uluslararası bir suç örgütünü çökertmek için işbirliği yapmak zorunda kalırlar. Bu zorlu davada ellerindeki tek ipucu ise Alman bir bilimadamının kızına ulaştıkları takdirde ilerleyecek olmalarıdır. Dünyanın büyük bir felaketten kurtulması, zamanla yarışmak zorunda oldukları bu göreve bağlıdır. 1960'lı yılların popüler dizisinden uyarlanan filmin başrollerini Henry Cavill ile Armie Hammer paylaşıyor.\", \"genres\": [\"Komedi\", \"Aksiyon\", \"Macera\"], \"vote\": 7.1}, {\"id\": 4538, \"title\": \"Küs Kardeşler Limited Şirketi\", \"year\": \"2007\", \"overview\": \"Babalarının ölümü sonrası Hindistan’a yolculuğa çıkmaya karar veren birbirinden ilginç karakterdeki üç kardeşin başlarından geçen fantastik olayların anlatıldığı The Darjeeling Limited, Wes Anderson imzasını taşıyor.  Filmin hikayesi, birbirine yabancı üç kardeşin babalarının ölümünün ardından Hindistan'da bir tren turuna çıkmalarını anlatıyor.  Hayal ürünü olan uzun mesafe treni \\\"Darjeeling Limited\\\"ın ismi, belli ki Darjeeling Himalayan Railway'den alıntılanmış... Bu tren yolculuğu, birbirlerini tanıyıp yakınlaşmaya çalışan kardeşlerin çabalarının arka planını oluşturuyor...\", \"genres\": [\"Macera\", \"Dram\", \"Komedi\"], \"vote\": 7.1}, {\"id\": 657, \"title\": \"Rusya'dan Sevgilerle\", \"year\": \"1963\", \"overview\": \"1957’de yayımlanan Ian Fleming’in beşinci James Bond romanından aynı isimle uyarlanan “From Russia with Love” serinin ikinci filmidir. Bu filmle Sean Connery ikinci kez Bond’u oynar.Sovyet İstihbarat Ordusunda görevli onbaşı Tatiana Romanova, İstanbul Büyükelçiliğinde katip olarak gönderilmiştir. Romanova ülkesi için her türlü fedakarlığı yapmaya hazırdır. Fakat komutanı Klebb aynı zamanda Spectre hesabına çalışmaktadır ve Spectre Dr. No’nun intikamını almayı planlamaktadır. Klebb'e güvenmeyen Romanova, İstanbul’da Ali Kerim Bey ile irtibat kurarak LEKTOR kodlama makinasını da yanına alıp Sovyetlerden ayrılmak istediğini, planını ancak James Bond yardım ederse gerçekleştirebileceğini söyler. Kadın gizli bir dosyada gördüğü bir resimdeki adama aşık olduğunu iddia etmektedir. M ve Bond bunun bir tuzak olduğuna inanmaktadırlar fakat denemeye değecektir. Bond, Romanova’ya yardım etmek üzere Türkiye’ye gönderilir.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Macera\"], \"vote\": 7.1}, {\"id\": 644, \"title\": \"Yapay Zeka\", \"year\": \"2001\", \"overview\": \"Yakın gelecekte, özellikle annesine karşı sonsuz bir sevgi besleyen ve hakiki insani duyguları olan robot David, gerçek oğlu şifasız bir hastalık yüzünden \\\"kriyo-staz\\\" konumuna giren Monica tarafından evlatlık edinilir. Monica ve kocasıyla mutlu bir şekilde yaşayan David'in hayatı, çiftin gerçek oğlunun iyileşerek eve dönmesiyle dramatik bir şekilde değişir. Brian Aldiss'in \\\"Super-Toys Last All Summer Long\\\" adlı kısa hikayesinden esinlenen bu filmin yönetmeni Steven Spielberg.\", \"genres\": [\"Dram\", \"Bilim-Kurgu\", \"Macera\"], \"vote\": 7.1}, {\"id\": 102651, \"title\": \"Malefiz\", \"year\": \"2014\", \"overview\": \"Malefiz, \\\"Uyuyan Güzel\\\"in en ikonik kötü karakterinin anlatılmamış hikâyesini anlatıyor. Peri olan Malefiz, insan krallığı ile sınırı olan Moors adındaki büyülü ve huzurlu bir orman krallığında yaşamaktadır. Daha küçük bir kızken Stefan adında bir insana aşık olur. Fakat büyüdüklerinde Stefan'ın ihaneti ile kalbi taşlaşmış, kindar bir periye dönüşen Malefiz, topraklarına savaş açan insanların kralının kızı Aurora'yı lanetler. Fakat Aurora büyüdükçe Malefiz, onun gerçek barışı sağlayacak yegane anahtar olduğunu fark edecektir.\", \"genres\": [\"Fantastik\", \"Macera\", \"Aksiyon\", \"Aile\", \"Romantik\"], \"vote\": 7.1}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 203801,
+      "title": "Kod Adı: U.N.C.L.E.",
+      "original_title": "The Man from U.N.C.L.E.",
+      "year": "2015",
+      "release_date": "2015-08-13",
+      "overview": "Guy Ritchie'nin yönetmen koltuğunda oturduğu casusluk filmi 1960'lı yıllarda Soğuk Savaş döneminde geçiyor. Uzun süredir aralarındaki düşmanlık nedeniyle çeşitli olaylarda karşı karşıya çarpışmış olan CIA ajanı Solo ile KGB için çalışan Kuryakin, uluslararası bir suç örgütünü çökertmek için işbirliği yapmak zorunda kalırlar. Bu zorlu davada ellerindeki tek ipucu ise Alman bir bilimadamının kızına ulaştıkları takdirde ilerleyecek olmalarıdır. Dünyanın büyük bir felaketten kurtulması, zamanla yarışmak zorunda oldukları bu göreve bağlıdır. 1960'lı yılların popüler dizisinden uyarlanan filmin başrollerini Henry Cavill ile Armie Hammer paylaşıyor.",
+      "tagline": "",
+      "runtime": 116,
+      "vote": 7.1,
+      "genres": [
+        "Komedi",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "Guy Ritchie",
+      "cast": [
+        "Henry Cavill",
+        "Armie Hammer",
+        "Alicia Vikander",
+        "Elizabeth Debicki",
+        "Luca Calvani"
+      ],
+      "poster_path": "/gXdlIcxBgydkDvo7rP8Ch2sHnAK.jpg"
+    },
+    {
+      "id": 4538,
+      "title": "Küs Kardeşler Limited Şirketi",
+      "original_title": "The Darjeeling Limited",
+      "year": "2007",
+      "release_date": "2007-09-07",
+      "overview": "Babalarının ölümü sonrası Hindistan’a yolculuğa çıkmaya karar veren birbirinden ilginç karakterdeki üç kardeşin başlarından geçen fantastik olayların anlatıldığı The Darjeeling Limited, Wes Anderson imzasını taşıyor.  Filmin hikayesi, birbirine yabancı üç kardeşin babalarının ölümünün ardından Hindistan'da bir tren turuna çıkmalarını anlatıyor.  Hayal ürünü olan uzun mesafe treni \"Darjeeling Limited\"ın ismi, belli ki Darjeeling Himalayan Railway'den alıntılanmış... Bu tren yolculuğu, birbirlerini tanıyıp yakınlaşmaya çalışan kardeşlerin çabalarının arka planını oluşturuyor...",
+      "tagline": "",
+      "runtime": 91,
+      "vote": 7.1,
+      "genres": [
+        "Macera",
+        "Dram",
+        "Komedi"
+      ],
+      "director": "Wes Anderson",
+      "cast": [
+        "Owen Wilson",
+        "Adrien Brody",
+        "Jason Schwartzman",
+        "Amara Karan",
+        "Wallace Wolodarsky"
+      ],
+      "poster_path": "/jB6J1dwjEMJ7V71oxODNrbFGQKv.jpg"
+    },
+    {
+      "id": 657,
+      "title": "Rusya'dan Sevgilerle",
+      "original_title": "From Russia with Love",
+      "year": "1963",
+      "release_date": "1963-10-10",
+      "overview": "1957’de yayımlanan Ian Fleming’in beşinci James Bond romanından aynı isimle uyarlanan “From Russia with Love” serinin ikinci filmidir. Bu filmle Sean Connery ikinci kez Bond’u oynar.Sovyet İstihbarat Ordusunda görevli onbaşı Tatiana Romanova, İstanbul Büyükelçiliğinde katip olarak gönderilmiştir. Romanova ülkesi için her türlü fedakarlığı yapmaya hazırdır. Fakat komutanı Klebb aynı zamanda Spectre hesabına çalışmaktadır ve Spectre Dr. No’nun intikamını almayı planlamaktadır. Klebb'e güvenmeyen Romanova, İstanbul’da Ali Kerim Bey ile irtibat kurarak LEKTOR kodlama makinasını da yanına alıp Sovyetlerden ayrılmak istediğini, planını ancak James Bond yardım ederse gerçekleştirebileceğini söyler. Kadın gizli bir dosyada gördüğü bir resimdeki adama aşık olduğunu iddia etmektedir. M ve Bond bunun bir tuzak olduğuna inanmaktadırlar fakat denemeye değecektir. Bond, Romanova’ya yardım etmek üzere Türkiye’ye gönderilir.",
+      "tagline": "",
+      "runtime": 115,
+      "vote": 7.1,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Macera"
+      ],
+      "director": "Terence Young",
+      "cast": [
+        "Sean Connery",
+        "Daniela Bianchi",
+        "Pedro Armendáriz",
+        "Robert Shaw",
+        "Lotte Lenya"
+      ],
+      "poster_path": "/koh1YMMNHZMojwieXDsnVTeN6il.jpg"
+    },
+    {
+      "id": 644,
+      "title": "Yapay Zeka",
+      "original_title": "A.I. Artificial Intelligence",
+      "year": "2001",
+      "release_date": "2001-06-29",
+      "overview": "Yakın gelecekte, özellikle annesine karşı sonsuz bir sevgi besleyen ve hakiki insani duyguları olan robot David, gerçek oğlu şifasız bir hastalık yüzünden \"kriyo-staz\" konumuna giren Monica tarafından evlatlık edinilir. Monica ve kocasıyla mutlu bir şekilde yaşayan David'in hayatı, çiftin gerçek oğlunun iyileşerek eve dönmesiyle dramatik bir şekilde değişir. Brian Aldiss'in \"Super-Toys Last All Summer Long\" adlı kısa hikayesinden esinlenen bu filmin yönetmeni Steven Spielberg.",
+      "tagline": "Steven Spielberg'in YAPAY ZEKA'sı olağanüstü.",
+      "runtime": 146,
+      "vote": 7.1,
+      "genres": [
+        "Dram",
+        "Bilim-Kurgu",
+        "Macera"
+      ],
+      "director": "Steven Spielberg",
+      "cast": [
+        "Haley Joel Osment",
+        "Jude Law",
+        "Frances O'Connor",
+        "Sam Robards",
+        "Jake Thomas"
+      ],
+      "poster_path": "/kBIL0VALvYV6Veya2mglFJSvji5.jpg"
+    },
+    {
+      "id": 102651,
+      "title": "Malefiz",
+      "original_title": "Maleficent",
+      "year": "2014",
+      "release_date": "2014-05-28",
+      "overview": "Malefiz, \"Uyuyan Güzel\"in en ikonik kötü karakterinin anlatılmamış hikâyesini anlatıyor. Peri olan Malefiz, insan krallığı ile sınırı olan Moors adındaki büyülü ve huzurlu bir orman krallığında yaşamaktadır. Daha küçük bir kızken Stefan adında bir insana aşık olur. Fakat büyüdüklerinde Stefan'ın ihaneti ile kalbi taşlaşmış, kindar bir periye dönüşen Malefiz, topraklarına savaş açan insanların kralının kızı Aurora'yı lanetler. Fakat Aurora büyüdükçe Malefiz, onun gerçek barışı sağlayacak yegane anahtar olduğunu fark edecektir.",
+      "tagline": "Peri masallarına inanmayın.",
+      "runtime": 97,
+      "vote": 7.1,
+      "genres": [
+        "Fantastik",
+        "Macera",
+        "Aksiyon",
+        "Aile",
+        "Romantik"
+      ],
+      "director": "Robert Stromberg",
+      "cast": [
+        "Angelina Jolie",
+        "Elle Fanning",
+        "Imelda Staunton",
+        "Sharlto Copley",
+        "Lesley Manville"
+      ],
+      "poster_path": "/7uyP5XIKFoESDx13736ioQ8ROWe.jpg"
+    }
+  ]
+}

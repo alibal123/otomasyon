@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-01",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Soysuzlar Çetesi\", \"year\": \"2009\", \"overview\": \"Inglourious Basterds, Shosanna Dreyfus 'un ailesinin Nazi Yüzbaşısı Hans Landa 'un elinde idam edilmesi sırasında, Alman işgalindeki Fransa'da başlar. Shosanna kıl payı kurtulur ve bir sinema sahibi olarak yeni bir kimlik uyduracağı Fransa'ya gider. Avrupa'nın başka bir yerinde Teğmen Aldo Raine bir grup Yahudi askerini organize ederek hedef alınan bölgelere doğru yönlendirir. Düşmanları tarafından \\\"Soysuzlar\\\" olarak bilinen Raine'ın ekibi, etmek göreviyle Alman film yıldızı ve gizli ajan Bridget Von Hammersmark'a katılırlar. Kaderleri, Shosanna'nın hazır tuttuğu intikam planını gerçekleştireceği bir sinemanın altında birleşir...\", \"tagline\": \"Yüz kızartıcı, şamatalı bir intikam yolculuğu.\", \"genres\": [\"Dram\", \"Gerilim\", \"Savaş\"], \"director\": \"Quentin Tarantino\", \"cast\": [\"Brad Pitt\", \"Mélanie Laurent\", \"Christoph Waltz\", \"Eli Roth\", \"Michael Fassbender\"], \"runtime\": 153, \"vote\": 8.2}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 16869,
+      "title": "Soysuzlar Çetesi",
+      "original_title": "Inglourious Basterds",
+      "year": "2009",
+      "release_date": "2009-08-02",
+      "overview": "Inglourious Basterds, Shosanna Dreyfus 'un ailesinin Nazi Yüzbaşısı Hans Landa 'un elinde idam edilmesi sırasında, Alman işgalindeki Fransa'da başlar. Shosanna kıl payı kurtulur ve bir sinema sahibi olarak yeni bir kimlik uyduracağı Fransa'ya gider. Avrupa'nın başka bir yerinde Teğmen Aldo Raine bir grup Yahudi askerini organize ederek hedef alınan bölgelere doğru yönlendirir. Düşmanları tarafından \"Soysuzlar\" olarak bilinen Raine'ın ekibi, etmek göreviyle Alman film yıldızı ve gizli ajan Bridget Von Hammersmark'a katılırlar. Kaderleri, Shosanna'nın hazır tuttuğu intikam planını gerçekleştireceği bir sinemanın altında birleşir...",
+      "tagline": "Yüz kızartıcı, şamatalı bir intikam yolculuğu.",
+      "runtime": 153,
+      "vote": 8.2,
+      "genres": [
+        "Dram",
+        "Gerilim",
+        "Savaş"
+      ],
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Brad Pitt",
+        "Mélanie Laurent",
+        "Christoph Waltz",
+        "Eli Roth",
+        "Michael Fassbender"
+      ],
+      "poster_path": "/w3M2SpS71EBl3oXmUGHet2rCm71.jpg"
+    }
+  ]
+}

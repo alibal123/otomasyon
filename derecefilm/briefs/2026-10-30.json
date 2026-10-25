@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-30",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1514026, \"title\": \"Buddy\", \"release_date\": \"2026-11-20\", \"overview\": \"Hatırladınız mı Buddy'yi? O klasik çocuk televizyon programının, salonunuza neşe ve hayat dersleri taşıyan, canlı turuncu renkli tek boynuzlu atı ve başrol oyuncusu... \\\"İşte Buddy!\\\" programının renkli dünyasında bir grup çocuk günlerini şarkı söyleyerek dans ederek ve Buddy'nin mutluluk yaymasına yardım ederek geçirir. Ancak çocuklardan biri oyuna katılmayı reddettiğinde Buddy bu durumdan hiç memnun kalmaz ve bu görünüşte kusursuz dünyada çatlaklar belirmeye başlar.\", \"genres\": [\"Korku\", \"Komedi\", \"Fantastik\"], \"director\": \"Casper Kelly\"}, {\"id\": 1195803, \"title\": \"İdeal Koca\", \"release_date\": \"2026-11-27\", \"overview\": \"Deniz kıyısındaki bir köyün dış çeperinde, kötü kokan, bekâr ve sürekli alay konusu olan bir balıkçı kadın yaşar. Bir gün, dar görüşlü ve boğucu komşularından bıkınca, kendine hasır malzemeden bir koca yaptırır. Oldukça muhafazakâr olan bu kasabada, söz konusu sıra dışı aşk; öfkeye, kıskançlığa ve kaosa yol açar.\", \"genres\": [\"Romantik\", \"Fantastik\", \"Komedi\"], \"director\": \"Eleanor Wilson\"}, {\"id\": 1300968, \"title\": \"Açlık Oyunları: Hasatta Gündoğumu\", \"release_date\": \"2026-11-20\", \"overview\": \"Açlık Oyunları olaylarından 24 yıl öncesine, 50. Açlık Oyunları ya da diğer adıyla İkinci Çeyrek Kıyamet'in kura çekimi için Panem dünyasına geri dönün.\", \"genres\": [\"Bilim-Kurgu\", \"Aksiyon\", \"Macera\"], \"director\": \"Francis Lawrence\"}, {\"id\": 1117898, \"title\": \"Şapkalı Kedi\", \"release_date\": \"2026-11-06\", \"overview\": \"Yeni taşındıkları kasabada Gabby ve Sebastian adlı iki kardeşi neşelendirmekle görevlendirilen Şapkalı Kedi, işlerin kontrolden çıkmasının ardından sihirli şapkasını kaybetme riskiyle karşı karşıya kalıyor.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Macera\", \"Fantastik\", \"Aile\"], \"director\": \"Erica Rivinoja\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1514026,
+      "title": "Buddy",
+      "original_title": "Buddy",
+      "year": "2026",
+      "release_date": "2026-11-20",
+      "overview": "Hatırladınız mı Buddy'yi? O klasik çocuk televizyon programının, salonunuza neşe ve hayat dersleri taşıyan, canlı turuncu renkli tek boynuzlu atı ve başrol oyuncusu... \"İşte Buddy!\" programının renkli dünyasında bir grup çocuk günlerini şarkı söyleyerek dans ederek ve Buddy'nin mutluluk yaymasına yardım ederek geçirir. Ancak çocuklardan biri oyuna katılmayı reddettiğinde Buddy bu durumdan hiç memnun kalmaz ve bu görünüşte kusursuz dünyada çatlaklar belirmeye başlar.",
+      "tagline": "",
+      "runtime": 96,
+      "vote": 7.1,
+      "genres": [
+        "Korku",
+        "Komedi",
+        "Fantastik"
+      ],
+      "director": "Casper Kelly",
+      "cast": [
+        "Keegan-Michael Key",
+        "Cristin Milioti",
+        "Delaney Quinn",
+        "Caleb Williams",
+        "Madison Skyy Polan"
+      ],
+      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg"
+    },
+    {
+      "id": 1195803,
+      "title": "İdeal Koca",
+      "original_title": "Wicker",
+      "year": "2026",
+      "release_date": "2026-11-27",
+      "overview": "Deniz kıyısındaki bir köyün dış çeperinde, kötü kokan, bekâr ve sürekli alay konusu olan bir balıkçı kadın yaşar. Bir gün, dar görüşlü ve boğucu komşularından bıkınca, kendine hasır malzemeden bir koca yaptırır. Oldukça muhafazakâr olan bu kasabada, söz konusu sıra dışı aşk; öfkeye, kıskançlığa ve kaosa yol açar.",
+      "tagline": "Kocam olsun, hasırdan olsun.",
+      "runtime": 105,
+      "vote": 7.2,
+      "genres": [
+        "Romantik",
+        "Fantastik",
+        "Komedi"
+      ],
+      "director": "Eleanor Wilson",
+      "cast": [
+        "Olivia Colman",
+        "Alexander Skarsgård",
+        "Peter Dinklage",
+        "Elizabeth Debicki",
+        "Marli Siu"
+      ],
+      "poster_path": "/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg"
+    },
+    {
+      "id": 1300968,
+      "title": "Açlık Oyunları: Hasatta Gündoğumu",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "release_date": "2026-11-20",
+      "overview": "Açlık Oyunları olaylarından 24 yıl öncesine, 50. Açlık Oyunları ya da diğer adıyla İkinci Çeyrek Kıyamet'in kura çekimi için Panem dünyasına geri dönün.",
+      "tagline": "Bu oyunlar farklı olacak.",
+      "runtime": 158,
+      "vote": 0,
+      "genres": [
+        "Bilim-Kurgu",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "Francis Lawrence",
+      "cast": [
+        "Joseph Zada",
+        "Ralph Fiennes",
+        "Jesse Plemons",
+        "Whitney Peak",
+        "Elle Fanning"
+      ],
+      "poster_path": "/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg"
+    },
+    {
+      "id": 1117898,
+      "title": "Şapkalı Kedi",
+      "original_title": "The Cat in the Hat",
+      "year": "2026",
+      "release_date": "2026-11-06",
+      "overview": "Yeni taşındıkları kasabada Gabby ve Sebastian adlı iki kardeşi neşelendirmekle görevlendirilen Şapkalı Kedi, işlerin kontrolden çıkmasının ardından sihirli şapkasını kaybetme riskiyle karşı karşıya kalıyor.",
+      "tagline": "Bir şeyler çığırından çıkıyor.",
+      "runtime": 108,
+      "vote": 0,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Macera",
+        "Fantastik",
+        "Aile"
+      ],
+      "director": "Erica Rivinoja",
+      "cast": [
+        "Bill Hader",
+        "Xochitl Gomez",
+        "Tiago Martinez",
+        "Matt Berry",
+        "Quinta Brunson"
+      ],
+      "poster_path": "/x2AHMuT66NRSwv1Vr7PKyZNLC51.jpg"
+    }
+  ]
+}

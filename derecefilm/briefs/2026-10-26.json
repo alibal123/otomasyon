@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-26",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: romantik filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 11631, \"title\": \"Mamma Mia!\", \"year\": \"2008\", \"overview\": \"Babasının kimliğini keşfetmeyi ümit eden genç bir kız olan Sophie Sheridan’ın öyküsü, ünlü pop grubu Abba’nın hit şarkıları eşliğinde anlatılıyor. Sophie Sheridan evlenme aşamasına gelmiş genç bir kızdır. Nikâhtan bir gün öncesinde annesi Donna’nın 20 yıl önce ziyaret ettiği Yunan adalarında yaşadığı geçmişinden üç erkek birden getirir.\", \"genres\": [\"Komedi\", \"Romantik\"], \"vote\": 7.0}, {\"id\": 9880, \"title\": \"Acemi Prenses\", \"year\": \"2001\", \"overview\": \"Avrupa'da Genovia adlı küçük bir ülke olduğunu biliyor muydunuz? Aslına bakarsanız, 15 yaşındaki San Franciscolu bir kız olan Mia dahil, pek çok kişi bu ülkenin varlığından habersiz. Ancak Mia'nın habersiz oluşu, özel bir durum yaratıyor: Çünkü, babasının yokluğunda annesi tarafından büyütülmüş bu genç hanım, gerçekte Genovia'nın prensesi.Babasının beklenmedik ölümünü haber alan Mia, San Francisco'daki yaşamında tam bir çirkin ördek yavrusu: Paspal bir görünüşü var, çekici olmayı beceremiyor, buna karşın, pırıl pırıl bir zekası var. Yeni tanışacağı büyükannesine düşen, Mia'nın dışını da içi kadar güzel yapmak - çünkü prensesler herşeyleriyle zarif ve alımlı görünmeli. Yani postallara veda, topuklu ayakkabılara merhaba.\", \"genres\": [\"Komedi\", \"Aile\", \"Romantik\"], \"vote\": 7.0}, {\"id\": 321612, \"title\": \"Güzel ve Çirkin\", \"year\": \"2017\", \"overview\": \"Film, konusunu “Güzel ve Çirkin” masalından almaktadır. Tüccar Maurice (Kevin Kline), Fransa'daki bir kasabada, küçük bir evde Belle (Emma Watson) isimli kızıyla yaşamaktadır. Belle iyi niyetli, zeki ve kitaplara meraklıdır. Tüm kasaba Belle'e hayrandır ama Belle evlilik düşünmez. Kasabanın kendini beğenmiş yakışıklısı Gaston (Luke Evans) sürekli Belle'in peşindedir ama Belle ona da yüz vermez. Maurice bir yolculuktan dönerken kurtların saldırısı yüzünden büyük bir şatoya sığınır. Kimseciklerin olmadığı bu şatoda dinlenir ve bahçedeki güllerden birini Belle’e götürmek için koparır. Bu güller, kötü bir büyü yüzünden canavara dönüşen Beast (Çirkin)'e (Dan Stevens) aittir ve tüccarın yaptığına öfkelenerek onu bir zindana kapatır. Babasını kurtarmak için Belle kendini feda ederek Beast'in esiri olmayı kabul eder. Bu büyü, tüm hizmetkarları eşyaya dönüştürmüştür ve bu şatodaki kötü sihri sadece gerçek aşk bozabilir.\", \"genres\": [\"Aile\", \"Fantastik\", \"Romantik\"], \"vote\": 7.0}, {\"id\": 46705, \"title\": \"Aşk ve Küller\", \"year\": \"2010\", \"overview\": \"Birbirlerine güçlü bir tutkuyla bağlanan Cindy ve Dean’in evlilikleri çok sevdikleri çocuklarına rağmen zaman içinde hapishanelerine dönüşür. Çift yorgun evliliklerini kurtarmaya çalışırken gençlik yıllarını, hayatlarının fırsatlar ve romantizm ile dopdolu olduğu eski altın günlerini hatırlayacaktır.\", \"genres\": [\"Dram\", \"Romantik\"], \"vote\": 7.0}, {\"id\": 10530, \"title\": \"Pocahontas\", \"year\": \"1995\", \"overview\": \"Muhteşem Disney Klasikleri'nin gerçek ruhu, müzik, eğlence, macera ve güzel mi güzel animasyonla dolup taşan bu olağanüstü filmde kendini gösteriyor.  Cesaret ve arkadaşlığın bu efsanevi hikayesi, Pocahontas'ın, yani özgür ruhlu prensesin, bir gemi dolusu gizemli İngiliz göçmeni izlemesiyle başlar. Rakun Meeko ve Sinekkuşu Flit ile birlikte Pocahontas ve Kaptan Smith arasında çok güçlü bir arkadaşlık başlar. Ancak birbirinden çok farklı iki kültür arasındaki gerilim tırmanya başladığında Pocahontas, herkesin barış içinde yaşaması için bir yol bulmak zorundadır. Tek çözüm Söğüt Nine'ye gidip, akıl danışmaktır.\", \"genres\": [\"Macera\", \"Animasyon\", \"Aile\", \"Romantik\"], \"vote\": 6.9}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 11631,
+      "title": "Mamma Mia!",
+      "original_title": "Mamma Mia!",
+      "year": "2008",
+      "release_date": "2008-07-03",
+      "overview": "Babasının kimliğini keşfetmeyi ümit eden genç bir kız olan Sophie Sheridan’ın öyküsü, ünlü pop grubu Abba’nın hit şarkıları eşliğinde anlatılıyor. Sophie Sheridan evlenme aşamasına gelmiş genç bir kızdır. Nikâhtan bir gün öncesinde annesi Donna’nın 20 yıl önce ziyaret ettiği Yunan adalarında yaşadığı geçmişinden üç erkek birden getirir.",
+      "tagline": "",
+      "runtime": 108,
+      "vote": 7.0,
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "director": "Phyllida Lloyd",
+      "cast": [
+        "Amanda Seyfried",
+        "Meryl Streep",
+        "Pierce Brosnan",
+        "Colin Firth",
+        "Stellan Skarsgård"
+      ],
+      "poster_path": "/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg"
+    },
+    {
+      "id": 9880,
+      "title": "Acemi Prenses",
+      "original_title": "The Princess Diaries",
+      "year": "2001",
+      "release_date": "2001-08-03",
+      "overview": "Avrupa'da Genovia adlı küçük bir ülke olduğunu biliyor muydunuz? Aslına bakarsanız, 15 yaşındaki San Franciscolu bir kız olan Mia dahil, pek çok kişi bu ülkenin varlığından habersiz. Ancak Mia'nın habersiz oluşu, özel bir durum yaratıyor: Çünkü, babasının yokluğunda annesi tarafından büyütülmüş bu genç hanım, gerçekte Genovia'nın prensesi.Babasının beklenmedik ölümünü haber alan Mia, San Francisco'daki yaşamında tam bir çirkin ördek yavrusu: Paspal bir görünüşü var, çekici olmayı beceremiyor, buna karşın, pırıl pırıl bir zekası var. Yeni tanışacağı büyükannesine düşen, Mia'nın dışını da içi kadar güzel yapmak - çünkü prensesler herşeyleriyle zarif ve alımlı görünmeli. Yani postallara veda, topuklu ayakkabılara merhaba.",
+      "tagline": "",
+      "runtime": 115,
+      "vote": 7.0,
+      "genres": [
+        "Komedi",
+        "Aile",
+        "Romantik"
+      ],
+      "director": "Garry Marshall",
+      "cast": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Heather Matarazzo",
+        "Caroline Goodall",
+        "Héctor Elizondo"
+      ],
+      "poster_path": "/hwJepI9cSaoPuldqyQMMVqNGvHA.jpg"
+    },
+    {
+      "id": 321612,
+      "title": "Güzel ve Çirkin",
+      "original_title": "Beauty and the Beast",
+      "year": "2017",
+      "release_date": "2017-03-16",
+      "overview": "Film, konusunu “Güzel ve Çirkin” masalından almaktadır. Tüccar Maurice (Kevin Kline), Fransa'daki bir kasabada, küçük bir evde Belle (Emma Watson) isimli kızıyla yaşamaktadır. Belle iyi niyetli, zeki ve kitaplara meraklıdır. Tüm kasaba Belle'e hayrandır ama Belle evlilik düşünmez. Kasabanın kendini beğenmiş yakışıklısı Gaston (Luke Evans) sürekli Belle'in peşindedir ama Belle ona da yüz vermez. Maurice bir yolculuktan dönerken kurtların saldırısı yüzünden büyük bir şatoya sığınır. Kimseciklerin olmadığı bu şatoda dinlenir ve bahçedeki güllerden birini Belle’e götürmek için koparır. Bu güller, kötü bir büyü yüzünden canavara dönüşen Beast (Çirkin)'e (Dan Stevens) aittir ve tüccarın yaptığına öfkelenerek onu bir zindana kapatır. Babasını kurtarmak için Belle kendini feda ederek Beast'in esiri olmayı kabul eder. Bu büyü, tüm hizmetkarları eşyaya dönüştürmüştür ve bu şatodaki kötü sihri sadece gerçek aşk bozabilir.",
+      "tagline": "Tüm dünyanın beklediği en güzel hikâye",
+      "runtime": 129,
+      "vote": 7.0,
+      "genres": [
+        "Aile",
+        "Fantastik",
+        "Romantik"
+      ],
+      "director": "Bill Condon",
+      "cast": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Josh Gad",
+        "Kevin Kline"
+      ],
+      "poster_path": "/xoYqn1dS0DgxDsRqQ3Aqms72yGL.jpg"
+    },
+    {
+      "id": 46705,
+      "title": "Aşk ve Küller",
+      "original_title": "Blue Valentine",
+      "year": "2010",
+      "release_date": "2010-12-26",
+      "overview": "Birbirlerine güçlü bir tutkuyla bağlanan Cindy ve Dean’in evlilikleri çok sevdikleri çocuklarına rağmen zaman içinde hapishanelerine dönüşür. Çift yorgun evliliklerini kurtarmaya çalışırken gençlik yıllarını, hayatlarının fırsatlar ve romantizm ile dopdolu olduğu eski altın günlerini hatırlayacaktır.",
+      "tagline": "Bir aşk hikayesi.",
+      "runtime": 112,
+      "vote": 7.0,
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Derek Cianfrance",
+      "cast": [
+        "Ryan Gosling",
+        "Michelle Williams",
+        "John Doman",
+        "Mike Vogel",
+        "Ben Shenkman"
+      ],
+      "poster_path": "/3TCGUi1rh3RwHqhLxG43RIzl7Xz.jpg"
+    },
+    {
+      "id": 10530,
+      "title": "Pocahontas",
+      "original_title": "Pocahontas",
+      "year": "1995",
+      "release_date": "1995-06-16",
+      "overview": "Muhteşem Disney Klasikleri'nin gerçek ruhu, müzik, eğlence, macera ve güzel mi güzel animasyonla dolup taşan bu olağanüstü filmde kendini gösteriyor.  Cesaret ve arkadaşlığın bu efsanevi hikayesi, Pocahontas'ın, yani özgür ruhlu prensesin, bir gemi dolusu gizemli İngiliz göçmeni izlemesiyle başlar. Rakun Meeko ve Sinekkuşu Flit ile birlikte Pocahontas ve Kaptan Smith arasında çok güçlü bir arkadaşlık başlar. Ancak birbirinden çok farklı iki kültür arasındaki gerilim tırmanya başladığında Pocahontas, herkesin barış içinde yaşaması için bir yol bulmak zorundadır. Tek çözüm Söğüt Nine'ye gidip, akıl danışmaktır.",
+      "tagline": "",
+      "runtime": 81,
+      "vote": 6.9,
+      "genres": [
+        "Macera",
+        "Animasyon",
+        "Aile",
+        "Romantik"
+      ],
+      "director": "Mike Gabriel",
+      "cast": [
+        "Irene Bedard",
+        "Mel Gibson",
+        "David Ogden Stiers",
+        "John Kassir",
+        "Christian Bale"
+      ],
+      "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
+    }
+  ]
+}
