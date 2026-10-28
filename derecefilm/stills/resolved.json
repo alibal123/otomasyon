@@ -3572,5 +3572,77 @@
    "toystory5_3.jpg",
    "toystory5_4.jpg"
   ]
+ },
+ "lalaland": {
+  "id": 313369,
+  "title_tr": "Aşıklar Şehri",
+  "original_title": "La La Land",
+  "release_date": "2016-12-01",
+  "tr_release": [
+   "2016-12-30",
+   "2024-05-26",
+   "2026-09-04"
+  ],
+  "director": [
+   "Damien Chazelle"
+  ],
+  "cast": [
+   "Ryan Gosling",
+   "Emma Stone",
+   "John Legend",
+   "Rosemarie DeWitt",
+   "Finn Wittrock",
+   "Callie Hernandez"
+  ],
+  "runtime": 128,
+  "vote": 7.9,
+  "genres": [
+   "Komedi",
+   "Dram",
+   "Romantik"
+  ],
+  "overview": "Hayatlarında yön bulmaya çalışan iki tutkulu insan Sebastian ve Mia'nın yolları, Los Angeles'ta trafiğin sıkışık olduğu bir gün kesişir. Her ikisi de sanat tutkunu olan bu iki insan, hayallerini gerçekleştirme yolunda düşe kalka ilerlemektedir.  Sebastian Wilder geleneksel jazzın kolonlardan yükseldiği bir kulüp açma hayalinde, Mia Dolan ise kafesinde çalıştığı film platosunda kendine uygun tüm oyunculuk seçmelerine katılarak bir rol kapma telaşındadır. Bu iki insanın kalpleri birbiri için atmaya başladığında ortaya çıkan manzarayı hayat şartları bozacak, onları yavaş yavaş hayallerinden uzaklaştırmaya başlayacaktır.",
+  "status": "Released",
+  "files": [
+   "lalaland_1.jpg",
+   "lalaland_2.jpg",
+   "lalaland_3.jpg",
+   "lalaland_4.jpg",
+   "lalaland_5.jpg"
+  ]
+ },
+ "whiplash": {
+  "id": 244786,
+  "title_tr": "Whiplash",
+  "original_title": "Whiplash",
+  "release_date": "2014-10-10",
+  "tr_release": [],
+  "director": [
+   "Damien Chazelle"
+  ],
+  "cast": [
+   "Miles Teller",
+   "J.K. Simmons",
+   "Paul Reiser",
+   "Melissa Benoist",
+   "Austin Stowell",
+   "Nate Lang"
+  ],
+  "runtime": 107,
+  "vote": 8.4,
+  "genres": [
+   "Dram",
+   "Müzik",
+   "Gerilim"
+  ],
+  "overview": "Bir tarafta öğrencilerinin korkulu rüyası, jazz öğretmeni Terrence Fletcher, diğer tarafta \\\"en iyi\\\" olmayı kafaya koymuş, aşırı hırslı genç öğrencisi Andrew Neyman. İki taraf da baskın karakterinden taviz vermeyince çok geçmeden mantık dışı olaylar gelişmeye başlar. Bu süreçte elleri çalışmaktan kanlar içinde kalan Neyman, küfürbaz Fletcher'ın hakaretle bezeli eğitim tekniklerine boyun eğmek zorunda kalır. Ama Neyman'ın da kendine göre numaraları vardır ve en sonunda, karşı karşıya kalacakları müzikal düellodan önce işler iyice çıkmaza girer.",
+  "status": "Released",
+  "files": [
+   "whiplash_1.jpg",
+   "whiplash_2.jpg",
+   "whiplash_3.jpg",
+   "whiplash_4.jpg",
+   "whiplash_5.jpg"
+  ]
  }
 }
