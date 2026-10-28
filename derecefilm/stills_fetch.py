@@ -58,6 +58,13 @@ def main() -> int:
         if name in res and "error" not in res[name]:
             continue
         try:
+            if "discover" in r:
+                found = []
+                for page in (1, 2):
+                    found += tmdb.get("/discover/movie", page=page, include_adult="false", **r["discover"])["results"]
+                res[name] = [info(m["id"]) for m in found[:20]]
+                print(name, len(res[name]), "film")
+                continue
             if "upcoming" in r:
                 u = r["upcoming"]
                 found = []

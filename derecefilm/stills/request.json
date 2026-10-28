@@ -277,5 +277,13 @@
  "howtorob": {
   "id": 1437511,
   "n": 4
+ },
+ "_yeni_2026": {
+  "discover": {
+   "primary_release_date.gte": "2025-09-01",
+   "primary_release_date.lte": "2026-10-27",
+   "sort_by": "vote_average.desc",
+   "vote_count.gte": 1500
+  }
  }
 }
