@@ -2807,5 +2807,594 @@
    "howtorob_3.jpg",
    "howtorob_4.jpg"
   ]
- }
+ },
+ "_yeni_2026": [
+  {
+   "id": 1007757,
+   "title_tr": "Yerime Geç",
+   "original_title": "Swapped",
+   "release_date": "2026-05-01",
+   "tr_release": [
+    "2026-05-01"
+   ],
+   "director": [
+    "Nathan Greno"
+   ],
+   "cast": [
+    "Michael B. Jordan",
+    "Juno Temple",
+    "Tracy Morgan",
+    "Cedric the Entertainer",
+    "Justina Machado",
+    "Nate Torrence"
+   ],
+   "runtime": 102,
+   "vote": 8.8,
+   "genres": [
+    "Macera",
+    "Animasyon",
+    "Aile",
+    "Fantastik"
+   ],
+   "overview": "Ormanda yaşayan küçük bir canlıyla görkemli bir kuşun bedenleri aniden yer değiştirir ve böylece hayatlarının en çılgın macerasından sağ çıkabilmek için birlik olmaları gerekir.",
+   "status": "Released"
+  },
+  {
+   "id": 687163,
+   "title_tr": "Kurtuluş Projesi",
+   "original_title": "Project Hail Mary",
+   "release_date": "2026-03-15",
+   "tr_release": [
+    "2026-03-20"
+   ],
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz",
+    "Lionel Boyce",
+    "Milana Vayntrub",
+    "Ken Leung"
+   ],
+   "runtime": 157,
+   "vote": 8.6,
+   "genres": [
+    "Bilim-Kurgu",
+    "Macera"
+   ],
+   "overview": "Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir.",
+   "status": "Released"
+  },
+  {
+   "id": 936075,
+   "title_tr": "Michael",
+   "original_title": "Michael",
+   "release_date": "2026-04-22",
+   "tr_release": [
+    "2026-04-24"
+   ],
+   "director": [
+    "Antoine Fuqua"
+   ],
+   "cast": [
+    "Jaafar Jackson",
+    "Colman Domingo",
+    "Nia Long",
+    "Juliano Krue Valdi",
+    "KeiLyn Durrel Jones",
+    "Miles Teller"
+   ],
+   "runtime": 128,
+   "vote": 8.6,
+   "genres": [
+    "Müzik",
+    "Dram"
+   ],
+   "overview": "Michael Jackson'a gerçek hayattaki yeğeni Jaafar Jackson'ın hayat verdiği filmde, onu tüm zamanların en büyük şovmeni haline getiren en ikonik performansları da dahil olmak üzere Michael'ın hayatının tüm yönleri gözler önüne seriliyor.",
+   "status": "Released"
+  },
+  {
+   "id": 969681,
+   "title_tr": "Örümcek-Adam: Yepyeni Bir Gün",
+   "original_title": "Spider-Man: Brand New Day",
+   "release_date": "2026-07-29",
+   "tr_release": [
+    "2026-07-31"
+   ],
+   "director": [
+    "Destin Daniel Cretton"
+   ],
+   "cast": [
+    "Tom Holland",
+    "Sadie Sink",
+    "Tramell Tillman",
+    "Zendaya",
+    "Jacob Batalon",
+    "Jon Bernthal"
+   ],
+   "runtime": 145,
+   "vote": 8.5,
+   "genres": [
+    "Bilim-Kurgu",
+    "Aksiyon",
+    "Macera"
+   ],
+   "overview": "Artık onu hatırlamayan bir dünyada tam zamanlı olarak Örümcek Adamlık yapmak ve eski arkadaşlarının hayatlarına o olmadan devam ettiklerini görmenin yarattığı baskı, Peter Parker'da kontrol edemeyeceği bir değişimi tetikler. Ancak bu değişim; şehre ve sevdiklerine yönelik olan yeni bir tehdidi, yani kimsenin göremediği güçlü bir düşmanı durdurabilecek tek şey de olabilir.",
+   "status": "Released"
+  },
+  {
+   "id": 1084244,
+   "title_tr": "Oyuncak Hikayesi 5",
+   "original_title": "Toy Story 5",
+   "release_date": "2026-06-17",
+   "tr_release": [
+    "2026-06-19"
+   ],
+   "director": [
+    "Andrew Stanton"
+   ],
+   "cast": [
+    "Joan Cusack",
+    "Tom Hanks",
+    "Tim Allen",
+    "Conan O'Brien",
+    "Scarlett Spears",
+    "Greta Lee"
+   ],
+   "runtime": 102,
+   "vote": 8.3,
+   "genres": [
+    "Animasyon",
+    "Aile",
+    "Komedi",
+    "Macera"
+   ],
+   "overview": "Bonnie'nin hediye olarak aldığı bir Lilypad tablete takıntılı hale gelmesiyle birlikte, Buzz, Woody, Jessie ve diğer oyuncaklar için işler iyice karmaşıklaşır; zira artık oyun saatini tehdit eden yepyeni bir tehlikeyle mücadele etmek zorundadırlar.",
+   "status": "Released"
+  },
+  {
+   "id": 1439930,
+   "title_tr": "The Punisher: One Last Kill",
+   "original_title": "The Punisher: One Last Kill",
+   "release_date": "2026-05-12",
+   "tr_release": [
+    "2026-05-13"
+   ],
+   "director": [
+    "Reinaldo Marcus Green"
+   ],
+   "cast": [
+    "Jon Bernthal",
+    "Deborah Ann Woll",
+    "Jason R. Moore",
+    "Judith Light",
+    "Kelli Barrett",
+    "Andre Royo"
+   ],
+   "runtime": 51,
+   "vote": 8.3,
+   "genres": [
+    "Aksiyon",
+    "Dram",
+    "Suç"
+   ],
+   "overview": "Frank Castle intikamın ötesinde bir anlam ararken; beklenmedik bir güç onu yeniden savaşın tam ortasına çekiyor.",
+   "status": "Released"
+  },
+  {
+   "id": 1226863,
+   "title_tr": "Süper Mario Galaksi Filmi",
+   "original_title": "The Super Mario Galaxy Movie",
+   "release_date": "2026-04-01",
+   "tr_release": [
+    "2026-04-01"
+   ],
+   "director": [
+    "Michael Jelenic",
+    "Aaron Horvath"
+   ],
+   "cast": [
+    "Chris Pratt",
+    "Charlie Day",
+    "Anya Taylor-Joy",
+    "Jack Black",
+    "Keegan-Michael Key",
+    "Benny Safdie"
+   ],
+   "runtime": 98,
+   "vote": 8.2,
+   "genres": [
+    "Aile",
+    "Komedi",
+    "Macera",
+    "Fantastik",
+    "Animasyon"
+   ],
+   "overview": "Mario, Luigi ve arkadaşları, bu kez Mantar Krallığı’nın dışına çıkarak galaksiler arasında geçen bir yolculuğa katılır. Farklı gezegenlerde ilerleyen ekip, yeni karakterlerle karşılaşırken evrendeki dengeyi tehdit eden bir planla da yüzleşir. Bowser ve Bowser Jr.’ın kontrolü ele geçirme girişimi, Mario ve ekibini yıldızlar arası bir mücadeleye sürükler. Yol boyunca karşılarına çıkan engeller ve ittifaklar, bu kez çok daha büyük bir tehdide karşı birlikte hareket etmelerini gerektirir.",
+   "status": "Released"
+  },
+  {
+   "id": 1339713,
+   "title_tr": "Saplantı",
+   "original_title": "Obsession",
+   "release_date": "2026-05-13",
+   "tr_release": [
+    "2026-04-10",
+    "2026-05-15"
+   ],
+   "director": [
+    "Curry Barker"
+   ],
+   "cast": [
+    "Michael Johnston",
+    "Inde Navarrette",
+    "Cooper Tomlinson",
+    "Megan Lawless",
+    "Andy Richter",
+    "Haley Fitzgerald"
+   ],
+   "runtime": 109,
+   "vote": 8.2,
+   "genres": [
+    "Korku",
+    "Gerilim"
+   ],
+   "overview": "​Hoşlandığı kızın kalbini kazanmak için gizemli \"Tek Dilek Söğüdü\"nü (One Wish Willow) kıran umutsuz bir romantik, tam da dilediği şeye kavuşur; ancak çok geçmeden bazı arzuların karanlık ve tekinsiz bir bedeli olduğunu keşfeder.",
+   "status": "Released"
+  },
+  {
+   "id": 1327819,
+   "title_tr": "Hoplayanlar",
+   "original_title": "Hoppers",
+   "release_date": "2026-03-04",
+   "tr_release": [
+    "2026-03-06"
+   ],
+   "director": [
+    "Daniel Chong"
+   ],
+   "cast": [
+    "Piper Curda",
+    "Bobby Moynihan",
+    "Jon Hamm",
+    "Kathy Najimy",
+    "Dave Franco",
+    "Eduardo Franco"
+   ],
+   "runtime": 104,
+   "vote": 8.1,
+   "genres": [
+    "Animasyon",
+    "Macera",
+    "Komedi",
+    "Aile",
+    "Bilim-Kurgu"
+   ],
+   "overview": "Hayvansever Mabel, insan bilincini gerçeğe yakın robotik hayvanlara aktarmak için tasarlanmış akıllı yeni bir teknolojiyi kullanır. Bu sayede kunduzlarla iletişim kurar ve hayvanlar dünyasında hayal edebileceğinin ötesinde gizemleri açığa çıkarır.",
+   "status": "Released"
+  },
+  {
+   "id": 1368337,
+   "title_tr": "Odyssey",
+   "original_title": "The Odyssey",
+   "release_date": "2026-07-15",
+   "tr_release": [
+    "2026-07-17"
+   ],
+   "director": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Matt Damon",
+    "Tom Holland",
+    "Anne Hathaway",
+    "Robert Pattinson",
+    "Himesh Patel",
+    "Charlize Theron"
+   ],
+   "runtime": 173,
+   "vote": 8.0,
+   "genres": [
+    "Macera",
+    "Aksiyon",
+    "Fantastik"
+   ],
+   "overview": "İthaka'nın efsanevi kralı Odysseus, Truva Savaşı'nın ardından evine dönmek üzere uzun ve tehlikeli bir yolculuğa çıkar. Yolculuğu boyunca tanrıların keyfi istekleriyle, mitolojik canavarlarla ve insanlığını kırılma noktasına kadar zorlayan çetin sınavlarla yüzleşmek zorunda kalır.",
+   "status": "Released"
+  },
+  {
+   "id": 1301421,
+   "title_tr": "Bir Koyun Polisiyesi",
+   "original_title": "The Sheep Detectives",
+   "release_date": "2026-04-30",
+   "tr_release": [
+    "2026-06-24"
+   ],
+   "director": [
+    "Kyle Balda"
+   ],
+   "cast": [
+    "Hugh Jackman",
+    "Nicholas Braun",
+    "Nicholas Galitzine",
+    "Molly Gordon",
+    "Julia Louis-Dreyfus",
+    "Bryan Cranston"
+   ],
+   "runtime": 109,
+   "vote": 7.9,
+   "genres": [
+    "Komedi",
+    "Aile",
+    "Gizem"
+   ],
+   "overview": "George Hardy, her gece çok sevdiği koyunlarına anlayamayacaklarını düşünmesine rağmen dedektif romanları okuyan bir çobandır. Ancak gizemli bir olay, çiftlik hayatını alt üst edince koyunlar, dedektif olmaları gerektiğinin farkına varırlar. İpuçlarını takip edip şüphelileri araştırırken koyunların bile suç çözebileceklerini kanıtlarlar.",
+   "status": "Released"
+  },
+  {
+   "id": 1242898,
+   "title_tr": "Predator: Vahşi Topraklar",
+   "original_title": "Predator: Badlands",
+   "release_date": "2025-11-05",
+   "tr_release": [
+    "2025-11-07",
+    "2026-05-13"
+   ],
+   "director": [
+    "Dan Trachtenberg"
+   ],
+   "cast": [
+    "Elle Fanning",
+    "Dimitrius Schuster-Koloamatangi",
+    "Ravi Narayan",
+    "Michael Homick",
+    "Stefan Grube",
+    "Reuben De Jong"
+   ],
+   "runtime": 107,
+   "vote": 7.8,
+   "genres": [
+    "Aksiyon",
+    "Bilim-Kurgu",
+    "Macera"
+   ],
+   "overview": "Klanından kovulan bir uzaylı avcı ve beklenmedik bir müttefik, nihai düşmanı aramak için tehlikeli bir yolculuğa çıkar.",
+   "status": "Released"
+  },
+  {
+   "id": 1304313,
+   "title_tr": "Lee Cronin'den Mumya",
+   "original_title": "Lee Cronin's The Mummy",
+   "release_date": "2026-04-15",
+   "tr_release": [
+    "2026-04-17"
+   ],
+   "director": [
+    "Lee Cronin"
+   ],
+   "cast": [
+    "Jack Reynor",
+    "Laia Costa",
+    "May Calamawy",
+    "Natalie Grace",
+    "Shylo Molina",
+    "Billie Roy"
+   ],
+   "runtime": 133,
+   "vote": 7.8,
+   "genres": [
+    "Korku",
+    "Gizem"
+   ],
+   "overview": "Gazeteci bir babanın küçük kızı, çölde iz bırakmadan kaybolur. Olayın üzerinden sekiz yıl geçtikten sonra kızın aniden ortaya çıkıp ailesine dönmesi, başlangıçta bir sevinç yaratsa da kısa sürede yerini sıra dışı ve açıklanamaz olaylara bırakır.",
+   "status": "Released"
+  },
+  {
+   "id": 931285,
+   "title_tr": "Mortal Kombat II",
+   "original_title": "Mortal Kombat II",
+   "release_date": "2026-05-06",
+   "tr_release": [
+    "2026-05-08"
+   ],
+   "director": [
+    "Simon McQuoid"
+   ],
+   "cast": [
+    "Karl Urban",
+    "Adeline Rudolph",
+    "Ludi Lin",
+    "Jessica McNamee",
+    "Martyn Ford",
+    "Josh Lawson"
+   ],
+   "runtime": 116,
+   "vote": 7.7,
+   "genres": [
+    "Aksiyon",
+    "Fantastik",
+    "Macera"
+   ],
+   "overview": "Hayranların gözde şampiyonları, Dünya Alemi'nin ve savunucularının varlığını tehdit eden Shao Kahn'ın karanlık yönetimini devirmek için nihai, kuralsız, kana bulanmış bir savaşta karşı karşıya gelir.",
+   "status": "Released"
+  },
+  {
+   "id": 858024,
+   "title_tr": "Hamnet",
+   "original_title": "Hamnet",
+   "release_date": "2025-11-26",
+   "tr_release": [
+    "2026-02-06"
+   ],
+   "director": [
+    "Chloé Zhao"
+   ],
+   "cast": [
+    "Jessie Buckley",
+    "Paul Mescal",
+    "Emily Watson",
+    "Joe Alwyn",
+    "Jacobi Jupe",
+    "Noah Jupe"
+   ],
+   "runtime": 125,
+   "vote": 7.7,
+   "genres": [
+    "Dram",
+    "Romantik"
+   ],
+   "overview": "1700'lerde geçen bu hikayede William Shakespeare ve eşi Agnes’in, oğulları Hamnet’i vebaya kaybeder. Şifacı Agnes, bu büyük acıyla başa çıkıp diğer çocuklarının yanında olmak için elinden geleni yapar.",
+   "status": "Released"
+  },
+  {
+   "id": 1290821,
+   "title_tr": "Sığınak",
+   "original_title": "Shelter",
+   "release_date": "2026-01-28",
+   "tr_release": [
+    "2026-02-20"
+   ],
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "cast": [
+    "Jason Statham",
+    "Bodhi Rae Breathnach",
+    "Naomi Ackie",
+    "Daniel Mays",
+    "Harriet Walter",
+    "Bill Nighy"
+   ],
+   "runtime": 107,
+   "vote": 7.7,
+   "genres": [
+    "Aksiyon",
+    "Suç",
+    "Gerilim"
+   ],
+   "overview": "Kendi isteğiyle sürgün yaşamaya çekilmiş bir adam, uzak bir adada şiddetli bir fırtınadan genç bir kızı kurtarır; bu olay, onu geçmişiyle bağlantılı düşmanlardan onu korumak için inzivasından çıkmaya zorlayan bir dizi olayı başlatır.",
+   "status": "Released"
+  },
+  {
+   "id": 1084242,
+   "title_tr": "Zootropolis 2",
+   "original_title": "Zootopia 2",
+   "release_date": "2025-11-26",
+   "tr_release": [
+    "2025-11-28"
+   ],
+   "director": [
+    "Jared Bush",
+    "Byron Howard"
+   ],
+   "cast": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Ke Huy Quan",
+    "Fortune Feimster",
+    "Andy Samberg",
+    "David Strathairn"
+   ],
+   "runtime": 108,
+   "vote": 7.7,
+   "genres": [
+    "Animasyon",
+    "Macera",
+    "Komedi",
+    "Gizem",
+    "Aile"
+   ],
+   "overview": "Dedektif Judy Hopps ve Nick Wilde, Zootropolis'e gelen ve memeli metropolünü alt üst eden gizemli bir sürüngenin karmaşık izini sürüyor.",
+   "status": "Released"
+  },
+  {
+   "id": 83533,
+   "title_tr": "Avatar: Ateş ve Kül",
+   "original_title": "Avatar: Fire and Ash",
+   "release_date": "2025-12-17",
+   "tr_release": [
+    "2025-12-19",
+    "2026-06-24"
+   ],
+   "director": [
+    "James Cameron"
+   ],
+   "cast": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver",
+    "Stephen Lang",
+    "Oona Chaplin",
+    "Jack Champion"
+   ],
+   "runtime": 198,
+   "vote": 7.6,
+   "genres": [
+    "Bilim-Kurgu",
+    "Macera",
+    "Fantastik"
+   ],
+   "overview": "Pandora gezegeninde geçen destansı macera devam ediyor. Sully ailesi, Pandora'nın Kül halkı kabilesiyle tanışır ve yeni tehditlerle yüzleşirler. İnsanlar, Pandora'nın kaynaklarını sömürmeye devam ederken, Na'vi halkı doğayla uyum içinde yaşamaya çalışır. Jake ve Neytiri, ailelerini korumak ve Pandora'yı savunmak için büyük bir mücadeleye girişirler.",
+   "status": "Released"
+  },
+  {
+   "id": 1062722,
+   "title_tr": "Frankenstein",
+   "original_title": "Frankenstein",
+   "release_date": "2025-10-17",
+   "tr_release": [
+    "2025-11-07"
+   ],
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "cast": [
+    "Oscar Isaac",
+    "Jacob Elordi",
+    "Christoph Waltz",
+    "Mia Goth",
+    "Felix Kammerer",
+    "Charles Dance"
+   ],
+   "runtime": 149,
+   "vote": 7.6,
+   "genres": [
+    "Dram",
+    "Fantastik",
+    "Korku"
+   ],
+   "overview": "Dr. Victor Frankenstein (Oscar Isaac), ölümün sınırlarını zorlayan, saplantılı ve yalnız bir bilim insanıdır. Sevdiklerini kaybetmenin acısıyla hareket eden Victor, ölümü yenmek uğruna korkunç bir deney yapar ve cansız maddelerden yeni bir varlık yaratır.  Yaratılan Canavar (Jacob Elordi), fiziksel olarak korkutucu olsa da zihinsel ve duygusal olarak bir çocuk kadar masum ve kırılgandır. Dış dünyayla ilk kez karşılaşan bu varlık, dış görünüşü yüzünden reddedilir, hor görülür ve şiddete maruz kalır. Masumiyetinden yavaş yavaş koparak öfkeye ve intikama sürüklenir.",
+   "status": "Released"
+  },
+  {
+   "id": 1212763,
+   "title_tr": "Kötü Ruh: Cehennem Ateşi",
+   "original_title": "Evil Dead Burn",
+   "release_date": "2026-07-07",
+   "tr_release": [
+    "2026-07-10"
+   ],
+   "director": [
+    "Sébastien Vaniček"
+   ],
+   "cast": [
+    "Süheyle Yakup",
+    "Tandi Wright",
+    "Hunter Doohan",
+    "Luciane Buchanan",
+    "Erroll Shand",
+    "Maude Davey"
+   ],
+   "runtime": 110,
+   "vote": 7.6,
+   "genres": [
+    "Korku"
+   ],
+   "overview": "Kocasını kaybetmesinin ardından teselli arayan genç bir kadın, eşinin ailesiyle birlikte onların şehirden izole, ıssız evine sığınır. Ancak bu sığınak, karanlık güçlerin devreye girmesiyle kısa sürede kanlı bir kapana dönüşür. Aile üyeleri birer birer dehşet verici Deadite'lara dönüşüp bu buluşmayı bir cehennem toplantısına çevirirken; genç kadın, yaşarken edilen yeminlerin ölümden sonra bile nefes almaya devam ettiğini en kanlı şekilde öğrenecektir.",
+   "status": "Released"
+  }
+ ]
 }
