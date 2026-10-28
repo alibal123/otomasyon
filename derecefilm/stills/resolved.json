@@ -542,25 +542,6 @@
    "gosford_3.jpg"
   ]
  },
- "parasite": {
-  "id": 1309516,
-  "title_tr": "More Animated Worker and Parasite",
-  "original_title": "More Animated Worker and Parasite",
-  "release_date": "",
-  "tr_release": [],
-  "director": [
-   "Suzanne Dargie"
-  ],
-  "cast": [],
-  "runtime": 2,
-  "vote": 7.0,
-  "genres": [
-   "Animasyon"
-  ],
-  "overview": "",
-  "status": "Released",
-  "files": []
- },
  "shoplifters": {
   "id": 505192,
   "title_tr": "Arakçılar",
@@ -969,23 +950,6 @@
    "walle_3.jpg",
    "walle_4.jpg"
   ]
- },
- "yourname": {
-  "id": 777507,
-  "title_tr": "What's Your Name?",
-  "original_title": "What's Your Name?",
-  "release_date": "2016-02-12",
-  "tr_release": [],
-  "director": [
-   "Letibeb Zelleke"
-  ],
-  "cast": [],
-  "runtime": 26,
-  "vote": 0,
-  "genres": [],
-  "overview": "",
-  "status": "Released",
-  "files": []
  },
  "abouttime": {
   "id": 122906,
@@ -1538,44 +1502,6 @@
    "wicker_2.jpg",
    "wicker_3.jpg",
    "wicker_4.jpg"
-  ]
- },
- "narnia": {
-  "error": "bulunamadı"
- },
- "jumanji3": {
-  "id": 353486,
-  "title_tr": "Jumanji: Vahşi Orman",
-  "original_title": "Jumanji: Welcome to the Jungle",
-  "release_date": "2017-12-20",
-  "tr_release": [
-   "2017-12-29"
-  ],
-  "director": [
-   "Jake Kasdan"
-  ],
-  "cast": [
-   "Dwayne Johnson",
-   "Kevin Hart",
-   "Jack Black",
-   "Karen Gillan",
-   "Rhys Darby",
-   "Bobby Cannavale"
-  ],
-  "runtime": 119,
-  "vote": 6.8,
-  "genres": [
-   "Macera",
-   "Komedi",
-   "Fantastik"
-  ],
-  "overview": "Zıt karaktere sahip dört lise öğrencisi daha önce adını kimsenin duymadığı Jumanji isimli bir video konsol oyunu bulurlar. Oyunu oynamaya koyulan dört kafadar bir anda kendilerini oyunun içerisinde avatar karakterlerinin bedenlerinde bulurlar. Gerçek dünyaya dönmek için hayatlarının en tehlikeli macerasına atılarak oyunu bitirmekten başka şansları yoktur.",
-  "status": "Released",
-  "files": [
-   "jumanji3_1.jpg",
-   "jumanji3_2.jpg",
-   "jumanji3_3.jpg",
-   "jumanji3_4.jpg"
   ]
  },
  "angrybirds3": {
