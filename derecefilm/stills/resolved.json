@@ -3396,5 +3396,181 @@
    "overview": "Kocasını kaybetmesinin ardından teselli arayan genç bir kadın, eşinin ailesiyle birlikte onların şehirden izole, ıssız evine sığınır. Ancak bu sığınak, karanlık güçlerin devreye girmesiyle kısa sürede kanlı bir kapana dönüşür. Aile üyeleri birer birer dehşet verici Deadite'lara dönüşüp bu buluşmayı bir cehennem toplantısına çevirirken; genç kadın, yaşarken edilen yeminlerin ölümden sonra bile nefes almaya devam ettiğini en kanlı şekilde öğrenecektir.",
    "status": "Released"
   }
- ]
+ ],
+ "swapped": {
+  "id": 1007757,
+  "title_tr": "Yerime Geç",
+  "original_title": "Swapped",
+  "release_date": "2026-05-01",
+  "tr_release": [
+   "2026-05-01"
+  ],
+  "director": [
+   "Nathan Greno"
+  ],
+  "cast": [
+   "Michael B. Jordan",
+   "Juno Temple",
+   "Tracy Morgan",
+   "Cedric the Entertainer",
+   "Justina Machado",
+   "Nate Torrence"
+  ],
+  "runtime": 102,
+  "vote": 8.8,
+  "genres": [
+   "Macera",
+   "Animasyon",
+   "Aile",
+   "Fantastik"
+  ],
+  "overview": "Ormanda yaşayan küçük bir canlıyla görkemli bir kuşun bedenleri aniden yer değiştirir ve böylece hayatlarının en çılgın macerasından sağ çıkabilmek için birlik olmaları gerekir.",
+  "status": "Released",
+  "files": [
+   "swapped_1.jpg",
+   "swapped_2.jpg",
+   "swapped_3.jpg",
+   "swapped_4.jpg"
+  ]
+ },
+ "hailmary": {
+  "id": 687163,
+  "title_tr": "Kurtuluş Projesi",
+  "original_title": "Project Hail Mary",
+  "release_date": "2026-03-15",
+  "tr_release": [
+   "2026-03-20"
+  ],
+  "director": [
+   "Phil Lord",
+   "Christopher Miller"
+  ],
+  "cast": [
+   "Ryan Gosling",
+   "Sandra Hüller",
+   "James Ortiz",
+   "Lionel Boyce",
+   "Milana Vayntrub",
+   "Ken Leung"
+  ],
+  "runtime": 157,
+  "vote": 8.6,
+  "genres": [
+   "Bilim-Kurgu",
+   "Macera"
+  ],
+  "overview": "Fen bilgisi öğretmeni Ryland Grace, evinden ışık yılları uzakta bir uzay gemisinde uyanır, kim olduğuna ya da oraya nasıl geldiğine dair hiçbir şey hatırlamaz. Hafızası yavaş yavaş yerine gelirken görevini de çözmeye başlar: Güneşin sönmesine neden olan gizemli maddenin sırrını çözmek. Dünyadaki her şeyi yok olmaktan kurtarmak için tüm bilimsel bilgisine ve sıra dışı fikirlerine başvurmak zorundadır. Ancak beklenmedik bir dostluk, bu görevi tek başına yapmak zorunda kalmayacağı anlamına gelecektir.",
+  "status": "Released",
+  "files": [
+   "hailmary_1.jpg",
+   "hailmary_2.jpg",
+   "hailmary_3.jpg",
+   "hailmary_4.jpg"
+  ]
+ },
+ "michael": {
+  "id": 936075,
+  "title_tr": "Michael",
+  "original_title": "Michael",
+  "release_date": "2026-04-22",
+  "tr_release": [
+   "2026-04-24"
+  ],
+  "director": [
+   "Antoine Fuqua"
+  ],
+  "cast": [
+   "Jaafar Jackson",
+   "Colman Domingo",
+   "Nia Long",
+   "Juliano Krue Valdi",
+   "KeiLyn Durrel Jones",
+   "Miles Teller"
+  ],
+  "runtime": 128,
+  "vote": 8.6,
+  "genres": [
+   "Müzik",
+   "Dram"
+  ],
+  "overview": "Michael Jackson'a gerçek hayattaki yeğeni Jaafar Jackson'ın hayat verdiği filmde, onu tüm zamanların en büyük şovmeni haline getiren en ikonik performansları da dahil olmak üzere Michael'ın hayatının tüm yönleri gözler önüne seriliyor.",
+  "status": "Released",
+  "files": [
+   "michael_1.jpg",
+   "michael_2.jpg",
+   "michael_3.jpg",
+   "michael_4.jpg"
+  ]
+ },
+ "spiderman": {
+  "id": 969681,
+  "title_tr": "Örümcek-Adam: Yepyeni Bir Gün",
+  "original_title": "Spider-Man: Brand New Day",
+  "release_date": "2026-07-29",
+  "tr_release": [
+   "2026-07-31"
+  ],
+  "director": [
+   "Destin Daniel Cretton"
+  ],
+  "cast": [
+   "Tom Holland",
+   "Sadie Sink",
+   "Tramell Tillman",
+   "Zendaya",
+   "Jacob Batalon",
+   "Jon Bernthal"
+  ],
+  "runtime": 145,
+  "vote": 8.5,
+  "genres": [
+   "Bilim-Kurgu",
+   "Aksiyon",
+   "Macera"
+  ],
+  "overview": "Artık onu hatırlamayan bir dünyada tam zamanlı olarak Örümcek Adamlık yapmak ve eski arkadaşlarının hayatlarına o olmadan devam ettiklerini görmenin yarattığı baskı, Peter Parker'da kontrol edemeyeceği bir değişimi tetikler. Ancak bu değişim; şehre ve sevdiklerine yönelik olan yeni bir tehdidi, yani kimsenin göremediği güçlü bir düşmanı durdurabilecek tek şey de olabilir.",
+  "status": "Released",
+  "files": [
+   "spiderman_1.jpg",
+   "spiderman_2.jpg",
+   "spiderman_3.jpg",
+   "spiderman_4.jpg"
+  ]
+ },
+ "toystory5": {
+  "id": 1084244,
+  "title_tr": "Oyuncak Hikayesi 5",
+  "original_title": "Toy Story 5",
+  "release_date": "2026-06-17",
+  "tr_release": [
+   "2026-06-19"
+  ],
+  "director": [
+   "Andrew Stanton"
+  ],
+  "cast": [
+   "Joan Cusack",
+   "Tom Hanks",
+   "Tim Allen",
+   "Conan O'Brien",
+   "Scarlett Spears",
+   "Greta Lee"
+  ],
+  "runtime": 102,
+  "vote": 8.3,
+  "genres": [
+   "Animasyon",
+   "Aile",
+   "Komedi",
+   "Macera"
+  ],
+  "overview": "Bonnie'nin hediye olarak aldığı bir Lilypad tablete takıntılı hale gelmesiyle birlikte, Buzz, Woody, Jessie ve diğer oyuncaklar için işler iyice karmaşıklaşır; zira artık oyun saatini tehdit eden yepyeni bir tehlikeyle mücadele etmek zorundadırlar.",
+  "status": "Released",
+  "files": [
+   "toystory5_1.jpg",
+   "toystory5_2.jpg",
+   "toystory5_3.jpg",
+   "toystory5_4.jpg"
+  ]
+ }
 }
