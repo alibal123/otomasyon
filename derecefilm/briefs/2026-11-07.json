@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-07",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: suç filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 941, \"title\": \"Cehennem Silahı\", \"year\": \"1987\", \"overview\": \"Los Angeles polis teşkilatı dedektiflerinden Çavuş Roger Murtaugh, 50 yaşına girdiği günlerde artık emekliliği düşünürken, Vietnam savaşından tanıdığı bankacı arkadaşı Michael Hunsaker'ın kızının öldürülmesini soruşturmaya başlar. Soruşturmayla birlikte yeni de bir ortağı olur. Çavuş Martin Riggs, karısını trafik kazasında kaybettiğinden beri intihar eğilimleri içinde olan çılgın karakterli bir polistir.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Suç\"], \"vote\": 7.3}, {\"id\": 926393, \"title\": \"Adalet 3: Son\", \"year\": \"2023\", \"overview\": \"Her zaman ezilenlerin yanında olup adaleti aramakta teselli bulan Robert McCall bir hükûmet suikastçısı olarak hayatından vazgeçtiğinden beri, geçmişte yaptığı korkunç şeyler yüzünden kendini affetmek için mücadele ediyor. McCall, Güney İtalya'da bir şekilde kendini evinde bulup, yeni arkadaşlarının yerel mafyaların kontrolü altında olduğunu fark eder. Olaylar ölümcül bir hal alırken McCall arkadaşlarının koruyucusu olup mafyayı alt etmesi gerektiğini biliyor.\", \"genres\": [\"Aksiyon\", \"Gerilim\", \"Suç\"], \"vote\": 7.3}, {\"id\": 20352, \"title\": \"Çılgın Hırsız\", \"year\": \"2010\", \"overview\": \"Renk renk çiçeklerle çevrili, güleryüzlü komşuluk ilişkilerinin sürdüğü banliyöde, bu yaşantıyı bozacak bir sır saklıdır. Banliyönün en bakımsız ve çirkin evinde yaşayan Gru, küçük köleleri ile birlikte dünyanın kaderini değiştirecek bir plan yapmaktadır. Gru, dünyanın uydusu Ay'ı çalmaya karar vermiştir.Üç küçük yetim olan Margo, Edith ve Agnes, bu kötü kalpli adamla karşılaştıklarında ise, hiç kimsenin göremediği bir ayrıntıyı fark ederler: Gru onlar için potansiyel bir baba adayıdır.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Suç\", \"Bilim-Kurgu\", \"Aile\"], \"vote\": 7.3}, {\"id\": 573435, \"title\": \"Bad Boys: Ya Hep Ya Hiç\", \"year\": \"2024\", \"overview\": \"Yüzbaşı Howard haksız yere uyuşturucuyla ilgili suçlarla itham edilir. Bu durum üzerine çılgın ikili onun adını temize çıkarmak için harekete geçer. Araştırımalarını ilerletip, gerçeğe adım adım yaklaşan Mike ve Marcus, bu sırada büyük bir iftira ile karşı karşıya kalır. Artık ikili başlarına ödül konulan kaçaklardır. Polis tarafından takip edilen ve kartellerin de hedefinde olan Mike ve Marcus, davayı çözmek için kanunların dışında ve kendi kurallarına göre çalışmak zorundadır.\", \"genres\": [\"Aksiyon\", \"Komedi\", \"Suç\"], \"vote\": 7.3}, {\"id\": 2252, \"title\": \"Şark Vaatleri\", \"year\": \"2007\", \"overview\": \"Nikolia, Londra'nın en kötü organize suç örgütüne bağlı çalışan sert ve gizemli bir adamdır. Başkalarının girmemesi için kapalı tuttuğu korunaklı yaşamı Anna'yı takip etmesiyle birlikte sarsılır. Çünkü Anna ailesine ait sırları bilincinde olmadan tesadüf eseri açığa çıkarmıştır. Ailesinin hakkını aradığını düşünen Nikolai , seri cinayetlerin, dolandırıcılığın ve mafyavari cezalandırmaların içinde yolunu kaybedecektir.\", \"genres\": [\"Gerilim\", \"Suç\", \"Gizem\"], \"vote\": 7.3}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 941,
+      "title": "Cehennem Silahı",
+      "original_title": "Lethal Weapon",
+      "year": "1987",
+      "release_date": "1987-03-06",
+      "overview": "Los Angeles polis teşkilatı dedektiflerinden Çavuş Roger Murtaugh, 50 yaşına girdiği günlerde artık emekliliği düşünürken, Vietnam savaşından tanıdığı bankacı arkadaşı Michael Hunsaker'ın kızının öldürülmesini soruşturmaya başlar. Soruşturmayla birlikte yeni de bir ortağı olur. Çavuş Martin Riggs, karısını trafik kazasında kaybettiğinden beri intihar eğilimleri içinde olan çılgın karakterli bir polistir.",
+      "tagline": "Eğer bu ikili birbirlerine dayanmayı öğrenebilirlerse... kötü adamların hiç şansı kalmaz.",
+      "runtime": 110,
+      "vote": 7.3,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Suç"
+      ],
+      "director": "Richard Donner",
+      "cast": [
+        "Mel Gibson",
+        "Danny Glover",
+        "Gary Busey",
+        "Mitchell Ryan",
+        "Tom Atkins"
+      ],
+      "poster_path": "/ntHYTWoQ8mZspeag3GOz8GFTzvj.jpg"
+    },
+    {
+      "id": 926393,
+      "title": "Adalet 3: Son",
+      "original_title": "The Equalizer 3",
+      "year": "2023",
+      "release_date": "2023-08-30",
+      "overview": "Her zaman ezilenlerin yanında olup adaleti aramakta teselli bulan Robert McCall bir hükûmet suikastçısı olarak hayatından vazgeçtiğinden beri, geçmişte yaptığı korkunç şeyler yüzünden kendini affetmek için mücadele ediyor. McCall, Güney İtalya'da bir şekilde kendini evinde bulup, yeni arkadaşlarının yerel mafyaların kontrolü altında olduğunu fark eder. Olaylar ölümcül bir hal alırken McCall arkadaşlarının koruyucusu olup mafyayı alt etmesi gerektiğini biliyor.",
+      "tagline": "Adalet sınır tanımaz.",
+      "runtime": 109,
+      "vote": 7.3,
+      "genres": [
+        "Aksiyon",
+        "Gerilim",
+        "Suç"
+      ],
+      "director": "Antoine Fuqua",
+      "cast": [
+        "Denzel Washington",
+        "Dakota Fanning",
+        "Eugenio Mastrandrea",
+        "David Denman",
+        "Gaia Scodellaro"
+      ],
+      "poster_path": "/mgYfHIxJw4b4XSnRkGfKLDb7PUU.jpg"
+    },
+    {
+      "id": 20352,
+      "title": "Çılgın Hırsız",
+      "original_title": "Despicable Me",
+      "year": "2010",
+      "release_date": "2010-07-08",
+      "overview": "Renk renk çiçeklerle çevrili, güleryüzlü komşuluk ilişkilerinin sürdüğü banliyöde, bu yaşantıyı bozacak bir sır saklıdır. Banliyönün en bakımsız ve çirkin evinde yaşayan Gru, küçük köleleri ile birlikte dünyanın kaderini değiştirecek bir plan yapmaktadır. Gru, dünyanın uydusu Ay'ı çalmaya karar vermiştir.Üç küçük yetim olan Margo, Edith ve Agnes, bu kötü kalpli adamla karşılaştıklarında ise, hiç kimsenin göremediği bir ayrıntıyı fark ederler: Gru onlar için potansiyel bir baba adayıdır.",
+      "tagline": "Süper Fena. Süper Baba.",
+      "runtime": 94,
+      "vote": 7.3,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Suç",
+        "Bilim-Kurgu",
+        "Aile"
+      ],
+      "director": "Chris Renaud",
+      "cast": [
+        "Steve Carell",
+        "Jason Segel",
+        "Russell Brand",
+        "Miranda Cosgrove",
+        "Dana Gaier Ellis"
+      ],
+      "poster_path": "/qB1x5Rnx3HHbecoIkpr98BXV2dB.jpg"
+    },
+    {
+      "id": 573435,
+      "title": "Bad Boys: Ya Hep Ya Hiç",
+      "original_title": "Bad Boys: Ride or Die",
+      "year": "2024",
+      "release_date": "2024-06-05",
+      "overview": "Yüzbaşı Howard haksız yere uyuşturucuyla ilgili suçlarla itham edilir. Bu durum üzerine çılgın ikili onun adını temize çıkarmak için harekete geçer. Araştırımalarını ilerletip, gerçeğe adım adım yaklaşan Mike ve Marcus, bu sırada büyük bir iftira ile karşı karşıya kalır. Artık ikili başlarına ödül konulan kaçaklardır. Polis tarafından takip edilen ve kartellerin de hedefinde olan Mike ve Marcus, davayı çözmek için kanunların dışında ve kendi kurallarına göre çalışmak zorundadır.",
+      "tagline": "Miami'nin en iyileri, şimdi en çok arananları.",
+      "runtime": 115,
+      "vote": 7.3,
+      "genres": [
+        "Aksiyon",
+        "Komedi",
+        "Suç"
+      ],
+      "director": "Adil Arbi",
+      "cast": [
+        "Will Smith",
+        "Martin Lawrence",
+        "Vanessa Hudgens",
+        "Alexander Ludwig",
+        "Paola Nuñez"
+      ],
+      "poster_path": "/ktlDbB2nBdf4zhzmWgN7PGOWcik.jpg"
+    },
+    {
+      "id": 2252,
+      "title": "Şark Vaatleri",
+      "original_title": "Eastern Promises",
+      "year": "2007",
+      "release_date": "2007-09-14",
+      "overview": "Nikolia, Londra'nın en kötü organize suç örgütüne bağlı çalışan sert ve gizemli bir adamdır. Başkalarının girmemesi için kapalı tuttuğu korunaklı yaşamı Anna'yı takip etmesiyle birlikte sarsılır. Çünkü Anna ailesine ait sırları bilincinde olmadan tesadüf eseri açığa çıkarmıştır. Ailesinin hakkını aradığını düşünen Nikolai , seri cinayetlerin, dolandırıcılığın ve mafyavari cezalandırmaların içinde yolunu kaybedecektir.",
+      "tagline": "Her günah bir iz bırakır.",
+      "runtime": 101,
+      "vote": 7.3,
+      "genres": [
+        "Gerilim",
+        "Suç",
+        "Gizem"
+      ],
+      "director": "David Cronenberg",
+      "cast": [
+        "Viggo Mortensen",
+        "Naomi Watts",
+        "Vincent Cassel",
+        "Armin Mueller-Stahl",
+        "Sinéad Cusack"
+      ],
+      "poster_path": "/pz6lC3BNAnQYDls5XgyNqwOwKvb.jpg"
+    }
+  ]
+}

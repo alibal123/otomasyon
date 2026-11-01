@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-02",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: korku filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 49018, \"title\": \"Ruhlar Bölgesi\", \"year\": \"2011\", \"overview\": \"Küçük oğullarının açıklanamayan bir şekilde komaya girmesiyle sarsılan aile, evlerinde tekinsiz olaylar yaşamaya başlar. Çareyi bir medyumdan yardım almakta bulduklarında ise asıl tehlikenin evde değil, doğrudan kendi geçmişlerinde saklandığını fark ederler.\", \"genres\": [\"Korku\", \"Gerilim\"], \"vote\": 7.0}, {\"id\": 36647, \"title\": \"Bıçağın İki Yüzü\", \"year\": \"1998\", \"overview\": \"Blade'in annesi, henüz Blade onun karnındayken vampirlerin acımasız saldırısı sonucunda katledilmiştir. İntikam ateşiyle yanıp tutuşan Blade, bilincini kazandığı günden itibaren kendisini vampirleri temizlemeye adamıştır. Henüz doğmamışken ucundan bulaştığı vampir saldırısı nedeniyle genlerinde onların özelliklerinden de bulunan Blade vampirler tarafından 'Gündüz Gezen' olarak isimlendirilmektedir. Blade'in kendileri için dev bir tehlike oluşturduğunu bilen vampirler de onu bir an önce avlamak istemektedirler.\", \"genres\": [\"Korku\", \"Aksiyon\"], \"vote\": 6.9}, {\"id\": 934433, \"title\": \"Çığlık 6\", \"year\": \"2023\", \"overview\": \"Film, Ghostface cinayetlerinden kurtulduktan sonra Woodsboro kasabasını geride bırakıp New York'ta yeni bir hayata başkayan dört kişinin hayatına odaklanıyor. Onlar Woodsboro’dan kurtulsalar da maskeli katilden kurtulmayı başarabilecekler midir?\", \"genres\": [\"Korku\", \"Gerilim\", \"Suç\"], \"vote\": 6.9}, {\"id\": 26466, \"title\": \"Şeytan Üçgeni\", \"year\": \"2009\", \"overview\": \"Atlantik Okyanusunda yatla gezi yaparken olumsuz hava koşulları nedeniyle gizemli bir gemiye binmek zorunda kalan bir grup insanın öyküsünü anlatıyor. Jess, yaşayacağı zihinsel bir karışıklık yüzünden üç ayrı karaktere bürünüyor ve korkunç deneyimler yaşamak zorunda kalıyor.\", \"genres\": [\"Korku\"], \"vote\": 6.9}, {\"id\": 1138194, \"title\": \"Sapkın\", \"year\": \"2024\", \"overview\": \"Yanlış kapıyı çalan iki genç misyoner, şeytani Bay Reed tarafından karşılanıp onun ölümcül kedi fare oyununa kıstırıldıklarında inançlarını kanıtlamak zorunda kalırlar.\", \"genres\": [\"Gerilim\", \"Korku\"], \"vote\": 7.0}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 49018,
+      "title": "Ruhlar Bölgesi",
+      "original_title": "Insidious",
+      "year": "2011",
+      "release_date": "2011-03-31",
+      "overview": "Küçük oğullarının açıklanamayan bir şekilde komaya girmesiyle sarsılan aile, evlerinde tekinsiz olaylar yaşamaya başlar. Çareyi bir medyumdan yardım almakta bulduklarında ise asıl tehlikenin evde değil, doğrudan kendi geçmişlerinde saklandığını fark ederler.",
+      "tagline": "Hayaletli olan ev değil...",
+      "runtime": 102,
+      "vote": 7.0,
+      "genres": [
+        "Korku",
+        "Gerilim"
+      ],
+      "director": "James Wan",
+      "cast": [
+        "Patrick Wilson",
+        "Rose Byrne",
+        "Lin Shaye",
+        "Ty Simpkins",
+        "Barbara Hershey"
+      ],
+      "poster_path": "/7LVDt7nxOGxTIb739yWEyUGfsZa.jpg"
+    },
+    {
+      "id": 36647,
+      "title": "Bıçağın İki Yüzü",
+      "original_title": "Blade",
+      "year": "1998",
+      "release_date": "1998-08-21",
+      "overview": "Blade'in annesi, henüz Blade onun karnındayken vampirlerin acımasız saldırısı sonucunda katledilmiştir. İntikam ateşiyle yanıp tutuşan Blade, bilincini kazandığı günden itibaren kendisini vampirleri temizlemeye adamıştır. Henüz doğmamışken ucundan bulaştığı vampir saldırısı nedeniyle genlerinde onların özelliklerinden de bulunan Blade vampirler tarafından 'Gündüz Gezen' olarak isimlendirilmektedir. Blade'in kendileri için dev bir tehlike oluşturduğunu bilen vampirler de onu bir an önce avlamak istemektedirler.",
+      "tagline": "Yarı insan. Yarı vampir. Hepsi kahraman.",
+      "runtime": 121,
+      "vote": 6.9,
+      "genres": [
+        "Korku",
+        "Aksiyon"
+      ],
+      "director": "Stephen Norrington",
+      "cast": [
+        "Wesley Snipes",
+        "Stephen Dorff",
+        "Kris Kristofferson",
+        "N'Bushe Wright",
+        "Donal Logue"
+      ],
+      "poster_path": "/jsKoFFD9uaF1zibQPeINP925iXm.jpg"
+    },
+    {
+      "id": 934433,
+      "title": "Çığlık 6",
+      "original_title": "Scream VI",
+      "year": "2023",
+      "release_date": "2023-03-08",
+      "overview": "Film, Ghostface cinayetlerinden kurtulduktan sonra Woodsboro kasabasını geride bırakıp New York'ta yeni bir hayata başkayan dört kişinin hayatına odaklanıyor. Onlar Woodsboro’dan kurtulsalar da maskeli katilden kurtulmayı başarabilecekler midir?",
+      "tagline": "Yeni şehir. Yeni kurallar.",
+      "runtime": 123,
+      "vote": 6.9,
+      "genres": [
+        "Korku",
+        "Gerilim",
+        "Suç"
+      ],
+      "director": "Matt Bettinelli-Olpin",
+      "cast": [
+        "Melissa Barrera",
+        "Jenna Ortega",
+        "Jasmin Savoy Brown",
+        "Mason Gooding",
+        "Jack Champion"
+      ],
+      "poster_path": "/l16wpQSFzdmAiMc8kD8SumxqBvL.jpg"
+    },
+    {
+      "id": 26466,
+      "title": "Şeytan Üçgeni",
+      "original_title": "Triangle",
+      "year": "2009",
+      "release_date": "2009-10-16",
+      "overview": "Atlantik Okyanusunda yatla gezi yaparken olumsuz hava koşulları nedeniyle gizemli bir gemiye binmek zorunda kalan bir grup insanın öyküsünü anlatıyor. Jess, yaşayacağı zihinsel bir karışıklık yüzünden üç ayrı karaktere bürünüyor ve korkunç deneyimler yaşamak zorunda kalıyor.",
+      "tagline": "",
+      "runtime": 99,
+      "vote": 6.9,
+      "genres": [
+        "Korku"
+      ],
+      "director": "Christopher Smith",
+      "cast": [
+        "Melissa George",
+        "Liam Hemsworth",
+        "Emma Lung",
+        "Rachael Carpani",
+        "Michael Dorman"
+      ],
+      "poster_path": "/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg"
+    },
+    {
+      "id": 1138194,
+      "title": "Sapkın",
+      "original_title": "Heretic",
+      "year": "2024",
+      "release_date": "2024-10-31",
+      "overview": "Yanlış kapıyı çalan iki genç misyoner, şeytani Bay Reed tarafından karşılanıp onun ölümcül kedi fare oyununa kıstırıldıklarında inançlarını kanıtlamak zorunda kalırlar.",
+      "tagline": "Her şeyi sorgula.",
+      "runtime": 111,
+      "vote": 7.0,
+      "genres": [
+        "Gerilim",
+        "Korku"
+      ],
+      "director": "Scott Beck",
+      "cast": [
+        "Hugh Grant",
+        "Sophie Thatcher",
+        "Chloe East",
+        "Topher Grace",
+        "Elle Young"
+      ],
+      "poster_path": "/QkKZHzRkqyPiwN02zZFKvSbtoj.jpg"
+    }
+  ]
+}

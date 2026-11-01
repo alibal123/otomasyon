@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-03",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Hayat Güzeldir\", \"year\": \"1997\", \"overview\": \"1930’ların İtalya’sında geçen filmde hayat dolu bir Yahudi muhasebeci olan Guido Orefice (Roberto Benigni), güzeller güzeli öğretmen Dora’ya (Nicoletta Braschi) vurulur ve tüm engellere rağmen evlenirler. Ardından bir de çocuk sahibi olan çiftin hayatlarındaki tüm pürüzler ortadan kalktığında İkinci Dünya Savaşı patlak verir ve Almanlar İtalya’yı esir alır. Yahudi oldukları için toplama kampına götürüldüklerinde Guido, oğlu Giosué’ye (Giorgio Cantarini) esir kampının ve savaşın bir oyun olarak söyleyecek; oğlu, oyunu başarıyla tamamlarsa ödül olarak çok istediği bir oyuncak tankı hediye edecektir.\", \"tagline\": \"Aşkın, ailenin ve hayal gücünün her şeyi fethettiğini kanıtlayan unutulmaz bir hikâye.\", \"genres\": [\"Komedi\", \"Dram\"], \"director\": \"Roberto Benigni\", \"cast\": [\"Roberto Benigni\", \"Nicoletta Braschi\", \"Giorgio Cantarini\", \"Giustino Durano\", \"Sergio Bini Bustric\"], \"runtime\": 116, \"vote\": 8.4}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 637,
+      "title": "Hayat Güzeldir",
+      "original_title": "La vita è bella",
+      "year": "1997",
+      "release_date": "1997-12-20",
+      "overview": "1930’ların İtalya’sında geçen filmde hayat dolu bir Yahudi muhasebeci olan Guido Orefice (Roberto Benigni), güzeller güzeli öğretmen Dora’ya (Nicoletta Braschi) vurulur ve tüm engellere rağmen evlenirler. Ardından bir de çocuk sahibi olan çiftin hayatlarındaki tüm pürüzler ortadan kalktığında İkinci Dünya Savaşı patlak verir ve Almanlar İtalya’yı esir alır. Yahudi oldukları için toplama kampına götürüldüklerinde Guido, oğlu Giosué’ye (Giorgio Cantarini) esir kampının ve savaşın bir oyun olarak söyleyecek; oğlu, oyunu başarıyla tamamlarsa ödül olarak çok istediği bir oyuncak tankı hediye edecektir.",
+      "tagline": "Aşkın, ailenin ve hayal gücünün her şeyi fethettiğini kanıtlayan unutulmaz bir hikâye.",
+      "runtime": 116,
+      "vote": 8.4,
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "director": "Roberto Benigni",
+      "cast": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini",
+        "Giustino Durano",
+        "Sergio Bini Bustric"
+      ],
+      "poster_path": "/bPliFlnRsZmH9Mr7F2CDqRsh50H.jpg"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-06",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1003596, \"title\": \"Avengers: Doomsday\", \"release_date\": \"2026-12-18\", \"overview\": \"Thunderbolts* (2025) filmindeki olaylardan 14 ay sonra; Avengers, Wakandalılar, Fantastic Four, New Avengers ve orijinal X-Men,  3 farklı evrenden gelen sevilen kahramanlar, ölümcül bir çarpışma rotasına giriyor ve şimdiye kadar karşılaştıkları hiçbir şeye benzemeyen varoluşsal bir tehditle karşı karşıya kalarak Dr. Doom'a karşı birleşirler.\", \"genres\": [\"Bilim-Kurgu\", \"Aksiyon\", \"Macera\"], \"director\": \"Joe Russo\"}, {\"id\": 1170608, \"title\": \"Dune: Çöl Gezegeni - Bölüm Üç\", \"release_date\": \"2026-12-18\", \"overview\": \"Artık acımasız bir İmparator olan Paul; eski müttefikler geri dönerken, dehşet verici yeni tehditler belirirken ve ihanet her gölgede pusuya yatarken saltanatının getirdiği sonuçlarla yüzleşmek zorundadır. İmparatorluğun çöküşüne dair görülerle ve uzun süredir ayrı düştüğü aşkının yeniden belirmesiyle sarsılırken, merkezinde Chani'nin yer aldığı, yavaş yavaş çözülen devasa bir komplonun içine çekilir. İsyan kazanları kaynarken ve düşmanlar çemberi daraltırken, gücün gerçek bedeliyle ve en çok sevdiklerinin kaderiyle hesaplaşmalıdır.\", \"genres\": [\"Bilim-Kurgu\", \"Macera\"], \"director\": \"Deni Vilenüv\"}, {\"id\": 656908, \"title\": \"Ramayana: Efsanenin Doğuşu\", \"release_date\": \"2026-11-06\", \"overview\": \"Kadim bir destandan uyarlanan yapım, evlilikleri ve hemen ardından gelen sürgünleriyle efsanevi bir serüvene adım atan genç bir prens ile prensesin hikâyesini merkezine alıyor. Aşk, vazife ve kaderle yoğrulan bu öykü, yaklaşan büyük fırtınanın yalnızca başlangıcı.\", \"genres\": [\"Fantastik\", \"Aksiyon\", \"Macera\"], \"director\": \"Nitesh Tiwari\"}, {\"id\": 1567605, \"title\": \"Ebenezer: Bir Noel Şarkısı\", \"release_date\": \"2026-11-13\", \"overview\": \"Noel’den ve çevresindeki insanlardan uzak duran cimri Ebenezer Scrooge, Noel arifesinde hayatını değiştirecek doğaüstü ziyaretçilerle karşılaşır. Ölen iş ortağı Jacob Marley’nin hayaleti tarafından uyarılan Scrooge’a, geçmişini, bugününü ve kendisini bekleyen geleceği gösterecek üç ruhun geleceği söylenir. Bu sıra dışı gece boyunca yaptığı seçimlerin sonuçlarıyla yüzleşen Scrooge, yaşamını değiştirmek ve kendisine sunulan ikinci şansı değerlendirmek zorunda kalır.\", \"genres\": [\"Fantastik\", \"Komedi\"], \"director\": \"Ti West\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "original_title": "Avengers: Doomsday",
+      "year": "2026",
+      "release_date": "2026-12-18",
+      "overview": "Thunderbolts* (2025) filmindeki olaylardan 14 ay sonra; Avengers, Wakandalılar, Fantastic Four, New Avengers ve orijinal X-Men,  3 farklı evrenden gelen sevilen kahramanlar, ölümcül bir çarpışma rotasına giriyor ve şimdiye kadar karşılaştıkları hiçbir şeye benzemeyen varoluşsal bir tehditle karşı karşıya kalarak Dr. Doom'a karşı birleşirler.",
+      "tagline": "",
+      "runtime": 165,
+      "vote": 0,
+      "genres": [
+        "Bilim-Kurgu",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Pedro Pascal",
+        "Paul Rudd"
+      ],
+      "poster_path": "/rjjW3loZDVY4a6uHzUHfoJrawH.jpg"
+    },
+    {
+      "id": 1170608,
+      "title": "Dune: Çöl Gezegeni - Bölüm Üç",
+      "original_title": "Dune: Part Three",
+      "year": "2026",
+      "release_date": "2026-12-18",
+      "overview": "Artık acımasız bir İmparator olan Paul; eski müttefikler geri dönerken, dehşet verici yeni tehditler belirirken ve ihanet her gölgede pusuya yatarken saltanatının getirdiği sonuçlarla yüzleşmek zorundadır. İmparatorluğun çöküşüne dair görülerle ve uzun süredir ayrı düştüğü aşkının yeniden belirmesiyle sarsılırken, merkezinde Chani'nin yer aldığı, yavaş yavaş çözülen devasa bir komplonun içine çekilir. İsyan kazanları kaynarken ve düşmanlar çemberi daraltırken, gücün gerçek bedeliyle ve en çok sevdiklerinin kaderiyle hesaplaşmalıdır.",
+      "tagline": "Tüm yaptıklarım için beni bağışla.",
+      "runtime": 150,
+      "vote": 0,
+      "genres": [
+        "Bilim-Kurgu",
+        "Macera"
+      ],
+      "director": "Deni Vilenüv",
+      "cast": [
+        "Timothee Chalamet",
+        "Zendaya",
+        "Jason Momoa",
+        "Florence Pugh",
+        "Rebecca Ferguson"
+      ],
+      "poster_path": "/sfAtwC0GSdcwVnstu62Mv3n0lbh.jpg"
+    },
+    {
+      "id": 656908,
+      "title": "Ramayana: Efsanenin Doğuşu",
+      "original_title": "रामायणम्",
+      "year": "2026",
+      "release_date": "2026-11-06",
+      "overview": "Kadim bir destandan uyarlanan yapım, evlilikleri ve hemen ardından gelen sürgünleriyle efsanevi bir serüvene adım atan genç bir prens ile prensesin hikâyesini merkezine alıyor. Aşk, vazife ve kaderle yoğrulan bu öykü, yaklaşan büyük fırtınanın yalnızca başlangıcı.",
+      "tagline": "Bizim gerçeğimiz. Bizim tarihimiz.",
+      "runtime": 195,
+      "vote": 10.0,
+      "genres": [
+        "Fantastik",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "Nitesh Tiwari",
+      "cast": [
+        "Ranbir Kapur",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil"
+      ],
+      "poster_path": "/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg"
+    },
+    {
+      "id": 1567605,
+      "title": "Ebenezer: Bir Noel Şarkısı",
+      "original_title": "Ebenezer",
+      "year": "2026",
+      "release_date": "2026-11-13",
+      "overview": "Noel’den ve çevresindeki insanlardan uzak duran cimri Ebenezer Scrooge, Noel arifesinde hayatını değiştirecek doğaüstü ziyaretçilerle karşılaşır. Ölen iş ortağı Jacob Marley’nin hayaleti tarafından uyarılan Scrooge’a, geçmişini, bugününü ve kendisini bekleyen geleceği gösterecek üç ruhun geleceği söylenir. Bu sıra dışı gece boyunca yaptığı seçimlerin sonuçlarıyla yüzleşen Scrooge, yaşamını değiştirmek ve kendisine sunulan ikinci şansı değerlendirmek zorunda kalır.",
+      "tagline": "",
+      "runtime": 115,
+      "vote": 0,
+      "genres": [
+        "Fantastik",
+        "Komedi"
+      ],
+      "director": "Ti West",
+      "cast": [
+        "Johnny Depp",
+        "Rupert Grint",
+        "Daisy Ridley",
+        "Andrea Riseborough",
+        "Tramell Tillman"
+      ],
+      "poster_path": "/vUEIcdHPXJ0JTkKqaxpoHKmx4mI.jpg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-04",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"İşte Bu\", \"year\": \"2009\", \"overview\": \"26 Haziran'da hayatını kaybeden Jackson'ın ölmeden önce hazırlıklarını sürdürdüğü, bu yaz Londra'da O2 Arena’da başlaması planlanmış ve tüm biletleri de satılmış olan This Is It adlı konserler serisinin olağanüstü prova ve kamera arkası görüntülerini içeren film 29 Ekim'de tüm dünyayla birlikte vizyona girecek.Pop Kral'ının bu konserlerle hayalini gerçekleştiremeden öldüğü film, tüm dünyaya Michael Jackson’ın son konserini ön sıralardan izleme fırsatını verecek.\", \"tagline\": \"\", \"genres\": [\"Müzik\", \"Belgesel\"], \"director\": \"Kenny Ortega\", \"cast\": [\"Michael Jackson\", \"Orianthi\", \"Kenny Ortega\", \"Dorian Holley\", \"Patrick Woodroffe\"], \"runtime\": 111, \"vote\": 7.4}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 13576,
+      "title": "İşte Bu",
+      "original_title": "This Is It",
+      "year": "2009",
+      "release_date": "2009-10-28",
+      "overview": "26 Haziran'da hayatını kaybeden Jackson'ın ölmeden önce hazırlıklarını sürdürdüğü, bu yaz Londra'da O2 Arena’da başlaması planlanmış ve tüm biletleri de satılmış olan This Is It adlı konserler serisinin olağanüstü prova ve kamera arkası görüntülerini içeren film 29 Ekim'de tüm dünyayla birlikte vizyona girecek.Pop Kral'ının bu konserlerle hayalini gerçekleştiremeden öldüğü film, tüm dünyaya Michael Jackson’ın son konserini ön sıralardan izleme fırsatını verecek.",
+      "tagline": "",
+      "runtime": 111,
+      "vote": 7.4,
+      "genres": [
+        "Müzik",
+        "Belgesel"
+      ],
+      "director": "Kenny Ortega",
+      "cast": [
+        "Michael Jackson",
+        "Orianthi",
+        "Kenny Ortega",
+        "Dorian Holley",
+        "Patrick Woodroffe"
+      ],
+      "poster_path": "/8GvQzHFSqr9KhyVxLEpB5dXPOWG.jpg"
+    }
+  ]
+}

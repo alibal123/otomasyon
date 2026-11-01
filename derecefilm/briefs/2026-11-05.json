@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-05",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Altıncı His",
+      "Kill Bill: Vol. 1",
+      "Büyük Hesaplaşma"
+    ],
+    "dogru_index": 1
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Kill Bill: Vol. 1\", \"year\": \"2003\", \"overview\": \"Sıra dışı yazar ve yönetmen Quentin Tarantino'nun büyük beğeni kazanan dördüncü filmi olan, acımasız bir ihaneti ve destansı bir kan davasını konu alan heyecan ve gerilimi yüksek Kill Bill: Volume 1'de başrollerde Uma Thurman (Pulp Fiction), Lucy Liu (Charlie's Angels, Chicago) ve Vivica A Fox' u (Two Can Play That Game) izleyeceksiniz. Kendi nikah töreninde başına bir kurşun isabet ettikten dört yıl sonra, Gelin (Thurman) komadan çıkar ve intikam alma vakti geldiğine karar verir! Eski patronu Bill (David Carradine) ve onun ölümcül uluslararası suikast ekibi tarafından vurulduğu göz önüne alınırsa artık kendisinin başlatmadığı ancak bitirmeye kararlı olduğu bir ölüm kalım savaşı onu beklemektedir. Tüm dünyada ses getiren aksiyon dolu nükteli bu film, mutlaka görülmesi gereken bir yapım.\", \"tagline\": \"'Gelin' öldürmeye geliyor.\", \"director\": \"Quentin Tarantino\", \"cast\": [\"Uma Thurman\", \"Lucy Liu\", \"Vivica A. Fox\", \"Daryl Hannah\", \"David Carradine\"], \"genres\": [\"Aksiyon\", \"Suç\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Altıncı His\", \"Kill Bill: Vol. 1\", \"Büyük Hesaplaşma\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 24,
+      "title": "Kill Bill: Vol. 1",
+      "original_title": "Kill Bill: Vol. 1",
+      "year": "2003",
+      "release_date": "2003-10-10",
+      "overview": "Sıra dışı yazar ve yönetmen Quentin Tarantino'nun büyük beğeni kazanan dördüncü filmi olan, acımasız bir ihaneti ve destansı bir kan davasını konu alan heyecan ve gerilimi yüksek Kill Bill: Volume 1'de başrollerde Uma Thurman (Pulp Fiction), Lucy Liu (Charlie's Angels, Chicago) ve Vivica A Fox' u (Two Can Play That Game) izleyeceksiniz. Kendi nikah töreninde başına bir kurşun isabet ettikten dört yıl sonra, Gelin (Thurman) komadan çıkar ve intikam alma vakti geldiğine karar verir! Eski patronu Bill (David Carradine) ve onun ölümcül uluslararası suikast ekibi tarafından vurulduğu göz önüne alınırsa artık kendisinin başlatmadığı ancak bitirmeye kararlı olduğu bir ölüm kalım savaşı onu beklemektedir. Tüm dünyada ses getiren aksiyon dolu nükteli bu film, mutlaka görülmesi gereken bir yapım.",
+      "tagline": "'Gelin' öldürmeye geliyor.",
+      "runtime": 111,
+      "vote": 8.0,
+      "genres": [
+        "Aksiyon",
+        "Suç"
+      ],
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Uma Thurman",
+        "Lucy Liu",
+        "Vivica A. Fox",
+        "Daryl Hannah",
+        "David Carradine"
+      ],
+      "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+    },
+    {
+      "id": 949,
+      "title": "Büyük Hesaplaşma",
+      "original_title": "Heat",
+      "year": "1995",
+      "release_date": "1995-12-15",
+      "overview": "İnatçı bir Los Angeles emniyet müdürlüğü komiseri acımasız ve ölümcül bir profesyonel hırsızın ve onun suç ortaklarının peşine amansız bir şekilde düşer.",
+      "tagline": "Bir Los Angeles suç destanı.",
+      "runtime": 170,
+      "vote": 7.9,
+      "genres": [
+        "Suç",
+        "Dram",
+        "Aksiyon"
+      ],
+      "director": "Michael Mann",
+      "cast": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer",
+        "Jon Voight",
+        "Tom Sizemore"
+      ],
+      "poster_path": "/avp9LgmtnCiOj9l07SYA7U0yNkG.jpg"
+    },
+    {
+      "id": 745,
+      "title": "Altıncı His",
+      "original_title": "The Sixth Sense",
+      "year": "1999",
+      "release_date": "1999-08-06",
+      "overview": "Bir çocuk psikiyatrisi olan Dr. Crowe, yıllar önce bir saldırıya uğramış ve hayatı değişmiştir. Son ilgilendiği hastası, 6 yaşındaki bir erkek çocuğu olan Cole Sear'ın bir sırrı vardır. Çok az insana nasip olan bir yetenekle kutsanmış ya da lanetlenmiştir: Ölmüş ama huzur bulamamış insanların etrafımızda dolaşan hayaletlerini görüp onlarla konuşmaktadır. Crowe, güçlerinin sınırlarını bilmediği ve anlayamadığı için korku içinde olan Cole'un yalnızca sırrını paylaşan tek kişi olmakla kalmayacak, aynı zamanda onunla birlikte cesur bir yolculuğa da çıkacaktır. İkisi de, içlerindeki boşluğu, yine kendi içlerine yapacakları bir yolculukta bulacakları şeylerle dolduracaklardır. Unutmamak gereken bir nokta daha olduğunu hatırlatmadan geçmeyelim: Gerçekler, bulundukları zaman çok acıtabilir...",
+      "tagline": "Her hediye bir nimet değildir.",
+      "runtime": 107,
+      "vote": 8.0,
+      "genres": [
+        "Gizem",
+        "Gerilim",
+        "Dram"
+      ],
+      "director": "M. Night Shyamalan",
+      "cast": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Trevor Morgan"
+      ],
+      "poster_path": "/bnbKY0F0LgQlsXMKk1v2IqnUbM8.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 24,
+    "title": "Kill Bill: Vol. 1",
+    "original_title": "Kill Bill: Vol. 1",
+    "year": "2003",
+    "release_date": "2003-10-10",
+    "overview": "Sıra dışı yazar ve yönetmen Quentin Tarantino'nun büyük beğeni kazanan dördüncü filmi olan, acımasız bir ihaneti ve destansı bir kan davasını konu alan heyecan ve gerilimi yüksek Kill Bill: Volume 1'de başrollerde Uma Thurman (Pulp Fiction), Lucy Liu (Charlie's Angels, Chicago) ve Vivica A Fox' u (Two Can Play That Game) izleyeceksiniz. Kendi nikah töreninde başına bir kurşun isabet ettikten dört yıl sonra, Gelin (Thurman) komadan çıkar ve intikam alma vakti geldiğine karar verir! Eski patronu Bill (David Carradine) ve onun ölümcül uluslararası suikast ekibi tarafından vurulduğu göz önüne alınırsa artık kendisinin başlatmadığı ancak bitirmeye kararlı olduğu bir ölüm kalım savaşı onu beklemektedir. Tüm dünyada ses getiren aksiyon dolu nükteli bu film, mutlaka görülmesi gereken bir yapım.",
+    "tagline": "'Gelin' öldürmeye geliyor.",
+    "runtime": 111,
+    "vote": 8.0,
+    "genres": [
+      "Aksiyon",
+      "Suç"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah",
+      "David Carradine"
+    ],
+    "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  }
+}

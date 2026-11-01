@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-08",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Sıkıysa Yakala\", \"year\": \"2002\", \"overview\": \"FBI’ın ünlü “En Çok Arananlar” listesinde yer alan en genç dolandırıcısının gerçek yaşam öyküsü. Frank Abagnale Jr. henüz 18 yaşına gelmeden doktorluk, avukatlık ve büyük bir hava yolu şirketinde pilot yardımcılığı yaptı. Kılık değiştirme ustası olan Abagnale, aynı zamanda son derece zeki bir dolandırıcıydı. 16 yaşındayken başladığı çek sahtekarlığını 26 ülkede sürdürerek 2,5 milyon dolar çapında dolandırıcılık yaptı. ABD tarihinin en başarılı banka soygununu gerçekleştirdi.\", \"tagline\": \"Gerçek bir sahtekarın gerçek hikayesi.\", \"genres\": [\"Dram\", \"Suç\"], \"director\": \"Steven Spielberg\", \"cast\": [\"Leonardo DiCaprio\", \"Tom Hanks\", \"Christopher Walken\", \"Martin Sheen\", \"Nathalie Baye\"], \"runtime\": 141, \"vote\": 8.0}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 640,
+      "title": "Sıkıysa Yakala",
+      "original_title": "Catch Me If You Can",
+      "year": "2002",
+      "release_date": "2002-12-16",
+      "overview": "FBI’ın ünlü “En Çok Arananlar” listesinde yer alan en genç dolandırıcısının gerçek yaşam öyküsü. Frank Abagnale Jr. henüz 18 yaşına gelmeden doktorluk, avukatlık ve büyük bir hava yolu şirketinde pilot yardımcılığı yaptı. Kılık değiştirme ustası olan Abagnale, aynı zamanda son derece zeki bir dolandırıcıydı. 16 yaşındayken başladığı çek sahtekarlığını 26 ülkede sürdürerek 2,5 milyon dolar çapında dolandırıcılık yaptı. ABD tarihinin en başarılı banka soygununu gerçekleştirdi.",
+      "tagline": "Gerçek bir sahtekarın gerçek hikayesi.",
+      "runtime": 141,
+      "vote": 8.0,
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "director": "Steven Spielberg",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye"
+      ],
+      "poster_path": "/pMuNEWOF5Rio9PA7ZblZMkoaN2W.jpg"
+    }
+  ]
+}
