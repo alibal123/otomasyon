@@ -1,319 +1,252 @@
 {
- "prestige": {
-  "q": "The Prestige",
-  "year": 2006,
-  "n": 4
- },
- "shutterisland": {
-  "q": "Shutter Island",
-  "year": 2010,
-  "n": 4
- },
- "usualsuspects": {
-  "q": "The Usual Suspects",
-  "year": 1995,
-  "n": 4
- },
- "gonegirl": {
-  "q": "Gone Girl",
-  "year": 2014,
-  "n": 4
- },
- "sixthsense": {
-  "q": "The Sixth Sense",
-  "year": 1999,
-  "n": 4
- },
- "beetlejuice": {
-  "q": "Beetlejuice",
-  "year": 1988,
-  "n": 4
- },
- "hocuspocus": {
-  "q": "Hocus Pocus",
-  "year": 1993,
-  "n": 4
- },
- "coraline": {
-  "q": "Coraline",
+ "500days": {
+  "q": "(500) Days of Summer",
   "year": 2009,
   "n": 4
  },
- "nightmare": {
-  "q": "The Nightmare Before Christmas",
-  "year": 1993,
-  "n": 4
- },
- "casper": {
-  "q": "Casper",
+ "beforesunrise": {
+  "q": "Before Sunrise",
   "year": 1995,
   "n": 4
  },
- "inception": {
-  "q": "Inception",
-  "year": 2010,
-  "n": 3
- },
- "paprika": {
-  "q": "Paprika",
-  "year": 2006,
-  "n": 3
- },
- "forrestgump": {
-  "q": "Forrest Gump",
-  "year": 1994,
-  "n": 3
- },
- "bigfish": {
-  "q": "Big Fish",
+ "lostintrans": {
+  "q": "Lost in Translation",
   "year": 2003,
-  "n": 3
- },
- "knivesout": {
-  "q": "Knives Out",
-  "year": 2019,
-  "n": 3
- },
- "gosford": {
-  "q": "Gosford Park",
-  "year": 2001,
-  "n": 3
- },
- "parasite": {
-  "id": 496243,
-  "n": 3
- },
- "shoplifters": {
-  "q": "Shoplifters",
-  "year": 2018,
-  "n": 3
- },
- "hababam": {
-  "q": "Hababam Sınıfı",
-  "year": 1975,
-  "n": 3
- },
- "tosunpasa": {
-  "q": "Tosun Paşa",
-  "year": 1976,
-  "n": 3
- },
- "kibarfeyzo": {
-  "q": "Kibar Feyzo",
-  "year": 1978,
-  "n": 3
- },
- "neseligunler": {
-  "q": "Neşeli Günler",
-  "year": 1978,
-  "n": 3
- },
- "copculer": {
-  "q": "Çöpçüler Kralı",
-  "year": 1977,
-  "n": 3
- },
- "zubuk": {
-  "q": "Zübük",
-  "year": 1980,
-  "n": 3
- },
- "gulengozler": {
-  "q": "Gülen Gözler",
-  "year": 1977,
-  "n": 3
- },
- "up": {
-  "q": "Up",
-  "year": 2009,
   "n": 4
  },
- "coco": {
-  "q": "Coco",
-  "year": 2017,
+ "pastlives": {
+  "q": "Past Lives",
+  "year": 2023,
   "n": 4
  },
- "insideout": {
-  "q": "Inside Out",
-  "year": 2015,
-  "n": 4
- },
- "walle": {
-  "q": "WALL·E",
-  "year": 2008,
-  "n": 4
- },
- "yourname": {
-  "id": 372058,
-  "n": 4
- },
- "abouttime": {
-  "q": "About Time",
-  "year": 2013,
-  "n": 4
- },
- "paddington2": {
-  "q": "Paddington 2",
-  "year": 2017,
-  "n": 4
- },
- "chef": {
-  "q": "Chef",
-  "year": 2014,
-  "n": 4
- },
- "littlewomen": {
-  "q": "Little Women",
-  "year": 2019,
-  "n": 4
- },
- "midnightparis": {
-  "q": "Midnight in Paris",
+ "likecrazy": {
+  "q": "Like Crazy",
   "year": 2011,
   "n": 4
  },
- "angrymen": {
-  "q": "12 Angry Men",
-  "year": 1957,
+ "eternal": {
+  "q": "Eternal Sunshine of the Spotless Mind",
+  "year": 2004,
   "n": 4
  },
- "rope": {
-  "q": "Rope",
-  "year": 1948,
-  "n": 4
- },
- "locke": {
-  "q": "Locke",
+ "her": {
+  "q": "Her",
   "year": 2013,
   "n": 4
  },
- "buried": {
-  "q": "Buried",
+ "beginagain": {
+  "q": "Begin Again",
+  "year": 2013,
+  "n": 4
+ },
+ "anniehall": {
+  "q": "Annie Hall",
+  "year": 1977,
+  "n": 4
+ },
+ "bluevalentine": {
+  "q": "Blue Valentine",
   "year": 2010,
   "n": 4
  },
- "cube": {
-  "q": "Cube",
-  "year": 1997,
+ "phantom": {
+  "q": "Phantom Thread",
+  "year": 2017,
   "n": 4
  },
- "doomsday": {
-  "q": "Avengers: Doomsday",
-  "year": 2026,
-  "n": 5
- },
- "dune3": {
-  "q": "Dune: Part Three",
-  "year": 2026,
-  "n": 5
- },
- "catinhat": {
-  "id": 1117898,
+ "ripley": {
+  "q": "The Talented Mr. Ripley",
+  "year": 1999,
   "n": 4
  },
- "hungergames": {
-  "id": 1300968,
+ "revroad": {
+  "q": "Revolutionary Road",
+  "year": 2008,
   "n": 4
  },
- "buddy": {
-  "id": 1514026,
+ "fresh": {
+  "q": "Fresh",
+  "year": 2022,
   "n": 4
  },
- "wicker": {
-  "id": 1195803,
+ "saltburn": {
+  "q": "Saltburn",
+  "year": 2023,
   "n": 4
  },
- "angrybirds3": {
-  "q": "The Angry Birds Movie 3",
-  "year": 2026,
+ "intowild": {
+  "q": "Into the Wild",
+  "year": 2007,
   "n": 4
  },
- "_upcoming_kasim": {
-  "upcoming": {
-   "region": "TR",
-   "from": "2026-11-04",
-   "to": "2026-11-30"
-  }
- },
- "_upcoming_aralik": {
-  "upcoming": {
-   "region": "TR",
-   "from": "2026-12-01",
-   "to": "2026-12-31"
-  }
- },
- "wildhorse": {
-  "id": 891621,
-  "n": 4
- },
- "godzilla": {
-  "id": 1381071,
-  "n": 4
- },
- "ebenezer": {
-  "id": 1567605,
-  "n": 4
- },
- "focker": {
-  "id": 1400336,
-  "n": 4
- },
- "papertiger": {
-  "id": 1381273,
-  "n": 4
- },
- "hexed": {
-  "id": 1538497,
-  "n": 4
- },
- "violentnight2": {
-  "id": 1078446,
-  "n": 4
- },
- "geister": {
-  "id": 1447206,
-  "n": 4
- },
- "howtorob": {
-  "id": 1437511,
-  "n": 4
- },
- "_yeni_2026": {
-  "discover": {
-   "primary_release_date.gte": "2025-09-01",
-   "primary_release_date.lte": "2026-10-27",
-   "sort_by": "vote_average.desc",
-   "vote_count.gte": 1500
-  }
- },
- "swapped": {
-  "id": 1007757,
-  "n": 4
- },
- "hailmary": {
-  "id": 687163,
-  "n": 4
- },
- "michael": {
-  "id": 936075,
-  "n": 4
- },
- "spiderman": {
-  "id": 969681,
-  "n": 4
- },
- "toystory5": {
-  "id": 1084244,
-  "n": 4
- },
- "lalaland": {
-  "q": "La La Land",
-  "year": 2016,
-  "n": 5
- },
- "whiplash": {
-  "q": "Whiplash",
+ "wild": {
+  "q": "Wild",
   "year": 2014,
-  "n": 5
+  "n": 4
+ },
+ "nomadland": {
+  "q": "Nomadland",
+  "year": 2020,
+  "n": 4
+ },
+ "captainfant": {
+  "q": "Captain Fantastic",
+  "year": 2016,
+  "n": 4
+ },
+ "tracks": {
+  "q": "Tracks",
+  "year": 2013,
+  "n": 4
+ },
+ "aftersun": {
+  "q": "Aftersun",
+  "year": 2022,
+  "n": 4
+ },
+ "worstperson": {
+  "q": "The Worst Person in the World",
+  "year": 2021,
+  "n": 4
+ },
+ "eeaao": {
+  "q": "Everything Everywhere All at Once",
+  "year": 2022,
+  "n": 4
+ },
+ "portrait": {
+  "q": "Portrait of a Lady on Fire",
+  "year": 2019,
+  "n": 4
+ },
+ "banshees": {
+  "q": "The Banshees of Inisherin",
+  "year": 2022,
+  "n": 4
+ },
+ "serendipity": {
+  "q": "Serendipity",
+  "year": 2001,
+  "n": 4
+ },
+ "amelie": {
+  "q": "Amélie",
+  "year": 2001,
+  "n": 4
+ },
+ "harrysally": {
+  "q": "When Harry Met Sally...",
+  "year": 1989,
+  "n": 4
+ },
+ "chungking": {
+  "q": "Chungking Express",
+  "year": 1994,
+  "n": 4
+ },
+ "sleepless": {
+  "q": "Sleepless in Seattle",
+  "year": 1993,
+  "n": 4
+ },
+ "sarahmarshall": {
+  "q": "Forgetting Sarah Marshall",
+  "year": 2008,
+  "n": 4
+ },
+ "legallyblonde": {
+  "q": "Legally Blonde",
+  "year": 2001,
+  "n": 4
+ },
+ "bridget": {
+  "q": "Bridget Jones's Diary",
+  "year": 2001,
+  "n": 4
+ },
+ "crazystupid": {
+  "q": "Crazy, Stupid, Love.",
+  "year": 2011,
+  "n": 4
+ },
+ "theholiday": {
+  "q": "The Holiday",
+  "year": 2006,
+  "n": 4
+ },
+ "lunchbox": {
+  "q": "The Lunchbox",
+  "year": 2013,
+  "n": 4
+ },
+ "littleforest": {
+  "q": "Little Forest",
+  "year": 2018,
+  "n": 4
+ },
+ "juliejulia": {
+  "q": "Julie & Julia",
+  "year": 2009,
+  "n": 4
+ },
+ "ratatouille": {
+  "q": "Ratatouille",
+  "year": 2007,
+  "n": 4
+ },
+ "kamome": {
+  "q": "Kamome Diner",
+  "year": 2006,
+  "n": 4
+ },
+ "romanholiday": {
+  "q": "Roman Holiday",
+  "year": 1953,
+  "n": 4
+ },
+ "cmbyn": {
+  "q": "Call Me by Your Name",
+  "year": 2017,
+  "n": 4
+ },
+ "mammamia": {
+  "q": "Mamma Mia!",
+  "year": 2008,
+  "n": 4
+ },
+ "ferris": {
+  "q": "Ferris Bueller's Day Off",
+  "year": 1986,
+  "n": 4
+ },
+ "darjeeling": {
+  "q": "The Darjeeling Limited",
+  "year": 2007,
+  "n": 4
+ },
+ "groundhog": {
+  "q": "Groundhog Day",
+  "year": 1993,
+  "n": 4
+ },
+ "palmsprings": {
+  "q": "Palm Springs",
+  "year": 2020,
+  "n": 4
+ },
+ "yesman": {
+  "q": "Yes Man",
+  "year": 2008,
+  "n": 4
+ },
+ "soul": {
+  "q": "Soul",
+  "year": 2020,
+  "n": 4
+ },
+ "happyness": {
+  "q": "The Pursuit of Happyness",
+  "year": 2006,
+  "n": 4
  }
 }
