@@ -5323,5 +5323,41 @@
    "happyness_3.jpg",
    "happyness_4.jpg"
   ]
+ },
+ "waltermitty": {
+  "id": 116745,
+  "title_tr": "Walter Mitty'nin Gizli Yaşamı",
+  "original_title": "The Secret Life of Walter Mitty",
+  "release_date": "2013-12-18",
+  "tr_release": [
+   "2014-01-03"
+  ],
+  "director": [
+   "Ben Stiller"
+  ],
+  "cast": [
+   "Ben Stiller",
+   "Kristen Wiig",
+   "Sean Penn",
+   "Shirley MacLaine",
+   "Adam Scott",
+   "Kathryn Hahn"
+  ],
+  "runtime": 115,
+  "vote": 7.2,
+  "genres": [
+   "Macera",
+   "Komedi",
+   "Dram",
+   "Fantastik"
+  ],
+  "overview": "Aşırı koruyucu bir anneye sahip, gün içinde hayaller kuran Walter Mitty kendisini büyük maceralar yaşayan bir kahraman olarak hayal etmeyi çok sever. Gizemli bir kadının kendisine küçük siyah bir kitap vermesiyle bu hayali gerçek olur. Kadına göre, kitapta 2. Dünya Savaşı’ndan beri saklanan Alman kraliyet mücevherlerinin yerleri yazmaktadır. Mitty kısa bir süre sonra kendisini karmaşık bir komplonun içinde bulur ve gerçek hayatta bir kahraman olmanın o kadar da kolay olmadığını fark eder.",
+  "status": "Released",
+  "files": [
+   "waltermitty_1.jpg",
+   "waltermitty_2.jpg",
+   "waltermitty_3.jpg",
+   "waltermitty_4.jpg"
+  ]
  }
 }
