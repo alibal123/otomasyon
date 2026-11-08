@@ -1,0 +1,30 @@
+{
+ "baslik": "Vizyona Girecek 4 Film",
+ "filmler": [
+  {
+   "id": 1003596,
+   "not": "Avengers, Dr. Doom'a karşı birleşiyor. Yönetmen Joe Russo. 18 Aralık."
+  },
+  {
+   "id": 1170608,
+   "not": "Paul, imparatorluğun getirdiği sonuçlarla yüzleşiyor. 18 Aralık."
+  },
+  {
+   "id": 656908,
+   "not": "Genç bir prens ve prensesin evlilik ve sürgünle başlayan destanı. 6 Kasım."
+  },
+  {
+   "id": 1567605,
+   "not": "Cimri Scrooge, Noel arifesinde doğaüstü ziyaretçilerle karşılaşıyor. 13 Kasım."
+  }
+ ],
+ "aciklama": "Önümüzdeki haftalarda vizyona girecek filmler burada. Ramayana: Efsanenin Doğuşu 6 Kasım'da, Ebenezer: Bir Noel Şarkısı 13 Kasım'da, Avengers: Doomsday ile Dune: Çöl Gezegeni - Bölüm Üç ise 18 Aralık'ta geliyor. Takvimi kaydedin. Hangisini sinemada ilk günden izlemek istersiniz?",
+ "etiketler": [
+  "vizyon",
+  "yakında",
+  "AvengersDoomsday",
+  "Dune",
+  "sinema",
+  "derecefilm"
+ ]
+}
