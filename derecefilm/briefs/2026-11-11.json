@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Seaspiracy: Denizlerdeki Komplo\", \"year\": \"2021\", \"overview\": \"Okyanuslardaki yaşama hayranlık duyan bir film yapımcısı, insanların deniz canlılarına verdiği zararı araştırırken küresel boyutta korkunç bir yolsuzluğu ortaya çıkarır.\", \"tagline\": \"\", \"genres\": [\"Belgesel\", \"Suç\"], \"director\": \"Ali Tabrizi\", \"cast\": [\"Ali Tabrizi\", \"Sylvia Earle\", \"Richard O'Barry\", \"Paul de Gelder\", \"Lucy Tabrizi\"], \"runtime\": 89, \"vote\": 7.8}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 801058,
+      "title": "Seaspiracy: Denizlerdeki Komplo",
+      "original_title": "Seaspiracy",
+      "year": "2021",
+      "release_date": "2021-03-24",
+      "overview": "Okyanuslardaki yaşama hayranlık duyan bir film yapımcısı, insanların deniz canlılarına verdiği zararı araştırırken küresel boyutta korkunç bir yolsuzluğu ortaya çıkarır.",
+      "tagline": "",
+      "runtime": 89,
+      "vote": 7.8,
+      "genres": [
+        "Belgesel",
+        "Suç"
+      ],
+      "director": "Ali Tabrizi",
+      "cast": [
+        "Ali Tabrizi",
+        "Sylvia Earle",
+        "Richard O'Barry",
+        "Paul de Gelder",
+        "Lucy Tabrizi"
+      ],
+      "poster_path": "/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg"
+    }
+  ]
+}

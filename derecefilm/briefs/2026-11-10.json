@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-10",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Cennet Sineması\", \"year\": \"1988\", \"overview\": \"Artık ünlü bir yönetmen olmuş Salvatore, 30 yıl sonra bir arkadaşının öldüğü haberi üzerine doğduğu kasabaya geri döner. Kasabaya geldiğinde eski anıları canlanan Salvatore, Cinema Paradiso adlı sinemada projeksiyoncu olarak çalışan Alfred ile ilişkilerini hatırlar. Küçük bir çocuk olan Salvatore, günlerini Alfred'in yanında geçirmekte, filmlerle ilgili konuşmakta ve Alfred'in sinema konusunda deneyim ve bilgilerinden yararlanmaktadır. Babacan tavırlarıyla Salvatore'nin hayatında önemli bir yere sahip olacak Alfred sayesinde sinemaya olan aşkını ve tutkusu keşfedecektir.\", \"tagline\": \"\", \"genres\": [\"Dram\", \"Romantik\"], \"director\": \"Giuseppe Tornatore\", \"cast\": [\"Philippe Noiret\", \"Jacques Perrin\", \"Marco Leonardi\", \"Salvatore Cascio\", \"Agnese Nano\"], \"runtime\": 155, \"vote\": 8.4}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 11216,
+      "title": "Cennet Sineması",
+      "original_title": "Nuovo Cinema Paradiso",
+      "year": "1988",
+      "release_date": "1988-11-17",
+      "overview": "Artık ünlü bir yönetmen olmuş Salvatore, 30 yıl sonra bir arkadaşının öldüğü haberi üzerine doğduğu kasabaya geri döner. Kasabaya geldiğinde eski anıları canlanan Salvatore, Cinema Paradiso adlı sinemada projeksiyoncu olarak çalışan Alfred ile ilişkilerini hatırlar. Küçük bir çocuk olan Salvatore, günlerini Alfred'in yanında geçirmekte, filmlerle ilgili konuşmakta ve Alfred'in sinema konusunda deneyim ve bilgilerinden yararlanmaktadır. Babacan tavırlarıyla Salvatore'nin hayatında önemli bir yere sahip olacak Alfred sayesinde sinemaya olan aşkını ve tutkusu keşfedecektir.",
+      "tagline": "",
+      "runtime": 155,
+      "vote": 8.4,
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Giuseppe Tornatore",
+      "cast": [
+        "Philippe Noiret",
+        "Jacques Perrin",
+        "Marco Leonardi",
+        "Salvatore Cascio",
+        "Agnese Nano"
+      ],
+      "poster_path": "/3hcXpztAe9L6VLpDGwohS01ZSxw.jpg"
+    }
+  ]
+}

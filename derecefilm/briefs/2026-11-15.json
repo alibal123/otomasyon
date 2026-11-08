@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-15",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Sapık\", \"year\": \"1960\", \"overview\": \"Marion Crane’e patronuyla iş yapan zengin bir adam 40 bin dolar emanet eder ve Marion parayı bankaya yatırmak yerine yanına alıp şehirden ayrılır. Bir polis Marion’un şüpheli davranışları üzerine peşine takılır. Ancak Marion’un peşine takılan sadece polis değildir. Sevgilisi ile buluşmayı planlayan Marion şiddetli yağmur yüzünden geceyi bir otelde geçirmeye karar verir. Otelden içeri girer girmez garip şeyler olduğunun farkına varan Marion uyumadan önce otel sahibi Norman Bates ile biraz sohbet eder. Norman’ın kişiliğinde sorunlar olduğunu, annesine ve kuşlara karşı bir takıntısı olduğunu öğrenen Marion, sohbeti kısa kesip odasına giderek duş almaya karar verir ve olaylar gelişir.\", \"tagline\": \"Yeni —ve tamamen farklı— bir ekran heyecanı!\", \"genres\": [\"Korku\", \"Gerilim\", \"Gizem\"], \"director\": \"Alfred Hitchcock\", \"cast\": [\"Anthony Perkins\", \"Janet Leigh\", \"Vera Miles\", \"John Gavin\", \"Martin Balsam\"], \"runtime\": 109, \"vote\": 8.4}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 539,
+      "title": "Sapık",
+      "original_title": "Psycho",
+      "year": "1960",
+      "release_date": "1960-06-22",
+      "overview": "Marion Crane’e patronuyla iş yapan zengin bir adam 40 bin dolar emanet eder ve Marion parayı bankaya yatırmak yerine yanına alıp şehirden ayrılır. Bir polis Marion’un şüpheli davranışları üzerine peşine takılır. Ancak Marion’un peşine takılan sadece polis değildir. Sevgilisi ile buluşmayı planlayan Marion şiddetli yağmur yüzünden geceyi bir otelde geçirmeye karar verir. Otelden içeri girer girmez garip şeyler olduğunun farkına varan Marion uyumadan önce otel sahibi Norman Bates ile biraz sohbet eder. Norman’ın kişiliğinde sorunlar olduğunu, annesine ve kuşlara karşı bir takıntısı olduğunu öğrenen Marion, sohbeti kısa kesip odasına giderek duş almaya karar verir ve olaylar gelişir.",
+      "tagline": "Yeni —ve tamamen farklı— bir ekran heyecanı!",
+      "runtime": 109,
+      "vote": 8.4,
+      "genres": [
+        "Korku",
+        "Gerilim",
+        "Gizem"
+      ],
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin",
+        "Martin Balsam"
+      ],
+      "poster_path": "/uFEF28UQcxKAWKhOrK6RhS9S1Yj.jpg"
+    }
+  ]
+}

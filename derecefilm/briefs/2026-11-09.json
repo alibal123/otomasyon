@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-09",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: komedi filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 862, \"title\": \"Oyuncak Hikayesi\", \"year\": \"1995\", \"overview\": \"Buzz Lightyear adlı yeni çıkan oyuncak, Andy'e hediye edilir. Oyuncağı çok seven Andy, eski gözdesi Şerif Woody'e olan ilgisini yitirir. Bir gün Buzz yanlışlıkla pencereden aşağı uçunca, herkes Woody'nin onu öldürdüğüne inanır. Woody, kendisini kurtarabilmek için Buzz'ın arkasından giderek onu geri getirmeye karar verir. Fakat ikiliyi dış dünyada büyük tehlikelerle dolu maceralar beklemektedir.\", \"genres\": [\"Aile\", \"Komedi\", \"Animasyon\", \"Macera\"], \"vote\": 8.0}, {\"id\": 438695, \"title\": \"Şarkını Söyle 2\", \"year\": \"2021\", \"overview\": \"NewMoon Tiyatrosu’nu büyük bir başarıya ulaştırmasının ardından Buster, bu kez gözünü Crystal Tower Tiyatrosu’na diker. Buster burada yeni bir gösteri sergilemeyi planlar. Ancak acımasız kurt Jimmy Crystal tarafından yönetilen dünyaca ünlü Crystal Entertainment’ın ofislerine girmek pek kolay değildir. Bu yüzden Buster ile anne domuz Rosita, rockçı oklu kirpi Ash, goril Johnny, fil Meena ve domuz provokatörü Gunter’dan oluşan ekip, Crystal Entertainment’a gizlice girer. Bu sırada Gunter ortaya gerçekleştirmesi zor bir fikir atar ve dünyanın en münzevi rock yıldızı Clay Calloway'in da şovda yer alacağını vaat eder. Buster, bu önemli gösteride onlarla birlikte sahnede yer alması için Clay’ı bulmak için yola koyulur.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Aile\", \"Müzik\"], \"vote\": 7.8}, {\"id\": 265195, \"title\": \"Asabiyim Ben\", \"year\": \"2014\", \"overview\": \"Öfkenin iliklere işlediği, dengenin her daim hassas olduğu bir toplumda, aşkların, nefretin ve intikam duygusunun hüküm sürdüğü birbirinden bağımsız bireylerin öykülerini taşıyor perdeye Asabiyim Ben. Satın alınan şereflerin gölgesinde, insanların kanunlar karşısında çaresiz ve öfkeli olduğu bir dünyaya ait altı farklı hayat hikayesi dikiyor karşımıza. Yolsuzluğun ve yozlaşmışlığın hüküm sürdüğü bir ülkede, kana bulanan muhteşem düğünler, ölüme yürüyen danslar, telleri iyiden iyiye gevşeyen sinirler ve bu yoldan çıkmışlığı tasvir eden \\\"eğlenceli\\\" öyküler.\", \"genres\": [\"Dram\", \"Gerilim\", \"Komedi\"], \"vote\": 7.9}, {\"id\": 449176, \"title\": \"Sevgiler, Simon\", \"year\": \"2018\", \"overview\": \"Herkes gençlik yıllarında masalsı bir aşk hikayesini hak eder. Ancak ne yazık ki, durum 17 yaşındaki Simon Spier için biraz karışık. O, henüz ailesine ve arkadaşlarına gay olduğu gerçeğini açıklayabilmiş değil. Üstelik sorunları, onların tepkilerinden korkmakla da kalmıyor. İnternet üzerinden konuştuğu bir sınıf arkadaşına da aşık. Ancak kimliğini gizli tutan bu sınıf arkadaşının kim olduğu hakkında hiçbir fikri yok! Bu iki sorunun çözümü de hayatını değiştirecek adımlar atmasından geçiyor...\", \"genres\": [\"Komedi\", \"Dram\", \"Romantik\"], \"vote\": 8.0}, {\"id\": 515001, \"title\": \"Tavşan Jojo\", \"year\": \"2019\", \"overview\": \"Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır. Hayali arkadaşı olan Hitler, hiç de orijinalindeki gibi değildir. Jojo'nun bu korkunç ırkçılığa karşı gelmek için mücadele etmesi gerekmektedir.\", \"genres\": [\"Komedi\", \"Savaş\", \"Dram\"], \"vote\": 8.0}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 862,
+      "title": "Oyuncak Hikayesi",
+      "original_title": "Toy Story",
+      "year": "1995",
+      "release_date": "1995-11-22",
+      "overview": "Buzz Lightyear adlı yeni çıkan oyuncak, Andy'e hediye edilir. Oyuncağı çok seven Andy, eski gözdesi Şerif Woody'e olan ilgisini yitirir. Bir gün Buzz yanlışlıkla pencereden aşağı uçunca, herkes Woody'nin onu öldürdüğüne inanır. Woody, kendisini kurtarabilmek için Buzz'ın arkasından giderek onu geri getirmeye karar verir. Fakat ikiliyi dış dünyada büyük tehlikelerle dolu maceralar beklemektedir.",
+      "tagline": "",
+      "runtime": 81,
+      "vote": 8.0,
+      "genres": [
+        "Aile",
+        "Komedi",
+        "Animasyon",
+        "Macera"
+      ],
+      "director": "John Lasseter",
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles",
+        "Jim Varney",
+        "Wallace Shawn"
+      ],
+      "poster_path": "/4KAtscEx3Pt9YPpNuK3BO6irQn1.jpg"
+    },
+    {
+      "id": 438695,
+      "title": "Şarkını Söyle 2",
+      "original_title": "Sing 2",
+      "year": "2021",
+      "release_date": "2021-12-01",
+      "overview": "NewMoon Tiyatrosu’nu büyük bir başarıya ulaştırmasının ardından Buster, bu kez gözünü Crystal Tower Tiyatrosu’na diker. Buster burada yeni bir gösteri sergilemeyi planlar. Ancak acımasız kurt Jimmy Crystal tarafından yönetilen dünyaca ünlü Crystal Entertainment’ın ofislerine girmek pek kolay değildir. Bu yüzden Buster ile anne domuz Rosita, rockçı oklu kirpi Ash, goril Johnny, fil Meena ve domuz provokatörü Gunter’dan oluşan ekip, Crystal Entertainment’a gizlice girer. Bu sırada Gunter ortaya gerçekleştirmesi zor bir fikir atar ve dünyanın en münzevi rock yıldızı Clay Calloway'in da şovda yer alacağını vaat eder. Buster, bu önemli gösteride onlarla birlikte sahnede yer alması için Clay’ı bulmak için yola koyulur.",
+      "tagline": "Hayallerin seni nereye götürecek?",
+      "runtime": 110,
+      "vote": 7.8,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Müzik"
+      ],
+      "director": "Garth Jennings",
+      "cast": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Scarlett Johansson",
+        "Taron Egerton",
+        "Bobby Cannavale"
+      ],
+      "poster_path": "/3obDanBm1njwavkV8Jn0Kx77m3h.jpg"
+    },
+    {
+      "id": 265195,
+      "title": "Asabiyim Ben",
+      "original_title": "Relatos salvajes",
+      "year": "2014",
+      "release_date": "2014-08-21",
+      "overview": "Öfkenin iliklere işlediği, dengenin her daim hassas olduğu bir toplumda, aşkların, nefretin ve intikam duygusunun hüküm sürdüğü birbirinden bağımsız bireylerin öykülerini taşıyor perdeye Asabiyim Ben. Satın alınan şereflerin gölgesinde, insanların kanunlar karşısında çaresiz ve öfkeli olduğu bir dünyaya ait altı farklı hayat hikayesi dikiyor karşımıza. Yolsuzluğun ve yozlaşmışlığın hüküm sürdüğü bir ülkede, kana bulanan muhteşem düğünler, ölüme yürüyen danslar, telleri iyiden iyiye gevşeyen sinirler ve bu yoldan çıkmışlığı tasvir eden \"eğlenceli\" öyküler.",
+      "tagline": "Hepimiz kendimizi kaybedebiliriz",
+      "runtime": 122,
+      "vote": 7.9,
+      "genres": [
+        "Dram",
+        "Gerilim",
+        "Komedi"
+      ],
+      "director": "Damián Szifron",
+      "cast": [
+        "Ricardo Darín",
+        "Leonardo Sbaraglia",
+        "Érica Rivas",
+        "Oscar Martínez",
+        "Rita Cortese"
+      ],
+      "poster_path": "/ybi2qjZUYVfKc24RyZTEjmdIj4O.jpg"
+    },
+    {
+      "id": 449176,
+      "title": "Sevgiler, Simon",
+      "original_title": "Love, Simon",
+      "year": "2018",
+      "release_date": "2018-02-16",
+      "overview": "Herkes gençlik yıllarında masalsı bir aşk hikayesini hak eder. Ancak ne yazık ki, durum 17 yaşındaki Simon Spier için biraz karışık. O, henüz ailesine ve arkadaşlarına gay olduğu gerçeğini açıklayabilmiş değil. Üstelik sorunları, onların tepkilerinden korkmakla da kalmıyor. İnternet üzerinden konuştuğu bir sınıf arkadaşına da aşık. Ancak kimliğini gizli tutan bu sınıf arkadaşının kim olduğu hakkında hiçbir fikri yok! Bu iki sorunun çözümü de hayatını değiştirecek adımlar atmasından geçiyor...",
+      "tagline": "",
+      "runtime": 110,
+      "vote": 8.0,
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Greg Berlanti",
+      "cast": [
+        "Nick Robinson",
+        "Jennifer Garner",
+        "Josh Duhamel",
+        "Katherine Langford",
+        "Alexandra Shipp"
+      ],
+      "poster_path": "/kHDtt9hlojQA0aRFpM30iSDyjFF.jpg"
+    },
+    {
+      "id": 515001,
+      "title": "Tavşan Jojo",
+      "original_title": "Jojo Rabbit",
+      "year": "2019",
+      "release_date": "2019-10-18",
+      "overview": "Hitler'in gençlik kamplarında yer alan Jojo Betzler adındaki bir çocuk, annesinin evlerinde Yahudi bir kızı gizlice misafir ettiğini öğrenir. Kız, evlerinin çatı katında kalıyordur. Tabii bu durum en yakın sırdaşı hayali arkadaşı Adolf Hitler olan Jojo'nun kafasında büyük bir karmaşaya yol açacaktır. Hayali arkadaşı olan Hitler, hiç de orijinalindeki gibi değildir. Jojo'nun bu korkunç ırkçılığa karşı gelmek için mücadele etmesi gerekmektedir.",
+      "tagline": "Nefret karşıtı bir hiciv.",
+      "runtime": 108,
+      "vote": 8.0,
+      "genres": [
+        "Komedi",
+        "Savaş",
+        "Dram"
+      ],
+      "director": "Taika Waititi",
+      "cast": [
+        "Roman Griffin Davis",
+        "Thomasin McKenzie",
+        "Scarlett Johansson",
+        "Taika Waititi",
+        "Sam Rockwell"
+      ],
+      "poster_path": "/3pDjOqD4yzbJ131IxBnVok0ArZR.jpg"
+    }
+  ]
+}

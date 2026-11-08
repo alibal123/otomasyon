@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-14",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: dram filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 290098, \"title\": \"Hizmetçi\", \"year\": \"2016\", \"overview\": \"1930'larda geçen hikayede kendisini Kont olarak tanıtan bir dolandırıcı, gizemli ve saf görünen Japon varis Leydi Hideko'nun zenginliğini ele geçirmek için onu kendisine aşık etmeyi planlar. Sook-hee'yi ise ona yardım etmesi için Leydi'ye hizmetçi olarak kiralar. Ancak bu hizmetçinin her şeyden habersiz hanımefendisine delicesine aşık olması işleri karıştıracaktır.\", \"genres\": [\"Gerilim\", \"Dram\", \"Romantik\"], \"vote\": 8.2}, {\"id\": 37165, \"title\": \"Truman Show\", \"year\": \"1998\", \"overview\": \"Truman küçük kasabasının aslında, yenilikçi bir yapımcı/yönetmen/ yazar (Ed Harris) tarafından kurulan devasa bir stüdyo olduğunun farkında değildir. Kasabada yaşayan herkes, hatta çok sevdiği güzel karısı bile sözleşmeli bir Hollywood oyuncusudur.\", \"genres\": [\"Komedi\", \"Dram\"], \"vote\": 8.2}, {\"id\": 629, \"title\": \"Olağan Şüpheliler\", \"year\": \"1995\", \"overview\": \"Polis San Pedro'da patlayan bir tekneyi araştırdığında 27 ceset ve 91 milyon dolarlık uyuşturucu parası bulur. Olaydan kurtulan iki kişi, yanıklarla dolu vücuduyla korkmuş bir Macar terörist ve Verbal Kint adında bir tetikçidir. Polisteki sorgusunda Kint, 6 hafta öncesinden başlayarak olayları anlatır.\", \"genres\": [\"Dram\", \"Suç\", \"Gerilim\"], \"vote\": 8.2}, {\"id\": 489, \"title\": \"Can Dostum\", \"year\": \"1997\", \"overview\": \"Can Dostum’da Will Hunting, toplumdaki genel zeka seviyesinin çok çok üzerinde bir zeka seviyesine sahip, MIT’de temizlikçi olarak çalışan genç bir çocuktur. Temizlik yaptığı bir akşamlardan, bir sınıfın tahtasında yazılı olan bir matematik sorusuna denk gelir. Çözülmesi neredeyse imkânsız olan bu soruyu rahatça çözen Will, sessiz sedasız ortadan kaybolur. Kısa zaman içerisinde soruyu yazan profesör tarafından keşfedilen Will, bu başarıyı diğer sorularda da sürdürecektir. Ancak bir kavga nedeniyle hapis cezasına çarptırılan gencin, bu beladan kurtulabilmek için profesöre ihtiyacı vardır.\", \"genres\": [\"Dram\"], \"vote\": 8.2}, {\"id\": 324786, \"title\": \"Savaş Vadisi\", \"year\": \"2016\", \"overview\": \"Amerika Birleşik Devletleri'nin 2. Dünya Savaşı'na girmesinin ardından Desmond T. Doss da birçok Amerikalı gibi orduya katılmaya gönüllü olur. Ancak dindar bir Hristiyan ve bir pasifist olan Doss, savaşta insan öldürmeyi ve herhangi bir şekilde silah kullanmayı reddetmektedir, onun yerine savaş alanında yaralıları kurtararak hizmet etmek istemektedir. Bu tavrı hem komutanları hem de asker arkadaşları arasında ilk başta çok sert tepkiyle karşılanır, askeri mahkemeye bile çıkar. Ancak Doss, son derece sert bir eğitimden geçip kendi hayatı pahasına silahsız bir şekilde savaş alanına gitmeyi çoktan göze almıştır.\", \"genres\": [\"Dram\", \"Tarih\", \"Savaş\"], \"vote\": 8.2}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 290098,
+      "title": "Hizmetçi",
+      "original_title": "아가씨",
+      "year": "2016",
+      "release_date": "2016-06-01",
+      "overview": "1930'larda geçen hikayede kendisini Kont olarak tanıtan bir dolandırıcı, gizemli ve saf görünen Japon varis Leydi Hideko'nun zenginliğini ele geçirmek için onu kendisine aşık etmeyi planlar. Sook-hee'yi ise ona yardım etmesi için Leydi'ye hizmetçi olarak kiralar. Ancak bu hizmetçinin her şeyden habersiz hanımefendisine delicesine aşık olması işleri karıştıracaktır.",
+      "tagline": "Tartışmalı bir ilişkiye girmeyi hiç beklemiyorlardı...",
+      "runtime": 145,
+      "vote": 8.2,
+      "genres": [
+        "Gerilim",
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Park Chan-wook",
+      "cast": [
+        "Kim Min-he",
+        "Kim Tae-ri",
+        "Ha Jung-woo",
+        "Cho Jin-woong",
+        "Kim Hae-sook"
+      ],
+      "poster_path": "/90UG9Nt9EsvxA2eTdiIEIYJYl8z.jpg"
+    },
+    {
+      "id": 37165,
+      "title": "Truman Show",
+      "original_title": "The Truman Show",
+      "year": "1998",
+      "release_date": "1998-06-04",
+      "overview": "Truman küçük kasabasının aslında, yenilikçi bir yapımcı/yönetmen/ yazar (Ed Harris) tarafından kurulan devasa bir stüdyo olduğunun farkında değildir. Kasabada yaşayan herkes, hatta çok sevdiği güzel karısı bile sözleşmeli bir Hollywood oyuncusudur.",
+      "tagline": "",
+      "runtime": 103,
+      "vote": 8.2,
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "director": "Peter Weir",
+      "cast": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone"
+      ],
+      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+    },
+    {
+      "id": 629,
+      "title": "Olağan Şüpheliler",
+      "original_title": "The Usual Suspects",
+      "year": "1995",
+      "release_date": "1995-07-19",
+      "overview": "Polis San Pedro'da patlayan bir tekneyi araştırdığında 27 ceset ve 91 milyon dolarlık uyuşturucu parası bulur. Olaydan kurtulan iki kişi, yanıklarla dolu vücuduyla korkmuş bir Macar terörist ve Verbal Kint adında bir tetikçidir. Polisteki sorgusunda Kint, 6 hafta öncesinden başlayarak olayları anlatır.",
+      "tagline": "Beş suçlu. Tek sıra. Tesadüf yok.",
+      "runtime": 106,
+      "vote": 8.2,
+      "genres": [
+        "Dram",
+        "Suç",
+        "Gerilim"
+      ],
+      "director": "Bryan Singer",
+      "cast": [
+        "Stephen Baldwin",
+        "Gabriel Byrne",
+        "Benicio del Toro",
+        "Kevin Pollak",
+        "Kevin Spacey"
+      ],
+      "poster_path": "/6GZuBIZnBvbt3yi8hfq4RHVIb5P.jpg"
+    },
+    {
+      "id": 489,
+      "title": "Can Dostum",
+      "original_title": "Good Will Hunting",
+      "year": "1997",
+      "release_date": "1997-12-05",
+      "overview": "Can Dostum’da Will Hunting, toplumdaki genel zeka seviyesinin çok çok üzerinde bir zeka seviyesine sahip, MIT’de temizlikçi olarak çalışan genç bir çocuktur. Temizlik yaptığı bir akşamlardan, bir sınıfın tahtasında yazılı olan bir matematik sorusuna denk gelir. Çözülmesi neredeyse imkânsız olan bu soruyu rahatça çözen Will, sessiz sedasız ortadan kaybolur. Kısa zaman içerisinde soruyu yazan profesör tarafından keşfedilen Will, bu başarıyı diğer sorularda da sürdürecektir. Ancak bir kavga nedeniyle hapis cezasına çarptırılan gencin, bu beladan kurtulabilmek için profesöre ihtiyacı vardır.",
+      "tagline": "Bazı insanlar asla kendilerine inanmaz, ta ki başkaları onlara inana kadar.",
+      "runtime": 127,
+      "vote": 8.2,
+      "genres": [
+        "Dram"
+      ],
+      "director": "Gus Van Sant",
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver"
+      ],
+      "poster_path": "/qXzGp5BfVeC9fOxdpVxBReyNMOF.jpg"
+    },
+    {
+      "id": 324786,
+      "title": "Savaş Vadisi",
+      "original_title": "Hacksaw Ridge",
+      "year": "2016",
+      "release_date": "2016-10-07",
+      "overview": "Amerika Birleşik Devletleri'nin 2. Dünya Savaşı'na girmesinin ardından Desmond T. Doss da birçok Amerikalı gibi orduya katılmaya gönüllü olur. Ancak dindar bir Hristiyan ve bir pasifist olan Doss, savaşta insan öldürmeyi ve herhangi bir şekilde silah kullanmayı reddetmektedir, onun yerine savaş alanında yaralıları kurtararak hizmet etmek istemektedir. Bu tavrı hem komutanları hem de asker arkadaşları arasında ilk başta çok sert tepkiyle karşılanır, askeri mahkemeye bile çıkar. Ancak Doss, son derece sert bir eğitimden geçip kendi hayatı pahasına silahsız bir şekilde savaş alanına gitmeyi çoktan göze almıştır.",
+      "tagline": "Cephede hiç silah kullanmadan savaşan Amerikalı kahramanın gerçek hikayesi.",
+      "runtime": 139,
+      "vote": 8.2,
+      "genres": [
+        "Dram",
+        "Tarih",
+        "Savaş"
+      ],
+      "director": "Mel Gibson",
+      "cast": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Vince Vaughn",
+        "Teresa Palmer",
+        "Luke Bracey"
+      ],
+      "poster_path": "/2Sy0anrKQ13GKgX78EXnGGpYUtz.jpg"
+    }
+  ]
+}

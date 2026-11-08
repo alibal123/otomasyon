@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-12",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Cruella",
+      "Koralin ve Gizli Dünya",
+      "Indiana Jones: Kutsal Hazine Avcıları"
+    ],
+    "dogru_index": 1
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Koralin ve Gizli Dünya\", \"year\": \"2009\", \"overview\": \"Coraline eski bir eve taşındığında canı çok sıkılır ve ailesi tarafından da ihmal edilir. Bir gün dar bir geçide uzanan gizli bir kapı bulur ve geçitten geçmeye karar verir. Orada paralel bir hayat keşfeder. O hayatta insanların hepsinin gözlerinin yerinde düğmeler vardır, aileleri çocukları ile çok ilgilidirler ve herkesin hayalleri gerçek olur. Oranın annesi Coraline’i kendileri ile birlikte sonsuza dek yaşamak üzere davet edince, Coraline bunu reddeder. Sonra da bu alternatif gerçekliğin sadece bir tuzak olduğunu keşfeder.\", \"tagline\": \"Ne dilediğine dikkat et!\", \"director\": \"Henry Selick\", \"cast\": [\"Dakota Fanning\", \"Teri Hatcher\", \"Jennifer Saunders\", \"Dawn French\", \"Keith David\"], \"genres\": [\"Animasyon\", \"Aile\", \"Fantastik\", \"Korku\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Cruella\", \"Koralin ve Gizli Dünya\", \"Indiana Jones: Kutsal Hazine Avcıları\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 14836,
+      "title": "Koralin ve Gizli Dünya",
+      "original_title": "Coraline",
+      "year": "2009",
+      "release_date": "2009-02-05",
+      "overview": "Coraline eski bir eve taşındığında canı çok sıkılır ve ailesi tarafından da ihmal edilir. Bir gün dar bir geçide uzanan gizli bir kapı bulur ve geçitten geçmeye karar verir. Orada paralel bir hayat keşfeder. O hayatta insanların hepsinin gözlerinin yerinde düğmeler vardır, aileleri çocukları ile çok ilgilidirler ve herkesin hayalleri gerçek olur. Oranın annesi Coraline’i kendileri ile birlikte sonsuza dek yaşamak üzere davet edince, Coraline bunu reddeder. Sonra da bu alternatif gerçekliğin sadece bir tuzak olduğunu keşfeder.",
+      "tagline": "Ne dilediğine dikkat et!",
+      "runtime": 100,
+      "vote": 7.9,
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Fantastik",
+        "Korku"
+      ],
+      "director": "Henry Selick",
+      "cast": [
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David"
+      ],
+      "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
+    },
+    {
+      "id": 337404,
+      "title": "Cruella",
+      "original_title": "Cruella",
+      "year": "2021",
+      "release_date": "2021-05-26",
+      "overview": "1970’li yıllarda Londra’sında asi ve kendine has genç bir kadın olan Estella, zeki olduğu kadar yaratıcıdır ve en büyük hayali kendi adına bir moda markası yaratmaktır. Talihsizlikler sonucu Londra’da beş parasız, yetim ve yalnız kalan Estella, Jasper ve Horace adında iki hırsız ile arkadaş olur. Bir şeyler aşırarak hayatlarını sürdürürler ancak Estella katiyen moda tutkusundan vazgeçmez. Estella’nın bu tutkusu ve tarzı sayesinde yolu ünlü bir moda tasarımcısı olan narsisist Baroness von Hellman ile kesişir. Baroness’in yanında çalışmaya başlayan Estella, bir gün kendisi ile ilgili korkunç bir sırrı keşfetmesi ile birlikte intikam ateşiyle dolu Cruella de Vil’ı ortaya çıkarır.",
+      "tagline": "Merhaba Zalim Dünya",
+      "runtime": 134,
+      "vote": 8.0,
+      "genres": [
+        "Komedi",
+        "Suç"
+      ],
+      "director": "Craig Gillespie",
+      "cast": [
+        "Emma Stone",
+        "Emma Thompson",
+        "Joel Fry",
+        "Paul Walter Hauser",
+        "John McCrea"
+      ],
+      "poster_path": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg"
+    },
+    {
+      "id": 85,
+      "title": "Indiana Jones: Kutsal Hazine Avcıları",
+      "original_title": "Raiders of the Lost Ark",
+      "year": "1981",
+      "release_date": "1981-06-12",
+      "overview": "Amerikan Hükümeti Ark of the Conenant’ı bulması için Arkeolog Dr. Indiana Jones'u görevlendirir. Ark’ta ünlü 10 Emir’in varolduğuna ve kutsal güçler olduğuna inanılmaktadır. Üstelik Hitler’in ajanları da Ark’ın peşindedirler. Jones, eski aşkı Marion’la birlikte Nepal’den Kahire’ye kadar tuzak ve tehlikeyle dolu bir maceraya atılır.",
+      "tagline": "Yeni bir kahraman doğuyor.",
+      "runtime": 115,
+      "vote": 7.9,
+      "genres": [
+        "Macera",
+        "Aksiyon"
+      ],
+      "director": "Steven Spielberg",
+      "cast": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman",
+        "John Rhys-Davies",
+        "Ronald Lacey"
+      ],
+      "poster_path": "/o79udSXjgwW1KBZSv9sGYGKf9Aa.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 14836,
+    "title": "Koralin ve Gizli Dünya",
+    "original_title": "Coraline",
+    "year": "2009",
+    "release_date": "2009-02-05",
+    "overview": "Coraline eski bir eve taşındığında canı çok sıkılır ve ailesi tarafından da ihmal edilir. Bir gün dar bir geçide uzanan gizli bir kapı bulur ve geçitten geçmeye karar verir. Orada paralel bir hayat keşfeder. O hayatta insanların hepsinin gözlerinin yerinde düğmeler vardır, aileleri çocukları ile çok ilgilidirler ve herkesin hayalleri gerçek olur. Oranın annesi Coraline’i kendileri ile birlikte sonsuza dek yaşamak üzere davet edince, Coraline bunu reddeder. Sonra da bu alternatif gerçekliğin sadece bir tuzak olduğunu keşfeder.",
+    "tagline": "Ne dilediğine dikkat et!",
+    "runtime": 100,
+    "vote": 7.9,
+    "genres": [
+      "Animasyon",
+      "Aile",
+      "Fantastik",
+      "Korku"
+    ],
+    "director": "Henry Selick",
+    "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Jennifer Saunders",
+      "Dawn French",
+      "Keith David"
+    ],
+    "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
+  }
+}

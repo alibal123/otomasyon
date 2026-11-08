@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-13",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1572116, \"title\": \"Canavarlar Okulu\", \"release_date\": \"2026-11-13\", \"overview\": \"12 yaşındaki Mia ve pasaklı evcil faresi Quentin, okulda yaşadıkları sorunlar yüzünden gizemli Rotwood Akademisi'ne gönderilirler. Yeni okul Mia'yı ürkütmektedir ve Mia, öğrenciler onun kendileri gibi bir canavar olmadığını anlamadan önce bir çıkış yolu bulmalıdır! Ancak müdür yardımcısı Van Vlad'ın insanlara karşı özel bir nefreti vardır ve Mia, onun gerçek niyetini gördüğünü düşünmektedir.\", \"genres\": [\"Animasyon\", \"Fantastik\", \"Aile\"], \"director\": \"Verena Fels\"}, {\"id\": 1437511, \"title\": \"Bir Banka Nasıl Soyulur\", \"release_date\": \"2026-11-13\", \"overview\": \"Sosyal medyayı ustalıkla kullanan bir grup banka soyguncusu, gerçekleştirdikleri planlı soygunları internet üzerinden canlı yayınlamaya başlar. Ancak giderek artan viral şöhretlerinin, onları deneyimli bir FBI ajanı ile yetenekli bir yazılım mühendisinin açık hedefi haline getirdiğinden habersizdirler. Bu beklenmedik ikilinin çemberi giderek daraltmasına rağmen, sınırları zorlamaktan vazgeçmeyen suç örgütü, hem kendi inançları hem de şimdiye kadarki en iddialı soygunları için her şeyi riske atacaktır.\", \"genres\": [\"Aksiyon\", \"Suç\", \"Gerilim\"], \"director\": \"David Leitch\"}, {\"id\": 1400336, \"title\": \"Zor Baba 4\", \"release_date\": \"2026-11-27\", \"overview\": \"Greg ve Pam Focker'ın oğlu Henry, kendisiyle hiç uyuşmayan, iradeli bir kadınla evlenmeye karar verdiğinde ailesinde bir kaosla karşı karşıya kalır.\", \"genres\": [\"Komedi\", \"Romantik\"], \"director\": \"John Hamburg\"}, {\"id\": 1379486, \"title\": \"Sapık\", \"release_date\": \"2026-11-13\", \"overview\": \"Sıra dışı genç mürebbiye Winifred Notty ücra bir gotik malikâneye vardığında, bir dizi tedirgin edici olay ev halkının onun iddia ettiği kişi olmadığından şüphelenmesine yol açar, ancak gerçek hayal ettiklerinden çok daha tehlikeli olabilir.\", \"genres\": [\"Korku\", \"Gerilim\"], \"director\": \"Zachary Wigon\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1572116,
+      "title": "Canavarlar Okulu",
+      "original_title": "Monster Mia",
+      "year": "2026",
+      "release_date": "2026-11-13",
+      "overview": "12 yaşındaki Mia ve pasaklı evcil faresi Quentin, okulda yaşadıkları sorunlar yüzünden gizemli Rotwood Akademisi'ne gönderilirler. Yeni okul Mia'yı ürkütmektedir ve Mia, öğrenciler onun kendileri gibi bir canavar olmadığını anlamadan önce bir çıkış yolu bulmalıdır! Ancak müdür yardımcısı Van Vlad'ın insanlara karşı özel bir nefreti vardır ve Mia, onun gerçek niyetini gördüğünü düşünmektedir.",
+      "tagline": "",
+      "runtime": 82,
+      "vote": 7.7,
+      "genres": [
+        "Animasyon",
+        "Fantastik",
+        "Aile"
+      ],
+      "director": "Verena Fels",
+      "cast": [],
+      "poster_path": "/zyDZElRY4dU9T3w6boPChnVBvS2.jpg"
+    },
+    {
+      "id": 1437511,
+      "title": "Bir Banka Nasıl Soyulur",
+      "original_title": "How to Rob a Bank",
+      "year": "2026",
+      "release_date": "2026-11-13",
+      "overview": "Sosyal medyayı ustalıkla kullanan bir grup banka soyguncusu, gerçekleştirdikleri planlı soygunları internet üzerinden canlı yayınlamaya başlar. Ancak giderek artan viral şöhretlerinin, onları deneyimli bir FBI ajanı ile yetenekli bir yazılım mühendisinin açık hedefi haline getirdiğinden habersizdirler. Bu beklenmedik ikilinin çemberi giderek daraltmasına rağmen, sınırları zorlamaktan vazgeçmeyen suç örgütü, hem kendi inançları hem de şimdiye kadarki en iddialı soygunları için her şeyi riske atacaktır.",
+      "tagline": "",
+      "runtime": 122,
+      "vote": 8.0,
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Gerilim"
+      ],
+      "director": "David Leitch",
+      "cast": [
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Anna Savai",
+        "Rhenzy Feliz",
+        "Pete Davidson"
+      ],
+      "poster_path": "/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg"
+    },
+    {
+      "id": 1400336,
+      "title": "Zor Baba 4",
+      "original_title": "Focker-in-Law",
+      "year": "2026",
+      "release_date": "2026-11-27",
+      "overview": "Greg ve Pam Focker'ın oğlu Henry, kendisiyle hiç uyuşmayan, iradeli bir kadınla evlenmeye karar verdiğinde ailesinde bir kaosla karşı karşıya kalır.",
+      "tagline": "Güven çemberi biraz daha genişledi.",
+      "runtime": 105,
+      "vote": 0,
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "director": "John Hamburg",
+      "cast": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Owen Wilson"
+      ],
+      "poster_path": "/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg"
+    },
+    {
+      "id": 1379486,
+      "title": "Sapık",
+      "original_title": "Victorian Psycho",
+      "year": "2026",
+      "release_date": "2026-11-13",
+      "overview": "Sıra dışı genç mürebbiye Winifred Notty ücra bir gotik malikâneye vardığında, bir dizi tedirgin edici olay ev halkının onun iddia ettiği kişi olmadığından şüphelenmesine yol açar, ancak gerçek hayal ettiklerinden çok daha tehlikeli olabilir.",
+      "tagline": "",
+      "runtime": 102,
+      "vote": 0,
+      "genres": [
+        "Korku",
+        "Gerilim"
+      ],
+      "director": "Zachary Wigon",
+      "cast": [
+        "Maika Monroe",
+        "Thomasin McKenzie",
+        "Ruth Wilson",
+        "Jason Isaacs",
+        "Evie Templeton"
+      ],
+      "poster_path": "/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg"
+    }
+  ]
+}
