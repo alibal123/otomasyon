@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-22",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Bıçak Sırtı\", \"year\": \"1982\", \"overview\": \"2019'un dumanla boğuşan distopik Los Angeles'ında, kısa ömürlerini uzatmanın bir yolunu bulmak için yaratıcılarını arayarak Dünya'ya kaçan birkaç Replicant'ı yok etmek için Rick Deckard emeklilikten çağrılır.\", \"tagline\": \"İnsan seçimini yaptı... Artık bu onun sorunu.\", \"genres\": [\"Bilim-Kurgu\", \"Dram\", \"Gerilim\"], \"director\": \"Ridley Scott\", \"cast\": [\"Harrison Ford\", \"Rutger Hauer\", \"Sean Young\", \"Edward James Olmos\", \"M. Emmet Walsh\"], \"runtime\": 118, \"vote\": 7.9}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 78,
+      "title": "Bıçak Sırtı",
+      "original_title": "Blade Runner",
+      "year": "1982",
+      "release_date": "1982-06-25",
+      "overview": "2019'un dumanla boğuşan distopik Los Angeles'ında, kısa ömürlerini uzatmanın bir yolunu bulmak için yaratıcılarını arayarak Dünya'ya kaçan birkaç Replicant'ı yok etmek için Rick Deckard emeklilikten çağrılır.",
+      "tagline": "İnsan seçimini yaptı... Artık bu onun sorunu.",
+      "runtime": 118,
+      "vote": 7.9,
+      "genres": [
+        "Bilim-Kurgu",
+        "Dram",
+        "Gerilim"
+      ],
+      "director": "Ridley Scott",
+      "cast": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh"
+      ],
+      "poster_path": "/8VGASxEyFErWwEXDbyEKX9lKntZ.jpg"
+    }
+  ]
+}

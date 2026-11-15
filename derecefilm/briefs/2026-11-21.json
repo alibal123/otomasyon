@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-21",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: komedi filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 7350, \"title\": \"Şimdi ya da Asla\", \"year\": \"2007\", \"overview\": \"Apayrı dünyalara sahip milyoner Edward ile araba tamircisi Carter’ın yolları, kanser hastalığı sebebiyle bir hastane odasını paylaşmalarıyla kesişir ve sadece iki ortak noktaları olduğunu keşfederler: Hayatlarının kalan kısmını yapmak istedikleri her şeyi yaparak geçirme arzusu ve kendileriyle barışma ihtiyacı. Hayatları boyunca yapmak istedikleri herşeyin bir listesini yapıp hastaneyi terkeden iki arkadaş, birlikte araba seyahatine çıkarlar ve bu süreçte dost olup hayatı dolu dolu, hoşgörü ve mizahla yaşamayı öğrenirler.\", \"genres\": [\"Dram\", \"Komedi\"], \"vote\": 7.2}, {\"id\": 364689, \"title\": \"Ferdinand\", \"year\": \"2017\", \"overview\": \"Ferdinand, arenada dövüşmektense tarlalarda çiçek koklamayı tercih eden bir boğanın öyküsünü anlatıyor. Ferdinand sakin mizacına ve doğa sevgisine rağmen dış görünüşü sebebiyle vahşi bir canavar olarak algılanır. Tehlikeli bir canavarla karıştırıldıktan sonra yakalanıp evinden ayrı düşürülür. Kendini İspanya'da bulan Ferdinand, evine dönmeye kararlıdır. Ancak bunun için yardıma ihtiyacı olacaktır. Filmin orijinal fikri, Munro Leaf imzalı aynı adlı çocuk kitabına dayanıyor.\", \"genres\": [\"Animasyon\", \"Aile\", \"Macera\", \"Komedi\"], \"vote\": 7.2}, {\"id\": 330457, \"title\": \"Karlar Ülkesi II\", \"year\": \"2019\", \"overview\": \"Elsa neden sihirli güçlerle doğdu? Erindel'in dışındaki ormana ve karanlık denizlere, bilinmeyene, giderken geçmişe dair hangi gerçekler Elsa'yı bekliyor olacak? Cevaplar onu çağırıyor ama aynı zamanda krallığını da tehdit ediyor. Elsa; Anna, Kristoff, Olaf ve Sven ile birlikte, tehlikeli ama macera dolu bir yolculukla karşılaşacak.\", \"genres\": [\"Aile\", \"Animasyon\", \"Macera\", \"Komedi\", \"Fantastik\"], \"vote\": 7.2}, {\"id\": 10830, \"title\": \"Matilda\", \"year\": \"1996\", \"overview\": \"Araba satıcısı bir baba ile \\\"flörtöz\\\" bir annenin çocuğu olan Matilda, küçüklüğünden itibaren kendi halinde yetiştiriliyor. Yerel kütüphaneye giderek herşeyi okumaya başlıyor ve zamanla içindeki telekinetik güçleri keşfediyor. Bu arada kızlarının yeteneklerine inanmayan ailesi onu kabus gibi bir okula yolluyorlar. Matilda buradaki sadist kadın yöneticinin yaşamını cehenneme çevirmek üzere işe koyuluyor.\\r James ve Dev Şeftali\\\"nin yazarı Dahl'dan yapılmış bir uyarlama. Klasik çocuk kitaplarının dışında, anarşizan çizgilerle miniklerin dünyasına yaklaşan yazarın \\\"Matilda\\\" isimli bu az bilinen romanını Danny DeVito sinamaya uyarlarken özgün esere son derece sadık kalmış. Sözkonusu olan hem küçüklerin hem de yetişkinlerin son derece zevk alarak izleyeceği bir \\\"kara komedi\\\"\", \"genres\": [\"Komedi\", \"Aile\", \"Fantastik\"], \"vote\": 7.2}, {\"id\": 90, \"title\": \"Sosyete Polisi\", \"year\": \"1984\", \"overview\": \"Detroitli genç bir polis, arkadaşının katilini fiyakalı Beverly Hills'e kadar izler ve yerel polisi zekâsıyla alt edip adaleti sağlamak için sokaklardan öğrendiklerini kullanır.\", \"genres\": [\"Komedi\", \"Suç\", \"Aksiyon\"], \"vote\": 7.2}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 7350,
+      "title": "Şimdi ya da Asla",
+      "original_title": "The Bucket List",
+      "year": "2007",
+      "release_date": "2007-12-25",
+      "overview": "Apayrı dünyalara sahip milyoner Edward ile araba tamircisi Carter’ın yolları, kanser hastalığı sebebiyle bir hastane odasını paylaşmalarıyla kesişir ve sadece iki ortak noktaları olduğunu keşfederler: Hayatlarının kalan kısmını yapmak istedikleri her şeyi yaparak geçirme arzusu ve kendileriyle barışma ihtiyacı. Hayatları boyunca yapmak istedikleri herşeyin bir listesini yapıp hastaneyi terkeden iki arkadaş, birlikte araba seyahatine çıkarlar ve bu süreçte dost olup hayatı dolu dolu, hoşgörü ve mizahla yaşamayı öğrenirler.",
+      "tagline": "Hayatın keyfini çıkar.",
+      "runtime": 97,
+      "vote": 7.2,
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "director": "Rob Reiner",
+      "cast": [
+        "Jack Nicholson",
+        "Morgan Freeman",
+        "Sean Hayes",
+        "Beverly Todd",
+        "Alfonso Freeman"
+      ],
+      "poster_path": "/nndhubk8LTgwecquYjZ48QBcSoX.jpg"
+    },
+    {
+      "id": 364689,
+      "title": "Ferdinand",
+      "original_title": "Ferdinand",
+      "year": "2017",
+      "release_date": "2017-12-09",
+      "overview": "Ferdinand, arenada dövüşmektense tarlalarda çiçek koklamayı tercih eden bir boğanın öyküsünü anlatıyor. Ferdinand sakin mizacına ve doğa sevgisine rağmen dış görünüşü sebebiyle vahşi bir canavar olarak algılanır. Tehlikeli bir canavarla karıştırıldıktan sonra yakalanıp evinden ayrı düşürülür. Kendini İspanya'da bulan Ferdinand, evine dönmeye kararlıdır. Ancak bunun için yardıma ihtiyacı olacaktır. Filmin orijinal fikri, Munro Leaf imzalı aynı adlı çocuk kitabına dayanıyor.",
+      "tagline": "Dövüşmek için doğdu, sevmek için yaşadı.",
+      "runtime": 107,
+      "vote": 7.2,
+      "genres": [
+        "Animasyon",
+        "Aile",
+        "Macera",
+        "Komedi"
+      ],
+      "director": "Carlos Saldanha",
+      "cast": [
+        "John Cena",
+        "Kate McKinnon",
+        "Anthony Anderson",
+        "Bobby Cannavale",
+        "Peyton Manning"
+      ],
+      "poster_path": "/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg"
+    },
+    {
+      "id": 330457,
+      "title": "Karlar Ülkesi II",
+      "original_title": "Frozen II",
+      "year": "2019",
+      "release_date": "2019-11-20",
+      "overview": "Elsa neden sihirli güçlerle doğdu? Erindel'in dışındaki ormana ve karanlık denizlere, bilinmeyene, giderken geçmişe dair hangi gerçekler Elsa'yı bekliyor olacak? Cevaplar onu çağırıyor ama aynı zamanda krallığını da tehdit ediyor. Elsa; Anna, Kristoff, Olaf ve Sven ile birlikte, tehlikeli ama macera dolu bir yolculukla karşılaşacak.",
+      "tagline": "Geçmiş göründüğü gibi değildir.",
+      "runtime": 104,
+      "vote": 7.2,
+      "genres": [
+        "Aile",
+        "Animasyon",
+        "Macera",
+        "Komedi",
+        "Fantastik"
+      ],
+      "director": "Jennifer Lee",
+      "cast": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Josh Gad",
+        "Evan Rachel Wood",
+        "Jonathan Groff"
+      ],
+      "poster_path": "/9tg47I7WTte0GfFDCDlaQZXfaSj.jpg"
+    },
+    {
+      "id": 10830,
+      "title": "Matilda",
+      "original_title": "Matilda",
+      "year": "1996",
+      "release_date": "1996-08-02",
+      "overview": "Araba satıcısı bir baba ile \"flörtöz\" bir annenin çocuğu olan Matilda, küçüklüğünden itibaren kendi halinde yetiştiriliyor. Yerel kütüphaneye giderek herşeyi okumaya başlıyor ve zamanla içindeki telekinetik güçleri keşfediyor. Bu arada kızlarının yeteneklerine inanmayan ailesi onu kabus gibi bir okula yolluyorlar. Matilda buradaki sadist kadın yöneticinin yaşamını cehenneme çevirmek üzere işe koyuluyor.\r James ve Dev Şeftali\"nin yazarı Dahl'dan yapılmış bir uyarlama. Klasik çocuk kitaplarının dışında, anarşizan çizgilerle miniklerin dünyasına yaklaşan yazarın \"Matilda\" isimli bu az bilinen romanını Danny DeVito sinamaya uyarlarken özgün esere son derece sadık kalmış. Sözkonusu olan hem küçüklerin hem de yetişkinlerin son derece zevk alarak izleyeceği bir \"kara komedi\"",
+      "tagline": "",
+      "runtime": 98,
+      "vote": 7.2,
+      "genres": [
+        "Komedi",
+        "Aile",
+        "Fantastik"
+      ],
+      "director": "Danny DeVito",
+      "cast": [
+        "Mara Wilson",
+        "Danny DeVito",
+        "Rhea Perlman",
+        "Embeth Davidtz",
+        "Pam Ferris"
+      ],
+      "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg"
+    },
+    {
+      "id": 90,
+      "title": "Sosyete Polisi",
+      "original_title": "Beverly Hills Cop",
+      "year": "1984",
+      "release_date": "1984-12-05",
+      "overview": "Detroitli genç bir polis, arkadaşının katilini fiyakalı Beverly Hills'e kadar izler ve yerel polisi zekâsıyla alt edip adaleti sağlamak için sokaklardan öğrendiklerini kullanır.",
+      "tagline": "",
+      "runtime": 105,
+      "vote": 7.2,
+      "genres": [
+        "Komedi",
+        "Suç",
+        "Aksiyon"
+      ],
+      "director": "Martin Brest",
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Lisa Eilbacher",
+        "Ronny Cox"
+      ],
+      "poster_path": "/j6Way0Vv8DpwUJcUMm3eMDR687n.jpg"
+    }
+  ]
+}

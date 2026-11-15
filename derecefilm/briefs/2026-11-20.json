@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-20",
+  "kind": "radar",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "RADAR gönderisi: önümüzdeki haftalarda Türkiye'de vizyona girecek filmler. Veri: [{\"id\": 1301248, \"title\": \"2 Aile Arasında\", \"release_date\": \"2026-12-04\", \"overview\": \"Yıllar önce bir düğün telaşında karşı karşıya gelen iki aile kendilerini yeniden bir kaosun içerisinde bulur.\", \"genres\": [\"Komedi\"], \"director\": \"Ozan Açıktan\"}, {\"id\": 1234054, \"title\": \"Rafadan Tayfa: Gordion\", \"release_date\": \"2026-12-25\", \"overview\": \"Ankara’ya bir klip çekimi için gelen Rafadan Tayfa, gizemli bir vazonun çalınmasıyla unutulmuş bir efsanenin içerisine çekilir: Midas’ın mührü efsanesi. Vazonun üzerindeki kabartmalar, Kamil’e tıpatıp benzeyen bir figür ve Ankara’nın sembollerine gizlenmiş sırlar, Tayfa’yı bugüne kadar asla çözülmemiş bir bilmeceyle karşı karşıya bırakır. Tayfa gerçeğe ulaşmak için sadece cesaretine değil, tarihle kuracağı bağa da güvenmek zorundadır. Binlerce yıl önce atılmış Gordion düğümünü çözmek ve Midas’ın sırrını korumak Tayfa’ya düşmüştür.\", \"genres\": [\"Animasyon\", \"Aile\"], \"director\": null}, {\"id\": 947493, \"title\": \"Demir Çocuk\", \"release_date\": \"2026-12-18\", \"overview\": \"10 yaşındaki Christophe, denge sorunları yaşayan ve hayatını ortopedik bir korseyle sürdürmek zorunda olan bir çocuktur. Christophe bir yandan bu fiziksel engellerle mücadele ederken, diğer yandan ailesinin geçim kaynağı olan çiftliğin maddi zorluklarına şahit olur. Kendisine olan güvenini kazanıp bağımsız bir birey olmak ile babasıyla arasını düzeltmek arasında sıkışıp kalan Christophe, hem ailesinin hem de kendisinin geleceğini şekillendirecek kararların eşiğindedir.\", \"genres\": [\"Animasyon\", \"Dram\", \"Aile\"], \"director\": \"Louis Clichy\"}, {\"id\": 1676532, \"title\": \"Mutter: Bir Annenin Hatıra Defteri\", \"release_date\": \"2026-11-27\", \"overview\": \"Karadeniz kıyısındaki sislerle kaplı bir yerde yaşayan bir kadın, insan doğasına aykırı bir varlığı dünyaya getirir. Bedeni ve zihni çökmeye başlarken, aşk hem bir bağlılık biçimine hem de bir hastalığa dönüşür.\", \"genres\": [\"Korku\", \"Gizem\", \"Gerilim\", \"Dram\"], \"director\": \"Alphan Eşeli\"}]\nJSON: {\"baslik\":\"<=50 karakter\",\"filmler\":[{\"id\":int,\"not\":\"<=80 karakter, konuya dair spoilersiz not\"}],\"aciklama\":\"<=600 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1301248,
+      "title": "2 Aile Arasında",
+      "original_title": "2 Aile Arasında",
+      "year": "2026",
+      "release_date": "2026-12-04",
+      "overview": "Yıllar önce bir düğün telaşında karşı karşıya gelen iki aile kendilerini yeniden bir kaosun içerisinde bulur.",
+      "tagline": "",
+      "runtime": 0,
+      "vote": 0,
+      "genres": [
+        "Komedi"
+      ],
+      "director": "Ozan Açıktan",
+      "cast": [
+        "Engin Günaydın",
+        "Demet Evgar",
+        "Erdal Özyağcılar",
+        "Devrim Yakut",
+        "Fatih Artman"
+      ],
+      "poster_path": "/tRiQj2PDSbpt01O3BD7zgPFZZFn.jpg"
+    },
+    {
+      "id": 1234054,
+      "title": "Rafadan Tayfa: Gordion",
+      "original_title": "Rafadan Tayfa: Gordion",
+      "year": "2026",
+      "release_date": "2026-12-25",
+      "overview": "Ankara’ya bir klip çekimi için gelen Rafadan Tayfa, gizemli bir vazonun çalınmasıyla unutulmuş bir efsanenin içerisine çekilir: Midas’ın mührü efsanesi. Vazonun üzerindeki kabartmalar, Kamil’e tıpatıp benzeyen bir figür ve Ankara’nın sembollerine gizlenmiş sırlar, Tayfa’yı bugüne kadar asla çözülmemiş bir bilmeceyle karşı karşıya bırakır. Tayfa gerçeğe ulaşmak için sadece cesaretine değil, tarihle kuracağı bağa da güvenmek zorundadır. Binlerce yıl önce atılmış Gordion düğümünü çözmek ve Midas’ın sırrını korumak Tayfa’ya düşmüştür.",
+      "tagline": "",
+      "runtime": 0,
+      "vote": 0,
+      "genres": [
+        "Animasyon",
+        "Aile"
+      ],
+      "director": null,
+      "cast": [
+        "Hakan Coşar",
+        "Yağmur Sergen",
+        "Levent Kol",
+        "Zeynep Şirin Giobbi",
+        "Aysın Işımer"
+      ],
+      "poster_path": "/rxmeK2viKGiLWachtO6tJ89hP08.jpg"
+    },
+    {
+      "id": 947493,
+      "title": "Demir Çocuk",
+      "original_title": "Le Corset",
+      "year": "2026",
+      "release_date": "2026-12-18",
+      "overview": "10 yaşındaki Christophe, denge sorunları yaşayan ve hayatını ortopedik bir korseyle sürdürmek zorunda olan bir çocuktur. Christophe bir yandan bu fiziksel engellerle mücadele ederken, diğer yandan ailesinin geçim kaynağı olan çiftliğin maddi zorluklarına şahit olur. Kendisine olan güvenini kazanıp bağımsız bir birey olmak ile babasıyla arasını düzeltmek arasında sıkışıp kalan Christophe, hem ailesinin hem de kendisinin geleceğini şekillendirecek kararların eşiğindedir.",
+      "tagline": "",
+      "runtime": 90,
+      "vote": 8.1,
+      "genres": [
+        "Animasyon",
+        "Dram",
+        "Aile"
+      ],
+      "director": "Louis Clichy",
+      "cast": [
+        "Gary Clichy",
+        "Rod Paradot",
+        "Dimitri Colas",
+        "Aurélie Vassort",
+        "Brune Moulin"
+      ],
+      "poster_path": "/9KZCX31gI7q0dGMtY8gnxdaaYHp.jpg"
+    },
+    {
+      "id": 1676532,
+      "title": "Mutter: Bir Annenin Hatıra Defteri",
+      "original_title": "Mutter: Bir Annenin Hatıra Defteri",
+      "year": "2026",
+      "release_date": "2026-11-27",
+      "overview": "Karadeniz kıyısındaki sislerle kaplı bir yerde yaşayan bir kadın, insan doğasına aykırı bir varlığı dünyaya getirir. Bedeni ve zihni çökmeye başlarken, aşk hem bir bağlılık biçimine hem de bir hastalığa dönüşür.",
+      "tagline": "",
+      "runtime": 99,
+      "vote": 0,
+      "genres": [
+        "Korku",
+        "Gizem",
+        "Gerilim",
+        "Dram"
+      ],
+      "director": "Alphan Eşeli",
+      "cast": [
+        "Hazar Ergüçlü",
+        "Güven Kıraç",
+        "Erdeniz Kurucan",
+        "Ulvi Kahyaoğlu",
+        "Cansu Fırıncı"
+      ],
+      "poster_path": "/x0f3ogMQypsixxkhMSd1MD7fGgs.jpg"
+    }
+  ]
+}

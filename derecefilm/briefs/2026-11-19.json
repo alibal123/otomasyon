@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-19",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Spotlight",
+      "Saksı Olmanın Faydaları",
+      "Her Şeyin Teorisi"
+    ],
+    "dogru_index": 0
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Spotlight\", \"year\": \"2015\", \"overview\": \"Gerçek bir hikayeden uyarlanan Spotlight, taciz olayıyla gündeme gelen bir kilisenin kendini aklamaya çalışmasını ve bu tacizi aydınlatmaya çalışan Boston Globe gazetesi yazarlarını konu alıyor. Gazetenin yazarlarından oluşan “Spotlight” takımı, Katolik Kilisesi’ndeki taciz iddilarıyla ilgili eski defterleri deşer. Bir senelik araştırmaları sonucunda, Boston’ın üst düzey dini, yasal ve idari birliğine ait on yıllarca gizlenen gerçeklere parmak basılır.\", \"tagline\": \"Yalanların arasından gerçeği bul.\", \"director\": \"Tom McCarthy\", \"cast\": [\"Mark Ruffalo\", \"Michael Keaton\", \"Rachel McAdams\", \"Liev Schreiber\", \"John Slattery\"], \"genres\": [\"Dram\", \"Tarih\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Spotlight\", \"Saksı Olmanın Faydaları\", \"Her Şeyin Teorisi\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 314365,
+      "title": "Spotlight",
+      "original_title": "Spotlight",
+      "year": "2015",
+      "release_date": "2015-11-06",
+      "overview": "Gerçek bir hikayeden uyarlanan Spotlight, taciz olayıyla gündeme gelen bir kilisenin kendini aklamaya çalışmasını ve bu tacizi aydınlatmaya çalışan Boston Globe gazetesi yazarlarını konu alıyor. Gazetenin yazarlarından oluşan “Spotlight” takımı, Katolik Kilisesi’ndeki taciz iddilarıyla ilgili eski defterleri deşer. Bir senelik araştırmaları sonucunda, Boston’ın üst düzey dini, yasal ve idari birliğine ait on yıllarca gizlenen gerçeklere parmak basılır.",
+      "tagline": "Yalanların arasından gerçeği bul.",
+      "runtime": 129,
+      "vote": 7.8,
+      "genres": [
+        "Dram",
+        "Tarih"
+      ],
+      "director": "Tom McCarthy",
+      "cast": [
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams",
+        "Liev Schreiber",
+        "John Slattery"
+      ],
+      "poster_path": "/6LIgss0b6Si4ZQgMoDtW1zgabvT.jpg"
+    },
+    {
+      "id": 266856,
+      "title": "Her Şeyin Teorisi",
+      "original_title": "The Theory of Everything",
+      "year": "2014",
+      "release_date": "2014-11-07",
+      "overview": "Film, modern bilim ve teknoloji tarihini değiştiren İngiliz fizikçi ve teorisyen Stephen Hawking'in hayatından bir kesiti ele alıyor. Odak noktası olarak Hawking'in 1965 ve 1991 yılları arasında evli kaldığı ilk eşi Jane Wilde ile olan ilişkini konu alan filmde, öğrencilik yıllarında başlayan ilişkilerine, birlikte bilim adına yaptıklarına ve ALS hastalığının teşhisiyle yaşadıkları sarsıntılara tanık olacağız.",
+      "tagline": "",
+      "runtime": 123,
+      "vote": 7.8,
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "director": "James Marsh",
+      "cast": [
+        "Eddie Redmayne",
+        "Felicity Jones",
+        "Charlie Cox",
+        "Emily Watson",
+        "Simon McBurney"
+      ],
+      "poster_path": "/1SN2W7YU6dAFogd2DIR7MxvcpPu.jpg"
+    },
+    {
+      "id": 84892,
+      "title": "Saksı Olmanın Faydaları",
+      "original_title": "The Perks of Being a Wallflower",
+      "year": "2012",
+      "release_date": "2012-09-20",
+      "overview": "Mektuplar aracılığıyla kimliği gizli bir şekilde anlatılan The Perks of Being a Wallflower, 90'lı yıllarda lise birinci sınıf öğrencisi olan Charlie'nin hikayesini anlatmaktadır.  Duygusal ve utangaç olan Charlie, bir yandan değişen çevresini gözlemlerken bir yandan da en iyi arkadaşı Michael'ın yakın zamandaki intiharıyla uğraşmaktadır. İngilizce öğretmeni Bill, ona okuması için fazladan kitaplar vererek hayata katılmayı öğretmeye çalışır ve Bill'in çabaları Charlie'nin deneyimleriyle açığa çıkacaktır.  Hikaye boyunca Charlie; kendisini unutmasına sebep olan kötü bir çocuklukla, kürtaj, uyuşturucu ve seksle uğraşarak, eşcinsellik ve etrafındakilerin yargılarına maruz kalarak yaşama katılmaya çalışır.  Charlie çocukluğun basitliği ve yaklaşmakta olan gelecek fikri arasında sıkışıp kalmıştır, etrafındaki dünyayı izlemek ve ona katılmak arasında sıkışıp kalmıştır, arkadaşları ve ailesinin sorunlarının ortasında sıkışıp kalmıştır…",
+      "tagline": "",
+      "runtime": 103,
+      "vote": 7.8,
+      "genres": [
+        "Dram"
+      ],
+      "director": "Stephen Chbosky",
+      "cast": [
+        "Logan Lerman",
+        "Emma Watson",
+        "Ezra Miller",
+        "Mae Whitman",
+        "Kate Walsh"
+      ],
+      "poster_path": "/tWhthgxyMUJQjhnZYt2Oawul2hl.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 314365,
+    "title": "Spotlight",
+    "original_title": "Spotlight",
+    "year": "2015",
+    "release_date": "2015-11-06",
+    "overview": "Gerçek bir hikayeden uyarlanan Spotlight, taciz olayıyla gündeme gelen bir kilisenin kendini aklamaya çalışmasını ve bu tacizi aydınlatmaya çalışan Boston Globe gazetesi yazarlarını konu alıyor. Gazetenin yazarlarından oluşan “Spotlight” takımı, Katolik Kilisesi’ndeki taciz iddilarıyla ilgili eski defterleri deşer. Bir senelik araştırmaları sonucunda, Boston’ın üst düzey dini, yasal ve idari birliğine ait on yıllarca gizlenen gerçeklere parmak basılır.",
+    "tagline": "Yalanların arasından gerçeği bul.",
+    "runtime": 129,
+    "vote": 7.8,
+    "genres": [
+      "Dram",
+      "Tarih"
+    ],
+    "director": "Tom McCarthy",
+    "cast": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams",
+      "Liev Schreiber",
+      "John Slattery"
+    ],
+    "poster_path": "/6LIgss0b6Si4ZQgMoDtW1zgabvT.jpg"
+  }
+}

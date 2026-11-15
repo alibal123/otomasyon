@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-16",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: dram filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 322, \"title\": \"Gizemli Nehir\", \"year\": \"2003\", \"overview\": \"19 yaşındaki bir genç kızın trajik cinayeti, hâlâ Boston'da yaşayan üç çocukluk arkadaşını yeniden bir araya getirir: Kurbanın mafya olan babası, bir dedektif ve her ikisinin de kızı öldürdüğünden şüphelendiği sorunlu bir adam.\", \"genres\": [\"Gerilim\", \"Dram\", \"Gizem\", \"Suç\"], \"vote\": 7.7}, {\"id\": 334, \"title\": \"Manolya\", \"year\": \"1999\", \"overview\": \"San Fernando Valley'de sıradan bir günde ölmek üzere olan bir baba, genç karısı, bir erkek bakıcı, kaybolmuş ünlü bir oğul, aşık bir polis, dahi bir çocuk, eskiden dahi bir çocuk olan bir adam, bir şov programı sunucusu ve yabancılaşmış bir kız bir hikayenin farklı parçalarında yerlerini alacaklardır. Bu insanlar, unutulmaz bir heyecanla sonlanacak bu gün içinde, şans, hareket, geride bırakılan zaman ve rastlantılar yumağında adeta birbirlerinin hayatlarının içinden zikzaklar çizerek geçecek ve birbirlerini çözümleyeceklerdir.\", \"genres\": [\"Dram\"], \"vote\": 7.7}, {\"id\": 12405, \"title\": \"Milyoner\", \"year\": \"2008\", \"overview\": \"Jamal Malik, Mumbai’nin gecekondu mahallelerinden birinde yaşayan 18 yaşında bir yetimdir. Hindistan’da katıldığı bir bilgi yarışmasında 20 milyon rupi kazanmasına sadece bir adım kalmıştır. Şovun o gecelik bitmesinin ardından Jamal, eğitimsiz olan birinin bu kadar büyük başarıyı ancak hile yoluyla gösterebileceğinden şüphelenilip tutuklanır. Ama yarışmadaki her sorunun cevabıyla o gece Jamal’ın inanılması zor ama gerçek hikayesi ortaya çıkacaktır. Fakat sadece bir soru gizemini korur...\", \"genres\": [\"Dram\", \"Romantik\"], \"vote\": 7.7}, {\"id\": 2108, \"title\": \"Kahvaltı Kulübü\", \"year\": \"1985\", \"overview\": \"Cumartesi günü kaldıkları cezada okulun sporcusu, dâhisi, zorbası, prensesi ve yalnız genci, sosyal engelleri ezip geçer.\", \"genres\": [\"Komedi\", \"Dram\"], \"vote\": 7.7}, {\"id\": 703, \"title\": \"Annie Hall\", \"year\": \"1977\", \"overview\": \"New York'lu komedyen yazar Alvy Singer aşkın peşinden gitmek istese de, yaşadığı entellektüel ortamda aradığını bulabileceği konusunda oldukça umutsuzdur. En az kendisi kadar nörotik olan şarkıcı Annie Hall ile tanışması ise önyargılarını sona erdirir. Yoğun olduğu kadar farklı olan bir ilişki yaşamaya başlarlar. Annie Hall'u etkileyici kılan, aşk üzerine öncekilerden farklı şeyler söylemeye çalışması. Komedi ve romantizm karışımı film, 70ler de gezinmek isteyenler ya da klişe aşk tasvirlerinden sıkılmışlar için iyi bir alternatif.\", \"genres\": [\"Komedi\", \"Dram\", \"Romantik\"], \"vote\": 7.7}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 322,
+      "title": "Gizemli Nehir",
+      "original_title": "Mystic River",
+      "year": "2003",
+      "release_date": "2003-10-08",
+      "overview": "19 yaşındaki bir genç kızın trajik cinayeti, hâlâ Boston'da yaşayan üç çocukluk arkadaşını yeniden bir araya getirir: Kurbanın mafya olan babası, bir dedektif ve her ikisinin de kızı öldürdüğünden şüphelendiği sorunlu bir adam.",
+      "tagline": "",
+      "runtime": 138,
+      "vote": 7.7,
+      "genres": [
+        "Gerilim",
+        "Dram",
+        "Gizem",
+        "Suç"
+      ],
+      "director": "Clint Eastwood",
+      "cast": [
+        "Sean Penn",
+        "Tim Robbins",
+        "Kevin Bacon",
+        "Laurence Fishburne",
+        "Marcia Gay Harden"
+      ],
+      "poster_path": "/pOEg2nv49wvrEHd9qxPQCnb8y3p.jpg"
+    },
+    {
+      "id": 334,
+      "title": "Manolya",
+      "original_title": "Magnolia",
+      "year": "1999",
+      "release_date": "1999-12-17",
+      "overview": "San Fernando Valley'de sıradan bir günde ölmek üzere olan bir baba, genç karısı, bir erkek bakıcı, kaybolmuş ünlü bir oğul, aşık bir polis, dahi bir çocuk, eskiden dahi bir çocuk olan bir adam, bir şov programı sunucusu ve yabancılaşmış bir kız bir hikayenin farklı parçalarında yerlerini alacaklardır. Bu insanlar, unutulmaz bir heyecanla sonlanacak bu gün içinde, şans, hareket, geride bırakılan zaman ve rastlantılar yumağında adeta birbirlerinin hayatlarının içinden zikzaklar çizerek geçecek ve birbirlerini çözümleyeceklerdir.",
+      "tagline": "",
+      "runtime": 189,
+      "vote": 7.7,
+      "genres": [
+        "Dram"
+      ],
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Tom Cruise",
+        "Philip Baker Hall",
+        "Philip Seymour Hoffman",
+        "Julianne Moore",
+        "William H. Macy"
+      ],
+      "poster_path": "/e4FG8gmQmJLF7519AZKq5SaI9ME.jpg"
+    },
+    {
+      "id": 12405,
+      "title": "Milyoner",
+      "original_title": "Slumdog Millionaire",
+      "year": "2008",
+      "release_date": "2008-11-12",
+      "overview": "Jamal Malik, Mumbai’nin gecekondu mahallelerinden birinde yaşayan 18 yaşında bir yetimdir. Hindistan’da katıldığı bir bilgi yarışmasında 20 milyon rupi kazanmasına sadece bir adım kalmıştır. Şovun o gecelik bitmesinin ardından Jamal, eğitimsiz olan birinin bu kadar büyük başarıyı ancak hile yoluyla gösterebileceğinden şüphelenilip tutuklanır. Ama yarışmadaki her sorunun cevabıyla o gece Jamal’ın inanılması zor ama gerçek hikayesi ortaya çıkacaktır. Fakat sadece bir soru gizemini korur...",
+      "tagline": "",
+      "runtime": 120,
+      "vote": 7.7,
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Danny Boyle",
+      "cast": [
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal",
+        "Anil Kapoor",
+        "महेश मांजरेकर"
+      ],
+      "poster_path": "/kUWM6uZXAf5oodgCOQcpnoLXFIc.jpg"
+    },
+    {
+      "id": 2108,
+      "title": "Kahvaltı Kulübü",
+      "original_title": "The Breakfast Club",
+      "year": "1985",
+      "release_date": "1985-02-15",
+      "overview": "Cumartesi günü kaldıkları cezada okulun sporcusu, dâhisi, zorbası, prensesi ve yalnız genci, sosyal engelleri ezip geçer.",
+      "tagline": "",
+      "runtime": 97,
+      "vote": 7.7,
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "director": "John Hughes",
+      "cast": [
+        "Emilio Estevez",
+        "Judd Nelson",
+        "Molly Ringwald",
+        "Anthony Michael Hall",
+        "Ally Sheedy"
+      ],
+      "poster_path": "/jbKof9flJpS85uvse8mCUHDq3tU.jpg"
+    },
+    {
+      "id": 703,
+      "title": "Annie Hall",
+      "original_title": "Annie Hall",
+      "year": "1977",
+      "release_date": "1977-04-19",
+      "overview": "New York'lu komedyen yazar Alvy Singer aşkın peşinden gitmek istese de, yaşadığı entellektüel ortamda aradığını bulabileceği konusunda oldukça umutsuzdur. En az kendisi kadar nörotik olan şarkıcı Annie Hall ile tanışması ise önyargılarını sona erdirir. Yoğun olduğu kadar farklı olan bir ilişki yaşamaya başlarlar. Annie Hall'u etkileyici kılan, aşk üzerine öncekilerden farklı şeyler söylemeye çalışması. Komedi ve romantizm karışımı film, 70ler de gezinmek isteyenler ya da klişe aşk tasvirlerinden sıkılmışlar için iyi bir alternatif.",
+      "tagline": "",
+      "runtime": 93,
+      "vote": 7.7,
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Woody Allen",
+      "cast": [
+        "Diane Keaton",
+        "Woody Allen",
+        "Tony Roberts",
+        "Carol Kane",
+        "Paul Simon"
+      ],
+      "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg"
+    }
+  ]
+}

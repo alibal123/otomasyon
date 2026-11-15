@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-18",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Ben Senin Zencin Değilim\", \"year\": \"2017\", \"overview\": \"Yazar James Baldwin, bitmemiş romanı Remember This House ile modern Amerika'daki seçim yarışlarındaki olyları anlatıyor.\", \"tagline\": \"\", \"genres\": [\"Belgesel\"], \"director\": \"Raoul Peck\", \"cast\": [\"Samuel L. Jackson\", \"James Baldwin\", \"Martin Luther King Jr.\", \"Malcolm X\", \"Arnold Schwarzenegger\"], \"runtime\": 93, \"vote\": 7.7}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 411019,
+      "title": "Ben Senin Zencin Değilim",
+      "original_title": "I Am Not Your Negro",
+      "year": "2017",
+      "release_date": "2017-02-03",
+      "overview": "Yazar James Baldwin, bitmemiş romanı Remember This House ile modern Amerika'daki seçim yarışlarındaki olyları anlatıyor.",
+      "tagline": "",
+      "runtime": 93,
+      "vote": 7.7,
+      "genres": [
+        "Belgesel"
+      ],
+      "director": "Raoul Peck",
+      "cast": [
+        "Samuel L. Jackson",
+        "James Baldwin",
+        "Martin Luther King Jr.",
+        "Malcolm X",
+        "Arnold Schwarzenegger"
+      ],
+      "poster_path": "/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-17",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Vahşi Robot\", \"year\": \"2024\", \"overview\": \"Bir gemi kazasının ardından Roz adında zeki bir robot, kimsenin yaşamadığı ıssız bir adada karaya vurur. Bu zorlu ortamda hayatta kalabilmek için adadaki hayvanlarla bağ kurar ve öksüz kalmış bir kaz yavrusuna bakıcılık yapmaya başlar.\", \"tagline\": \"Gerçek doğanı keşfet.\", \"genres\": [\"Aile\", \"Animasyon\", \"Bilim-Kurgu\", \"Macera\"], \"director\": \"Chris Sanders\", \"cast\": [\"Lupita Nyong'o\", \"Pedro Pascal\", \"Kit Connor\", \"Bill Nighy\", \"Stephanie Hsu\"], \"runtime\": 102, \"vote\": 8.3}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1184918,
+      "title": "Vahşi Robot",
+      "original_title": "The Wild Robot",
+      "year": "2024",
+      "release_date": "2024-09-12",
+      "overview": "Bir gemi kazasının ardından Roz adında zeki bir robot, kimsenin yaşamadığı ıssız bir adada karaya vurur. Bu zorlu ortamda hayatta kalabilmek için adadaki hayvanlarla bağ kurar ve öksüz kalmış bir kaz yavrusuna bakıcılık yapmaya başlar.",
+      "tagline": "Gerçek doğanı keşfet.",
+      "runtime": 102,
+      "vote": 8.3,
+      "genres": [
+        "Aile",
+        "Animasyon",
+        "Bilim-Kurgu",
+        "Macera"
+      ],
+      "director": "Chris Sanders",
+      "cast": [
+        "Lupita Nyong'o",
+        "Pedro Pascal",
+        "Kit Connor",
+        "Bill Nighy",
+        "Stephanie Hsu"
+      ],
+      "poster_path": "/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg"
+    }
+  ]
+}
