@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-24",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"Mulholland Çıkmazı\", \"year\": \"2001\", \"overview\": \"Betty Elms, ünlü bir oyuncu olabilmek umuduyla geldiği Los Angeles'ta, Kanada'ya taşınmaya karar veren teyzesinin yaşadığı apartman dairesine taşınır. Daireye yerleşmek için geldiğinde bir trafik kazası geçiren ve hafızasını kaybettiği için orada saklanan Rita'yı bulur. Betty kendisi ile ilgili her şeyi unutmuş bu kadına yardım etmeye karar verir. Bilinç ve bilinçaltı birbirlerine karışır. Bütün bu hayatlar birbirine girer.\", \"tagline\": \"Yıldız olmayı isteyen bir oyuncu. Kendini arayan bir kadın. Her iki dünya... Mulholland Drive'da çarpışacak.\", \"genres\": [\"Gerilim\", \"Dram\", \"Gizem\"], \"director\": \"David Lynch\", \"cast\": [\"Naomi Watts\", \"Laura Harring\", \"Justin Theroux\", \"Ann Miller\", \"Mark Pellegrino\"], \"runtime\": 147, \"vote\": 7.8}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1018,
+      "title": "Mulholland Çıkmazı",
+      "original_title": "Mulholland Drive",
+      "year": "2001",
+      "release_date": "2001-06-06",
+      "overview": "Betty Elms, ünlü bir oyuncu olabilmek umuduyla geldiği Los Angeles'ta, Kanada'ya taşınmaya karar veren teyzesinin yaşadığı apartman dairesine taşınır. Daireye yerleşmek için geldiğinde bir trafik kazası geçiren ve hafızasını kaybettiği için orada saklanan Rita'yı bulur. Betty kendisi ile ilgili her şeyi unutmuş bu kadına yardım etmeye karar verir. Bilinç ve bilinçaltı birbirlerine karışır. Bütün bu hayatlar birbirine girer.",
+      "tagline": "Yıldız olmayı isteyen bir oyuncu. Kendini arayan bir kadın. Her iki dünya... Mulholland Drive'da çarpışacak.",
+      "runtime": 147,
+      "vote": 7.8,
+      "genres": [
+        "Gerilim",
+        "Dram",
+        "Gizem"
+      ],
+      "director": "David Lynch",
+      "cast": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino"
+      ],
+      "poster_path": "/dlb343fQkqHDJMD2XxHPYaqmp94.jpg"
+    }
+  ]
+}

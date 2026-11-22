@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-28",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: suç filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 385687, \"title\": \"Hızlı ve Öfkeli 10\", \"year\": \"2023\", \"overview\": \"Birçok görevde ve imkansız şartlar altında, Dom Toretto ve ailesi yolundaki her düşmanı kurnazlıkla, cesaretle ve sürüş becerileriyle alt ettiler. Şimdiyse, geçmişin gölgelerinden çıkan kan intikamıyla güçlenmiş ve Dom'un sevdiği her şeyi ve herkesi sonsuza dek yok etmeye kararlı dehşet verici bir tehditle karşı karşıyalar - hayatlarının en ölümcül düşmanıyla.\", \"genres\": [\"Aksiyon\", \"Suç\", \"Gerilim\"], \"vote\": 7.0}, {\"id\": 328387, \"title\": \"Oyun\", \"year\": \"2016\", \"overview\": \"Lise son sınıf öğrencisi Vee (Emma Roberts) Nerve adlı, doğruluk cesaret oyununun sadece cesaret kısmının yer aldığı bir sanal gerçeklik oyununa katılır. Ancak zaman geçtikçe iş oyun olmaktan çıkar, nitekim hareketlerinin oyunun \\\"izleyenleri\\\" tarafından manipüle edildiğini fark edecektir.\", \"genres\": [\"Gizem\", \"Macera\", \"Suç\"], \"vote\": 7.0}, {\"id\": 597208, \"title\": \"Kabus Sokağı\", \"year\": \"2021\", \"overview\": \"Stanton ‘Stan’ Carlisle, kasaba kasaba dolaşan bir karnavalın ekibine katılmıştır. Amacı ise Matmazel Zeena'nın ve alkolik kocası Pete'in \\\"zihin okuma\\\" numaralarının sırrını çözmektir. Ancak bu konuda bir türlü başarılı olamamıştır. Ancak Pete öldüğünde, Zeena Stan'i ortağı olarak kabul etmeye zorlanır. Kısa sürede Stan, insanları manipüle edip dolandırma işinde Zeena'nın rahmetli eşinden çok daha yetenekli olduğunu kanıtlar. Hırslanan Stan, dolandırıcılık oyununu kendi başına da yapabileceğine inanmaya başlar. Ancak Zeena ile rekabete giriştiğinde hiç ummadığı tehlikelerle yüzleşmek zorunda kalacaktır...\", \"genres\": [\"Suç\", \"Dram\", \"Gerilim\"], \"vote\": 6.9}, {\"id\": 97367, \"title\": \"Babadan Oğula\", \"year\": \"2013\", \"overview\": \"Luke, yetenekli bir motosiklet sürücüsüdür ve dublörlük yaptığı karnaval kumpanyası ile şehir şehir gezmektedir. New York’a döndüğünde eski sevgilisi Romina ile yeniden karşılaşır ve kendi oğlu olan Jason’ı dünyaya getirdiğini öğrenir. Luke, yollarda geçen hayatını düzene sokma ve ailesiyle yeni bir yaşam kurma kararı alır. Araba tamircisi olarak yanında çalışmaya başladığı Robin, kısa sürede Luke’un yeteneklerini keşfeder ve yapılacak bir dizi banka soygunu için kendisine ortak olmasını ister. Bu teklif, tek amacı karısı ve çocuğu için daha iyi bir hayat sağlamak olan Luke’u hırslı polis memuru Avery Crossile karşı karşıya getirecektir.\", \"genres\": [\"Dram\", \"Suç\"], \"vote\": 7.0}, {\"id\": 664413, \"title\": \"365 Gün\", \"year\": \"2020\", \"overview\": \"Tutkusuz bir ilişki yaşayan ateşli bir yönetici, dominant bir mafya babasının eline düşer. Adam kaçırıp hapsettiği kadına, ona âşık olması için bir yıl verir.\", \"genres\": [\"Romantik\", \"Dram\", \"Suç\"], \"vote\": 7.0}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 385687,
+      "title": "Hızlı ve Öfkeli 10",
+      "original_title": "Fast X",
+      "year": "2023",
+      "release_date": "2023-05-17",
+      "overview": "Birçok görevde ve imkansız şartlar altında, Dom Toretto ve ailesi yolundaki her düşmanı kurnazlıkla, cesaretle ve sürüş becerileriyle alt ettiler. Şimdiyse, geçmişin gölgelerinden çıkan kan intikamıyla güçlenmiş ve Dom'un sevdiği her şeyi ve herkesi sonsuza dek yok etmeye kararlı dehşet verici bir tehditle karşı karşıyalar - hayatlarının en ölümcül düşmanıyla.",
+      "tagline": "Yolun sonu başlıyor.",
+      "runtime": 142,
+      "vote": 7.0,
+      "genres": [
+        "Aksiyon",
+        "Suç",
+        "Gerilim"
+      ],
+      "director": "Louis Leterrier",
+      "cast": [
+        "Vin Diesel",
+        "Michelle Rodriguez",
+        "Tyrese Gibson",
+        "Ludacris",
+        "John Cena"
+      ],
+      "poster_path": "/Am1mIWClibXSNcDudFRV9F9RdBm.jpg"
+    },
+    {
+      "id": 328387,
+      "title": "Oyun",
+      "original_title": "Nerve",
+      "year": "2016",
+      "release_date": "2016-06-27",
+      "overview": "Lise son sınıf öğrencisi Vee (Emma Roberts) Nerve adlı, doğruluk cesaret oyununun sadece cesaret kısmının yer aldığı bir sanal gerçeklik oyununa katılır. Ancak zaman geçtikçe iş oyun olmaktan çıkar, nitekim hareketlerinin oyunun \"izleyenleri\" tarafından manipüle edildiğini fark edecektir.",
+      "tagline": "Oyun",
+      "runtime": 96,
+      "vote": 7.0,
+      "genres": [
+        "Gizem",
+        "Macera",
+        "Suç"
+      ],
+      "director": "Henry Joost",
+      "cast": [
+        "Emma Roberts",
+        "Dave Franco",
+        "Emily Meade",
+        "Miles Heizer",
+        "Juliette Lewis"
+      ],
+      "poster_path": "/UDImGGkhUft4iqvquT6D16YdCh.jpg"
+    },
+    {
+      "id": 597208,
+      "title": "Kabus Sokağı",
+      "original_title": "Nightmare Alley",
+      "year": "2021",
+      "release_date": "2021-12-02",
+      "overview": "Stanton ‘Stan’ Carlisle, kasaba kasaba dolaşan bir karnavalın ekibine katılmıştır. Amacı ise Matmazel Zeena'nın ve alkolik kocası Pete'in \"zihin okuma\" numaralarının sırrını çözmektir. Ancak bu konuda bir türlü başarılı olamamıştır. Ancak Pete öldüğünde, Zeena Stan'i ortağı olarak kabul etmeye zorlanır. Kısa sürede Stan, insanları manipüle edip dolandırma işinde Zeena'nın rahmetli eşinden çok daha yetenekli olduğunu kanıtlar. Hırslanan Stan, dolandırıcılık oyununu kendi başına da yapabileceğine inanmaya başlar. Ancak Zeena ile rekabete giriştiğinde hiç ummadığı tehlikelerle yüzleşmek zorunda kalacaktır...",
+      "tagline": "İnsan mı yoksa canavar mı?",
+      "runtime": 150,
+      "vote": 6.9,
+      "genres": [
+        "Suç",
+        "Dram",
+        "Gerilim"
+      ],
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Bradley Cooper",
+        "Cate Blanchett",
+        "Toni Collette",
+        "Willem Dafoe",
+        "Richard Jenkins"
+      ],
+      "poster_path": "/gthdiTaDPbkutLGYsty7G3vxIYK.jpg"
+    },
+    {
+      "id": 97367,
+      "title": "Babadan Oğula",
+      "original_title": "The Place Beyond the Pines",
+      "year": "2013",
+      "release_date": "2013-03-20",
+      "overview": "Luke, yetenekli bir motosiklet sürücüsüdür ve dublörlük yaptığı karnaval kumpanyası ile şehir şehir gezmektedir. New York’a döndüğünde eski sevgilisi Romina ile yeniden karşılaşır ve kendi oğlu olan Jason’ı dünyaya getirdiğini öğrenir. Luke, yollarda geçen hayatını düzene sokma ve ailesiyle yeni bir yaşam kurma kararı alır. Araba tamircisi olarak yanında çalışmaya başladığı Robin, kısa sürede Luke’un yeteneklerini keşfeder ve yapılacak bir dizi banka soygunu için kendisine ortak olmasını ister. Bu teklif, tek amacı karısı ve çocuğu için daha iyi bir hayat sağlamak olan Luke’u hırslı polis memuru Avery Crossile karşı karşıya getirecektir.",
+      "tagline": "Yıldırım hızıyla gidersen şimşek gibi çakılırsın.",
+      "runtime": 140,
+      "vote": 7.0,
+      "genres": [
+        "Dram",
+        "Suç"
+      ],
+      "director": "Derek Cianfrance",
+      "cast": [
+        "Ryan Gosling",
+        "Bradley Cooper",
+        "Eva Mendes",
+        "Rose Byrne",
+        "Ray Liotta"
+      ],
+      "poster_path": "/szRRnzrkkgYOY0YhjZb6GwPUbgS.jpg"
+    },
+    {
+      "id": 664413,
+      "title": "365 Gün",
+      "original_title": "365 dni",
+      "year": "2020",
+      "release_date": "2020-02-07",
+      "overview": "Tutkusuz bir ilişki yaşayan ateşli bir yönetici, dominant bir mafya babasının eline düşer. Adam kaçırıp hapsettiği kadına, ona âşık olması için bir yıl verir.",
+      "tagline": "",
+      "runtime": 114,
+      "vote": 7.0,
+      "genres": [
+        "Romantik",
+        "Dram",
+        "Suç"
+      ],
+      "director": "Barbara Białowąs",
+      "cast": [
+        "Anna-Maria Sieklucka",
+        "Michele Morrone",
+        "Bronisław Wrocławski",
+        "Otar Saralidze",
+        "Magdalena Lamparska"
+      ],
+      "poster_path": "/jlJsRsfdUocJU5Za7exTIwBDK8E.jpg"
+    }
+  ]
+}

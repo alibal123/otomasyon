@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-26",
+  "kind": "quiz",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {
+    "secenekler": [
+      "Beşinci Güç",
+      "Kapan",
+      "Prey"
+    ],
+    "dogru_index": 2
+  },
+  "istek": "Quiz hazırla. Doğru cevap filmi: {\"title\": \"Prey\", \"year\": \"2022\", \"overview\": \"300 yıl önce Comanche Nation'da geçen Prey, azılı ve çok yetenekli bir savaşçı olan genç bir kadın olan Naru'nun hikayesini konu ediyor. Great Plains'de dolaşan en efsanevi avcıların gölgesinde büyüyen, yetenekli bir kadın savaşçı olan Naru, kabilesi büyük bir tehlike tarafından tehdit edildiğinde insanlarını korumak için harekete geçer. Naru, kabilesini Dünya'ya inen, teknik olarak gelişmiş bir cephaneliğe sahip, son derece gelişmiş avılara karşı korumak için zorlu bir mücadeleye girişir.\", \"tagline\": \"Yaşamak için avlanıyor, avlanmak için yaşıyor.\", \"director\": \"Dan Trachtenberg\", \"cast\": [\"Amber Midthunder\", \"Dakota Beavers\", \"Michelle Thrush\", \"Stormee Kipp\", \"Julian Black Antelope\"], \"genres\": [\"Gerilim\", \"Aksiyon\", \"Bilim-Kurgu\"]}\nSeçenekler (sıra sabit, kodla belirlendi): [\"Beşinci Güç\", \"Kapan\", \"Prey\"]\nSoru, doğru filmi konusundan/oyuncularından/yönetmeninden ima etsin ama ASLA doğru filmin adını yazmasın (ne soruda ne açıklamada ne gönderi metninde cevap açığa çıkmasın).\nJSON: {\"soru\":\"<=150 karakter\",\"aciklama\":\"<=230 karakter, yalnızca verilen verilerle neden doğru\",\"gonderi\":\"<=500 karakter, cevabı yorumlarda tahmin etmeye davet et, cevabı SÖYLEME\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 766507,
+      "title": "Prey",
+      "original_title": "Prey",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "overview": "300 yıl önce Comanche Nation'da geçen Prey, azılı ve çok yetenekli bir savaşçı olan genç bir kadın olan Naru'nun hikayesini konu ediyor. Great Plains'de dolaşan en efsanevi avcıların gölgesinde büyüyen, yetenekli bir kadın savaşçı olan Naru, kabilesi büyük bir tehlike tarafından tehdit edildiğinde insanlarını korumak için harekete geçer. Naru, kabilesini Dünya'ya inen, teknik olarak gelişmiş bir cephaneliğe sahip, son derece gelişmiş avılara karşı korumak için zorlu bir mücadeleye girişir.",
+      "tagline": "Yaşamak için avlanıyor, avlanmak için yaşıyor.",
+      "runtime": 100,
+      "vote": 7.6,
+      "genres": [
+        "Gerilim",
+        "Aksiyon",
+        "Bilim-Kurgu"
+      ],
+      "director": "Dan Trachtenberg",
+      "cast": [
+        "Amber Midthunder",
+        "Dakota Beavers",
+        "Michelle Thrush",
+        "Stormee Kipp",
+        "Julian Black Antelope"
+      ],
+      "poster_path": "/3zind2VqZjPVOZeHPYCsjvxbhwg.jpg"
+    },
+    {
+      "id": 419430,
+      "title": "Kapan",
+      "original_title": "Get Out",
+      "year": "2017",
+      "release_date": "2017-02-24",
+      "overview": "Chris Washington, kız arkadaşı Rose Armitage ile uzak mesafe ilişkisi yaşayan bir gençtir. Bir gün Rose, Chris’i hafta sonu kaçamağı için ailesinin evine çağırır. Rose’un annesi Missy ve babası Dean de onlara katılır. Başta Chris, Rose’un ailesinden güzel tepki almasına şaşırır, bir yandan da kıllanır. Çünkü dönem gereği bir beyaz ve siyahinin ilişkisine sıcak bakılmamaktadır. Bu durum kafasını karıştırırken bir yandan da evde siyahi kişilerin bir bir kaybolduğunu öğrenmesi onu bir bilinmezliğe doğru itecek ve gerçeklerle yüzleştirecektir.",
+      "tagline": "Davet edilmen, hoş karşılanacağın anlamına gelmez.",
+      "runtime": 104,
+      "vote": 7.6,
+      "genres": [
+        "Gizem",
+        "Gerilim",
+        "Korku"
+      ],
+      "director": "Jordan Peele",
+      "cast": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones"
+      ],
+      "poster_path": "/2Uo7WiwHKb27i8Qskqy4arxaoLz.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Beşinci Güç",
+      "original_title": "Le Cinquième Élément",
+      "year": "1997",
+      "release_date": "1997-05-02",
+      "overview": "23. yüzyılda New York. Dünya yok olmanın eşiğindedir. Her 5000 yılda bir geri dönerek yaşamı yok etmeye çalışan şeytani güç, bir gezegen biçiminde hızla dünyaya yaklaşmaktadır. Tek kurtuluş beşinci güç olarak adlandırılan, kimsenin ne olduğunu bilmediği elementin dünyaya ulaşmasıdır.Bunu başaracak tek kişi eski bir asker olan taksi şoförü Korben Dallas'dır. Ancak onun ilgilenmesi gereken mükemmel güzellikte bir yaratık vardır.",
+      "tagline": "",
+      "runtime": 126,
+      "vote": 7.6,
+      "genres": [
+        "Bilim-Kurgu",
+        "Aksiyon",
+        "Macera"
+      ],
+      "director": "Luc Besson",
+      "cast": [
+        "Bruce Willis",
+        "Milla Jovovich",
+        "Gary Oldman",
+        "Ian Holm",
+        "Chris Tucker"
+      ],
+      "poster_path": "/Q2sXW0nceeGhJNRfB6X3oVYzG0.jpg"
+    }
+  ],
+  "dogru_film": {
+    "id": 766507,
+    "title": "Prey",
+    "original_title": "Prey",
+    "year": "2022",
+    "release_date": "2022-08-05",
+    "overview": "300 yıl önce Comanche Nation'da geçen Prey, azılı ve çok yetenekli bir savaşçı olan genç bir kadın olan Naru'nun hikayesini konu ediyor. Great Plains'de dolaşan en efsanevi avcıların gölgesinde büyüyen, yetenekli bir kadın savaşçı olan Naru, kabilesi büyük bir tehlike tarafından tehdit edildiğinde insanlarını korumak için harekete geçer. Naru, kabilesini Dünya'ya inen, teknik olarak gelişmiş bir cephaneliğe sahip, son derece gelişmiş avılara karşı korumak için zorlu bir mücadeleye girişir.",
+    "tagline": "Yaşamak için avlanıyor, avlanmak için yaşıyor.",
+    "runtime": 100,
+    "vote": 7.6,
+    "genres": [
+      "Gerilim",
+      "Aksiyon",
+      "Bilim-Kurgu"
+    ],
+    "director": "Dan Trachtenberg",
+    "cast": [
+      "Amber Midthunder",
+      "Dakota Beavers",
+      "Michelle Thrush",
+      "Stormee Kipp",
+      "Julian Black Antelope"
+    ],
+    "poster_path": "/3zind2VqZjPVOZeHPYCsjvxbhwg.jpg"
+  }
+}

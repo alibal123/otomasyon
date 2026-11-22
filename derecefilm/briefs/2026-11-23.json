@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-23",
+  "kind": "list",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "Tema: komedi filmleri. Aşağıdaki 5 filmle bir liste gönderisi hazırla.\nFilmler: [{\"id\": 200727, \"title\": \"Love, Rosie\", \"year\": \"2014\", \"overview\": \"Rosie (Lily Collins) ve Alex (Sam Claflin) 5 yaşlarından beri çok iyi arkadaştırlar. Birbirlerini başka gözle hiç bakmamışlardır, ya da gerçekten öyle midir? 18 yaşında yaptıkları seçimler sonucu birbirilerinden uzaklaşırlar. Yıllar sonra aralarına mesafeler girdikten sonra geçmişte yaşadıklarını ve anılarını unutmayı başaramamışlardır.\", \"genres\": [\"Romantik\", \"Dram\", \"Komedi\"], \"vote\": 7.8}, {\"id\": 83666, \"title\": \"Moonrise Kingdom\", \"year\": \"2012\", \"overview\": \"1965'in yazında New England açıklarındaki bir adada geçen hikâye ilk aşk ve büyülü bir yazı anlatıyor. 12 yaşındaki iki çocuğun birbirlerine aşık olup, gizlice anlaşarak vahşi doğaya kaçar. Yetkililer onları bulmaya çalışırken, kuvvetli bir fırtına da adaya doğru yaklaşmaktadır. Barış dolu ada halkının hayatı hiç kimsenin baş edemeyeceği biçimde alt üst olmuştur.\", \"genres\": [\"Komedi\", \"Dram\", \"Romantik\"], \"vote\": 7.7}, {\"id\": 762, \"title\": \"Monty Python ve Kutsal Kâse\", \"year\": \"1975\", \"overview\": \"Kral Arthur ve şövalyeleri, Kutsal Kâse'yi aramak için ilahi bir görev alırlar. Ancak bu yolculukta karşılarına türlü düşmanlar çıkar: kötü niyetli rakip şövalyeler, yalnızca çizgi film olarak görülebilen kanlı canavarlar, İngiltere'de bir kaleye sığınmış küstah Fransız şövalyeleri, cadılar, şeytani kahinler, Scotland Yard ve hatta bir katil tavşan! Neyse ki bu ölümcül tavşanı alt etmek için Haçlı Seferleri’nden getirilen komik bir kutsal emanetleri vardır: \\\"Antakya’nın Kutsal El Bombası!\\\"\", \"genres\": [\"Macera\", \"Komedi\", \"Fantastik\"], \"vote\": 7.8}, {\"id\": 808, \"title\": \"Şrek\", \"year\": \"2001\", \"overview\": \"Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür. Yalnızlığın getirisiyle, hayatının geri kalanını beraber geçirebileceği, en az kendisi kadar çirkin bir yaratık bulmanın hevesindedir. Bir kahin, kehanetini açıklar. Şrek ile güzeller güzeli bir prenses olan Fiona arasında duygusal bir ilişki cereyan edecektir. Ancak Şrek ne kadar çirkinse Fiona bir o kadar güzeldir. Oldukça garip durumlar ve vaziyetler peyda olmak üzeredir.\", \"genres\": [\"Animasyon\", \"Komedi\", \"Fantastik\", \"Macera\", \"Aile\"], \"vote\": 7.8}, {\"id\": 937278, \"title\": \"Hayata Röveşata Çeken Adam\", \"year\": \"2022\", \"overview\": \"Tek eğlencesi kendisinden bıkmış komşularını eleştirmek ve acımasızca yargılamak olan huysuz dul Otto Anderson’un dayanılmaz hikâyesini anlatıyor. Otto’nun yan dairesine hayat dolu genç ve neşeli bir aile taşındığında, Otto dişine göre bir rakiple, kıvrak zekâsı ve ağzı burnunda karnı ile Marisol ile karşılaşıyor. Marisol ve Otto’nun arasında Otto’nun hayatını ters yüz edecek bir dostluk başlıyor.\", \"genres\": [\"Komedi\", \"Dram\"], \"vote\": 7.7}]\nJSON: {\"baslik\":\"<=55 karakter, sayı içeren çarpıcı liste başlığı\",\"filmler\":[{\"id\":int,\"neden\":\"<=85 karakter\"}],\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 200727,
+      "title": "Love, Rosie",
+      "original_title": "Love, Rosie",
+      "year": "2014",
+      "release_date": "2014-10-16",
+      "overview": "Rosie (Lily Collins) ve Alex (Sam Claflin) 5 yaşlarından beri çok iyi arkadaştırlar. Birbirlerini başka gözle hiç bakmamışlardır, ya da gerçekten öyle midir? 18 yaşında yaptıkları seçimler sonucu birbirilerinden uzaklaşırlar. Yıllar sonra aralarına mesafeler girdikten sonra geçmişte yaşadıklarını ve anılarını unutmayı başaramamışlardır.",
+      "tagline": "",
+      "runtime": 102,
+      "vote": 7.8,
+      "genres": [
+        "Romantik",
+        "Dram",
+        "Komedi"
+      ],
+      "director": "Christian Ditter",
+      "cast": [
+        "Lily Collins",
+        "Sam Claflin",
+        "Christian Cooke",
+        "Tamsin Egerton",
+        "Suki Waterhouse"
+      ],
+      "poster_path": "/2HOd431LX9ggqSpBIJ7qyYhATyo.jpg"
+    },
+    {
+      "id": 83666,
+      "title": "Moonrise Kingdom",
+      "original_title": "Moonrise Kingdom",
+      "year": "2012",
+      "release_date": "2012-05-16",
+      "overview": "1965'in yazında New England açıklarındaki bir adada geçen hikâye ilk aşk ve büyülü bir yazı anlatıyor. 12 yaşındaki iki çocuğun birbirlerine aşık olup, gizlice anlaşarak vahşi doğaya kaçar. Yetkililer onları bulmaya çalışırken, kuvvetli bir fırtına da adaya doğru yaklaşmaktadır. Barış dolu ada halkının hayatı hiç kimsenin baş edemeyeceği biçimde alt üst olmuştur.",
+      "tagline": "1965 yazının fırtınalı günlerinde çocukların ve yetişkinlerin ıstırap verici ve şaşırtıcı öyküsü.",
+      "runtime": 94,
+      "vote": 7.7,
+      "genres": [
+        "Komedi",
+        "Dram",
+        "Romantik"
+      ],
+      "director": "Wes Anderson",
+      "cast": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray"
+      ],
+      "poster_path": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg"
+    },
+    {
+      "id": 762,
+      "title": "Monty Python ve Kutsal Kâse",
+      "original_title": "Monty Python and the Holy Grail",
+      "year": "1975",
+      "release_date": "1975-04-03",
+      "overview": "Kral Arthur ve şövalyeleri, Kutsal Kâse'yi aramak için ilahi bir görev alırlar. Ancak bu yolculukta karşılarına türlü düşmanlar çıkar: kötü niyetli rakip şövalyeler, yalnızca çizgi film olarak görülebilen kanlı canavarlar, İngiltere'de bir kaleye sığınmış küstah Fransız şövalyeleri, cadılar, şeytani kahinler, Scotland Yard ve hatta bir katil tavşan! Neyse ki bu ölümcül tavşanı alt etmek için Haçlı Seferleri’nden getirilen komik bir kutsal emanetleri vardır: \"Antakya’nın Kutsal El Bombası!\"",
+      "tagline": "",
+      "runtime": 91,
+      "vote": 7.8,
+      "genres": [
+        "Macera",
+        "Komedi",
+        "Fantastik"
+      ],
+      "director": "Terry Jones",
+      "cast": [
+        "Graham Chapman",
+        "John Cleese",
+        "Eric Idle",
+        "Terry Gilliam",
+        "Terry Jones"
+      ],
+      "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg"
+    },
+    {
+      "id": 808,
+      "title": "Şrek",
+      "original_title": "Shrek",
+      "year": "2001",
+      "release_date": "2001-05-18",
+      "overview": "Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür. Yalnızlığın getirisiyle, hayatının geri kalanını beraber geçirebileceği, en az kendisi kadar çirkin bir yaratık bulmanın hevesindedir. Bir kahin, kehanetini açıklar. Şrek ile güzeller güzeli bir prenses olan Fiona arasında duygusal bir ilişki cereyan edecektir. Ancak Şrek ne kadar çirkinse Fiona bir o kadar güzeldir. Oldukça garip durumlar ve vaziyetler peyda olmak üzeredir.",
+      "tagline": "Hiç anlatılmamış en büyük peri masalı.",
+      "runtime": 90,
+      "vote": 7.8,
+      "genres": [
+        "Animasyon",
+        "Komedi",
+        "Fantastik",
+        "Macera",
+        "Aile"
+      ],
+      "director": "Andrew Adamson",
+      "cast": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "John Lithgow",
+        "Vincent Cassel"
+      ],
+      "poster_path": "/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg"
+    },
+    {
+      "id": 937278,
+      "title": "Hayata Röveşata Çeken Adam",
+      "original_title": "A Man Called Otto",
+      "year": "2022",
+      "release_date": "2022-12-28",
+      "overview": "Tek eğlencesi kendisinden bıkmış komşularını eleştirmek ve acımasızca yargılamak olan huysuz dul Otto Anderson’un dayanılmaz hikâyesini anlatıyor. Otto’nun yan dairesine hayat dolu genç ve neşeli bir aile taşındığında, Otto dişine göre bir rakiple, kıvrak zekâsı ve ağzı burnunda karnı ile Marisol ile karşılaşıyor. Marisol ve Otto’nun arasında Otto’nun hayatını ters yüz edecek bir dostluk başlıyor.",
+      "tagline": "Dünyanın en huysuz adamına aşık olacaksınız.",
+      "runtime": 126,
+      "vote": 7.7,
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "director": "Marc Forster",
+      "cast": [
+        "Tom Hanks",
+        "Mariana Treviño",
+        "Cameron Britton",
+        "Mack Bayda",
+        "Manuel García-Rulfo"
+      ],
+      "poster_path": "/cB7t4qxHEedbqoGmf17Tkz7QGWi.jpg"
+    }
+  ]
+}

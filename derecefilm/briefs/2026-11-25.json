@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-25",
+  "kind": "doc",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "BELGESEL gönderisi hazırla. Film verisi: {\"title\": \"Squid Game: 2. Sezon - Kamera Arkası\", \"year\": \"2025\", \"overview\": \"Dünya genelinde izlenme rekoru kıran dizinin 2. sezonunun, set tasarımlarından karakter öykülerine kadar nasıl hayata geçirildiğini oyuncuların ve yönetmenin ağzından dinleyin.\", \"tagline\": \"\", \"genres\": [\"Belgesel\"], \"director\": null, \"cast\": [\"Hwang Dong-hyuk\", \"Lee Jung-jae\", \"Lee Byung-hun\", \"Chae Kyoung-sun\", \"Kim Ji-yong\"], \"runtime\": 28, \"vote\": 8.3}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 1412113,
+      "title": "Squid Game: 2. Sezon - Kamera Arkası",
+      "original_title": "오징어 게임: 시즌2 제작 이야기",
+      "year": "2025",
+      "release_date": "2025-01-02",
+      "overview": "Dünya genelinde izlenme rekoru kıran dizinin 2. sezonunun, set tasarımlarından karakter öykülerine kadar nasıl hayata geçirildiğini oyuncuların ve yönetmenin ağzından dinleyin.",
+      "tagline": "",
+      "runtime": 28,
+      "vote": 8.3,
+      "genres": [
+        "Belgesel"
+      ],
+      "director": null,
+      "cast": [
+        "Hwang Dong-hyuk",
+        "Lee Jung-jae",
+        "Lee Byung-hun",
+        "Chae Kyoung-sun",
+        "Kim Ji-yong"
+      ],
+      "poster_path": "/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg"
+    }
+  ]
+}

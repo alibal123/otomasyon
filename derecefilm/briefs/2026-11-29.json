@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-29",
+  "kind": "single",
+  "sistem": "Sen 'derecefilm' adlı Türkçe film Instagram hesabının editörüsün. Samimi, bilgili, kısa cümlelerle yazarsın. KURALLAR: Yalnızca brief'teki verileri kullan; verilmeyen oyuncu, ödül, gişe, yönetmen ya da sahne bilgisi UYDURMA. Spoiler verme. En fazla 3 emoji kullan. İtalik/markdown kullanma. Çıktı yalnızca geçerli bir JSON nesnesi olsun.",
+  "ekstra": {},
+  "istek": "TEK FİLM gönderisi hazırla. Film verisi: {\"title\": \"6 Süper Kahraman\", \"year\": \"2014\", \"overview\": \"6 Süper Kahraman / Big Hero 6, izleyicinin Walt Disney Animasyon Stüdyoları’ndan beklediği kalbe dokunan ve mizah dolu bir hikayeye sahip olmakla birlikte aksiyonla karışık bir komedi macera filmi...  Film, dehasının güçlerini kullanmayı öğrenen robot dahisi Hiro Hamada’yı, Hiro’ya bu konuda yardımcı olan muhteşem kardeşi Tadashi’yi, onlara çok benzeyen, macera bağımlısı olan arkadaşları GoGo Tamaga’yı, düzenli ve tatlı Wasabi No-Ginger’ı, kimya dehası Honey Lemon’ı ve fanatik Fred’in hikayesini anlatıyor. Süper Kahraman 6, kendini tehlikeli bir komplonun içinde bulunca en yakın arkadaşı olan Baymax isimli bir robotun yardımını istemek zorunda kalan robot dahisi Hiro Hamada’yı ve bir grup yüksek teknolojili kahramanının bu gizemi nasıl çözdüğünü anlatan aksiyonla karışık bir komedi macera filmi.\", \"tagline\": \"Oyunbozan Ralph ve Karlar Ülkesi'nin Yaratıcılarından\", \"genres\": [\"Macera\", \"Aile\", \"Animasyon\", \"Aksiyon\", \"Komedi\"], \"director\": \"Don Hall\", \"cast\": [\"Scott Adsit\", \"Ryan Potter\", \"Daniel Henney\", \"T.J. Miller\", \"Jamie Chung\"], \"runtime\": 102, \"vote\": 7.7}\nJSON: {\"slogan\":\"<=70 karakter tek cümle\",\"neden\":\"<=360 karakter, neden izlenmeli (spoilersiz)\",\"aciklama\":\"<=650 karakter, sonda bir soru\",\"etiketler\":[\"en fazla 6, # olmadan\"]}",
+  "filmler": [
+    {
+      "id": 177572,
+      "title": "6 Süper Kahraman",
+      "original_title": "Big Hero 6",
+      "year": "2014",
+      "release_date": "2014-10-24",
+      "overview": "6 Süper Kahraman / Big Hero 6, izleyicinin Walt Disney Animasyon Stüdyoları’ndan beklediği kalbe dokunan ve mizah dolu bir hikayeye sahip olmakla birlikte aksiyonla karışık bir komedi macera filmi...  Film, dehasının güçlerini kullanmayı öğrenen robot dahisi Hiro Hamada’yı, Hiro’ya bu konuda yardımcı olan muhteşem kardeşi Tadashi’yi, onlara çok benzeyen, macera bağımlısı olan arkadaşları GoGo Tamaga’yı, düzenli ve tatlı Wasabi No-Ginger’ı, kimya dehası Honey Lemon’ı ve fanatik Fred’in hikayesini anlatıyor. Süper Kahraman 6, kendini tehlikeli bir komplonun içinde bulunca en yakın arkadaşı olan Baymax isimli bir robotun yardımını istemek zorunda kalan robot dahisi Hiro Hamada’yı ve bir grup yüksek teknolojili kahramanının bu gizemi nasıl çözdüğünü anlatan aksiyonla karışık bir komedi macera filmi.",
+      "tagline": "Oyunbozan Ralph ve Karlar Ülkesi'nin Yaratıcılarından",
+      "runtime": 102,
+      "vote": 7.7,
+      "genres": [
+        "Macera",
+        "Aile",
+        "Animasyon",
+        "Aksiyon",
+        "Komedi"
+      ],
+      "director": "Don Hall",
+      "cast": [
+        "Scott Adsit",
+        "Ryan Potter",
+        "Daniel Henney",
+        "T.J. Miller",
+        "Jamie Chung"
+      ],
+      "poster_path": "/arU3cIkDhOyhiiPsWVzSOVqYIbU.jpg"
+    }
+  ]
+}
